@@ -1,0 +1,47 @@
+StockNum,Title,Language,ItemID,Revision,Notes,MaxQty,Status,EktronID-VIS,EktronID-Add
+C-85,Pneumococcal Conjugate Vaccine Information Statement,English,57,11/2015,,500,InStock,8590005897,60082
+C-85A,Pneumococcal Conjugate Vaccine Information Statement,Spanish,58,11/2015,,500,InStock,12884906960,60084
+C-86,Pneumococcal Polysaccharide Vaccine Information Statement,English,59,04/2015,,500,InStock,8590000387,8590001874
+C-86A,Pneumococcal Polysaccharide Vaccine Information Statement,Spanish,60,04/2015,,500,InStock,http://www.immunize.org/vis/sppne97.pdf,8590001871
+C-87,"Live, Intranasal Influenza Vaccine Information Statement",English,397,08/2015,,500,InStock,8590005898,8590000394
+C-87A,"Live, Intranasal Influenza Vaccine Information Statement",Spanish,62,08/2015,,500,InStock,60087,8590000996
+C-90,Polio Vaccine (IPV) Vaccine Information Statement,English,63,11/2011,,500,InStock,http://www.cdc.gov/vaccines/hcp/vis/vis-statements/ipv.pdf,8589972923
+C-90A,Polio Vaccine (IPV) Vaccine Information Statement,Spanish,64,11/2011,,500,InStock,http://www.immunize.org/vis/sp_pol00.pdf,12884905271
+C-91,"Diphtheria, Tetanus, and Pertussis Vaccine Information Statement",English,65,05/2007,,500,InStock,http://www.cdc.gov/vaccines/hcp/vis/vis-statements/dtap.pdf,25106
+C-91A,"Diphtheria, Tetanus, and Pertussis Vaccine Information Statement",Spanish,66,05/2007,,500,InStock,http://www.immunize.org/vis/spdtap01.pdf,60090
+C-92,"Measles, Mumps, and Rubella Vaccine Information Statement",English,67,04/2012,,500,InStock,http://www.cdc.gov/vaccines/hcp/vis/vis-statements/mmr.pdf,8589973459
+C-92A,"Measles, Mumps, and Rubella Vaccine Information Statement",Spanish,68,04/2012,,500,InStock,8589973461,8589973460
+C-93,"Influenza Vaccine (Flu Vaccine, Inactivated or Recombinant) Vaccine Information Statement",English,69,08/2015,,500,InStock,http://www.cdc.gov/vaccines/hcp/vis/vis-statements/flu.pdf,8590000393
+C-93A,"Influenza Vaccine (Flu Vaccine, Inactivated or Recombinant) Vaccine Information Statement",Spanish,70,08/2015,,500,InStock,12884904484,8590000995
+C-94,"Td Vaccine (Tetanus, Diphtheria) Vaccine Information Statement",English,71,02/2015,,500,InStock,http://www.cdc.gov/vaccines/hcp/vis/vis-statements/td.html,8590001873
+C-94A,"Td Vaccine (Tetanus, Diphtheria)Vaccine Information Statement",Spanish,72,02/2015,,500,InStock,http://www.immunize.org/vis/spanish_td.pdf,8590001879
+C-95,Hepatitis A Vaccine Information Statement,English,73,07/2016,,500,InStock,http://www.cdc.gov/vaccines/hcp/vis/vis-statements/hep-a.pdf,8589972924
+C-95A,Hepatitis A Vaccine Information Statement,Spanish,74,07/2016,,500,InStock,12884905278,12884905279
+C-96,Meningococcal Vaccine Information Statement,English,75,03/2016,,500,InStock,http://www.cdc.gov/vaccines/hcp/vis/vis-statements/mening.pdf,25115
+C-96A,Meningococcal Vaccine Information Statement,Spanish,76,03/2016,,500,InStock,25116,60098
+C-97,Chickenpox Vaccine Information Statement,English,77,03/2008,,500,InStock,http://www.cdc.gov/vaccines/hcp/vis/vis-statements/varicella.pdf,25118
+C-97A,Chickenpox Vaccine Information Statement,Spanish,78,03/2008,,500,InStock,25119,60103
+C-99,Rabies Vaccine Information Statement,English,79,10/2009,,250,InStock,http://www.cdc.gov/vaccines/hcp/vis/vis-statements/rabies.pdf,25121
+C-99A,Rabies Vaccine Information Statement,Spanish,80,10/2009,,250,InStock,25122,60106
+C-106,Hepatitis B Vaccine Information Statement,English,85,07/2016,,500,InStock,http://www.cdc.gov/vaccines/hcp/vis/vis-statements/hep-b.pdf,12884905272
+C-106A,Hepatitis B Vaccine Information Statement,Spanish,86,07/2016,,500,InStock,12884905269,12884903583
+C-108,Haemophilus Influenzae (Hib) Type b Vaccine Information Statement,English,87,04/2015,,500,InStock,http://www.cdc.gov/vaccines/hcp/vis/vis-statements/hib.pdf,8589997787
+C-108A,Hib(Haemophilus Influenzae Type b) Vaccine Information Statement,Spanish,88,04/2015,,500,InStock,http://www.cdc.gov/vaccines/hcp/vis/vis-statements/hib.pdf,60109
+C-109,"Tetanus, Diphtheria, Pertussis (Tdap) Vaccine Information Statement",English,361,02/2015,,500,InStock,http://www.cdc.gov/vaccines/hcp/vis/vis-statements/tdap.pdf,8590000390
+C-109A,"Tetanus, Diphtheria, Pertussis (Tdap) Vaccine Information Statement",Spanish,368,02/2015,,500,InStock,http://www.immunize.org/vis/spanish_tdap.pdf,8590001878
+C-110,Rotavirus Vaccine Information Statement,English,91,04/2015,,500,InStock,http://www.cdc.gov/vaccines/hcp/vis/vis-statements/rotavirus.pdf,8590000389
+C-110A,Rotavirus Vaccine Information Statement,Spanish,92,04/2015,,500,InStock,http://www.immunize.org/vis/spanish_rotavirus.pdf,8590001880
+C-111,Human Papillomavirus Vaccine (HPV-Cervarix) Vaccine Information Statement,English,93,05/2011,,500,Online,http://www.cdc.gov/vaccines/hcp/vis/vis-statements/hpv-cervarix.pdf,25096
+C-111A,Human Papillomavirus Vaccine (HPV-Cervarix) Vaccine Information Statement,Spanish,94,05/2011,,500,Online,60114,60115
+C-112,Shingles Vaccine Information Statement,English,95,10/2009,,500,InStock,http://www.cdc.gov/vaccines/hcp/vis/vis-statements/shingles.pdf,25098
+C-112A,Shingles Vaccine Information Statement,Spanish,96,10/2009,,500,InStock,http://www.immunize.org/vis/sp_shingles.pdf,60116
+C-113,"Your Baby's First Vaccines - Multi Vaccine, Vaccine Information Statement",English,201,11/2015,,500,InStock,8590005899,60117
+C-113A,"Your Baby's First Vaccines - Multi Vaccine, Vaccine Information Statement",Spanish,238,11/2015,,500,InStock,60118,8590001876
+C-114,Human Papillomavirus Vaccine (HPV-Gardasil) Vaccine Information Statement,English,245,05/2013,,500,InStock,http://www.cdc.gov/vaccines/hcp/vis/vis-statements/hpv-gardasil.pdf,60120
+C-114A,Human Papillomavirus Vaccine (HPV-Gardasil) Vaccine Information Statement,Spanish,251,05/2013,,500,InStock,60121,60122
+C-115,"MMRV Vaccine (Measles, Mumps, Rubella, and Varicella) Vaccine Information Statement",English,369,05/2010,,500,InStock,http://www.cdc.gov/vaccines/hcp/vis/vis-statements/mmrv.pdf,8589979980
+C-115A,"MMRV Vaccine (Measles, Mumps, Rubella, and Varicella) Vaccine Information Statement",Spanish,371,05/2010,,500,InStock,http://www.immunize.org/vis/spanish_mmrv.pdf,8589979981
+C-116,HPV (Human Papillomavirus) Gardasil®-9 Vaccine Information Statement,English,405,04/2015,,1000,InStock,8590007103,8590007104
+C-116A,HPV (Human Papillomavirus) Gardasil®-9 Vaccine Information Statement,Spanish,407,04/2015,,1000,InStock,8590005900,8590000388
+C-117,Serogroup B Meningococcal (MenB) Vaccine Information Statement,English,408,08/2015,,1000,InStock,8590005902,8590005901
+C-117A,Serogroup B meningococcal (MenB) Vaccine Information Statement,Spanish,409,08/2015,,1000,InStock,8590005904,8590005903

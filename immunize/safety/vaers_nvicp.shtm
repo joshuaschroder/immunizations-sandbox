@@ -1,0 +1,25 @@
+<?php
+	$title= "National Vaccine Injury Compensation Program - Vaccine Safety" ;
+	include '/home/codio/workspace/includes/header.html';
+    include '/home/codio/workspace/includes/menus/vacsafe_menu.html'; 
+?>
+
+<p>The National Childhood Vaccine Injury Act of 1986 established the national Vaccine Injury Compensation Program (VICP). This program is a federal "no-fault" system for resolving claims concerning specified reactions to mandated childhood vaccines. The <a title="vaccine injury table" href="http://www.hrsa.gov/vaccinecompensation/vaccinetable.html">vaccine injury table</a> lists vaccines and injuries covered under the program.</p>
+<p>For injuries resulting from a vaccine administered on or after October 1, 1988, the following restrictions apply:</p>
+<ul>
+	<li>In the case of an injury, the effects must have continued at least 6 months after vaccine administration, and the claim must be filed within 36 months after the first symptoms appeared. </li>
+	<li>In the case of a death, the claim must be filed within 24 months of the death and within 48 months after the onset of the vaccine-related injury from which the death occurred. </li>
+</ul>
+
+<p>The time for filing claims for injuries resulting from vaccines administered prior to October 1, 1988, has expired. Any claims filed for that time period are subject to dismissal by the U.S. Court of Federal Claims. For more information about the VICP or instructions on filing claims, please call (800) 338-2382, or write:</p>
+<p style="margin-left:20px">
+National Vaccine Injury Compensation Program<br/>
+Parklawn Building, Room 11C-26<br/>
+5600 Fishers Lane<br/>
+Rockville, MD 20857
+</p>
+<p>or, visit their web site at <a title="Department of Health and Human Services- VICP" href="http://www.hrsa.gov/vaccinecompensation/index.html">Department of Health and Human Services- VICP</a></p>
+
+<p><b><em>PLEASE NOTE THAT A REPORT TO VAERS DOES NOT INITIATE A REPORT TO OR FILE A CLAIM WITH THE NATIONAL VACCINE INJURY COMPENSATION PROGRAM.</em></b></p>
+
+<?php include '/home/codio/workspace/includes/footer.html' ?>

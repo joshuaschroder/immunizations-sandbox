@@ -1,0 +1,84 @@
+<?php
+	$title= "1999 Texas Retrospective Immunization Survey Public Health Region 11" ;
+	include '/home/codio/workspace/includes/header.html';
+    include '/home/codio/workspace/includes/menus/coverage_menu.html'; 
+?>
+
+<p>The bar graph shows regional 4-3-1 (DTP4, Polio3, MMR1) immunization coverage rates for two year olds as assessed by the past three Texas Retrospective Immunization Surveys (TRIS). The majority of the children participating in the 1999 TRIS were born in 1992-1993. The 4-3-1 coverage rate at two years of age for children in PHR 11 has increased from 51.4% in 1997 to 64.9% in 1999. The 1999 TRIS regional 4-3-1-3 (4-3-1 series including HIB3) coverage rate at two years of age was 61.8%.</p>
+
+<p>Children who start their immunizations early in life are more likely to complete the 4-3-1 series and receive optimal protection against disease during their preschool years. In PHR 11, of children who received DTP1 vaccine by three months of age, 74.8% (464/620) completed the 4-3-1 series by two years of age. Of children who received DTP1 after three months of age, 40.6% (103/254) completed the 4-3-1 series by two years of age.</p>
+
+<p>The table shows the regional rates for the different combinations of vaccines used to determine the "up-to-date" status at specific ages. Depending on when the children started the HIB vaccine series, they may only need one or two doses of HIB to be considered "up-to-date."</p>
+
+<p>The coverage rates at five years of age for HB3 (three doses of hepatitis B vaccine) and MMR2 are 88.3% and 84.1%, respectively. Future TRIS studies will continue to report on HB immunization rates as well as those for varicella vaccine.</p>
+
+<p>For more information about the TRIS in PHR 11, please contact the regional immunization program at (956) 423-0130.</p>
+
+<table class="zebraBorder layout" summary="sorted by age, ascending" style="width:100%;">
+	<caption>1999 Texas Retrospective Immunization Survey Results for Public Health Region 11</caption>
+	<thead>
+		<tr>
+			<th scope="col">Age</th>
+			<th scope="col">"Up-to-date" Vaccine Series</th>
+			<th scope="col">"Up-to-date" Percentage</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>3 Months</td>
+			<td>DTP1, Polio1, HIB1</td>
+			<td>65.9%</td>
+		</tr>
+		<tr>
+			<td>5 Months</td>
+			<td>DTP2, Polio2, HIB2</td>
+			<td>45.4%</td>
+		</tr>
+		<tr>
+			<td>7 Months</td>
+			<td>DTP3, Polio2, HIB3</td>
+			<td>26.2%</td>
+		</tr>
+		<tr>
+			<td>12 Months</td>
+			<td>DTP3, Polio2, HIB3</td>
+			<td>62.9%</td>
+		</tr>
+		<tr>
+			<td>19 Months</td>
+			<td>DTP4, Polio3, MMR1, HIB#*</td>
+			<td>50.0%</td>
+		</tr>
+		<tr>
+			<td>24 Months</td>
+			<td>DTP4, Polio3, MMR1, HIB#*</td>
+			<td>64.4%</td>
+		</tr>
+		<tr>
+			<td>35 Months</td>
+			<td>DTP4, Polio3, MMR1, HIB#*</td>
+			<td>76.9%</td>
+		</tr>
+		<tr>
+			<td>48 Months</td>
+			<td>DTP4, Polio3, MMR1, HIB#*</td>
+			<td>83.6%</td>
+		</tr>
+		<tr>
+			<td>60 Months</td>
+			<td>DTP4, Polio3, MMR1, HIB#*</td>
+			<td>94.6%</td>
+		</tr>
+		<tr>
+			<td>72 Months</td>
+			<td>DTP4, Polio3, MMR1, HIB#*</td>
+			<td>95.9%</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>* Completion of primary series and booster OR at least one HIB on or after 15 months of age.</p>
+
+
+
+<?php include '/home/codio/workspace/includes/footer.html' ?>

@@ -1,0 +1,121 @@
+<?php
+	$title= "Information for Health-Care Providers" ;
+	include '/home/codio/workspace/includes/header.html';
+	include '/home/codio/workspace/includes/menus/imm_old_menu.html';
+?>
+
+<hr/>
+<h2>Table of Contents</h2>
+<ul>
+	<li><a title="Local Health Department Contractor Information" href="#LHD">Local Health Department Contractor Information</a>
+		<ul>
+			<li><a title="FY2017 Contract Documents" href="#2017-docs">FY2017 Contract Documents</a></li>
+			<li><a title="FY2016 Contract Documents" href="#2016-docs">FY2016 Contract Documents</a></li>
+		</ul>
+	</li>
+	<li><a title="Forms & Documents" href="#forms">Forms & Documents</a></li>
+	<li><a title="Provider Information" href="#info">Provider Information</a></li>
+	<li><a title="Other Immunization Information" href="#other">Other Immunization Information</a></li>
+	<li><a title="Other Provider Resources" href="#resources">Other Provider Resources</a></li>
+</ul>
+
+<div class="Section" id="Local">
+	<a class="bookmark" title="Local Health Department Contractor Information" name="LHD"></a>
+	<hr/>
+	<h2>Local Health Department Contractor Information</h2>
+	
+	<a class="bookmark" title="2017-docs" name="2017-docs"></a>
+	<h3>FY2017 Contract Documents</h3>
+	<p>The following documents are for use from September 1, 2016 through August 31, 2017.</p>
+	<ul>
+		<!--li>
+			<a title="FY2016 Contractor's Guide"  href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8590002481">FY2017 Contractor's Guide (PDF)</a>  (rev. 09/2015)
+			<br/><em>This guide explains how to meet the requirements and provides detailed instructions for immunization subjects that do not have a separate manual. Please be advised that there are separate manuals for the Surveillance program (see link below for Surveillance VPD Guidelines), the <a title="Perinatal Hepatitis B program" href="/immunize/perinatal-hepatitis-B/">Perinatal Hepatitis B program</a>, and for <a title="TVFC/Vaccine Services"  href="/immunize/tvfc/">TVFC/Vaccine Services</a></em>.
+		</li-->
+		<li>
+			<a title="FY2016 Work Plan"  href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=12884906609">FY2017 Work Plan (PDF)</a> (rev. 04/2016) 
+			<br/><em>The work plan contains all the required activities for contracted local health departments.</em>
+		</li>
+		<li>
+			<a title="FY2016 Statement of Work"  href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=12884906608">FY2017 Statement of Work (PDF)</a>  (rev. 04/2016)
+			<br/><em>This document includes performance measures, reports due, schedule, billing instructions, and special provisions that are an essential part of the contract.</em>
+		</li>
+		<li>
+			<a title="FY2016 Quarterly Report Form"  href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=12884906586">FY2017 Quarterly Report Form (XLS)</a>  (rev. 10/2016)
+			<br/><em>Please download and use the most current version of the Quarterly Report Form. Delete older versions of this form previously saved. Outdated versions of the report form will be returned for correction.</em>
+		</li>
+		<li>
+			<a title="FY2016 On-Site Evaluation Report Form"  href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=12884906588">FY2017 On-Site Evaluation Report Form (DOC)</a>  (rev. 09/2016)
+			<br/><em>The On-Site Evaluation Report is the tool all reviewers will use to evaluate each standard and activity required by the Work Plan for the current year. Local Health Departments may find it helpful to use this form as a self-assessment tool to prepare for site reviews.</em>
+		</li>
+		<li>
+			<a title="FY2016 On-Site Evaluation Report Instructions"  href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=12884906587">FY2017 On-Site Evaluation Report Instructions (PDF)</a>  (rev. 09/2016)
+		</li>
+	</ul> 
+	
+	<a class="bookmark" title="2016-docs" name="2016-docs"></a>
+	<h3>FY2016 Contract Documents</h3>
+	<p>The following documents are for use from September 1, 2015 through August 31, 2016.</p>
+	<ul>
+		<li><a title="FY2016 Contractor's Guide"  href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8590002481">FY2016 Contractor's Guide (PDF)</a>  (rev. 09/2015)</li>
+		<li><a title="FY2016 Work Plan"  href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8590002482">FY2016 Work Plan (PDF)</a> (rev. 04/2015)</li>
+		<li><a title="FY2016 Statement of Work"  href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8590002478">FY2016 Statement of Work (PDF)</a>  (rev. 04/2015)</li>
+		<li><a title="FY2016 Quarterly Report Form"  href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8590002479">FY2016 Quarterly Report Form (XLS)</a>  (rev. 10/2015)</li>
+		<li><a title="FY2016 On-Site Evaluation Report Form"  href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8590002480">FY2016 On-Site Evaluation Report Form (DOC)</a>  (rev. 09/2015)</li>
+		<li><a title="FY2016 On-Site Evaluation Report Instructions"  href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8590002477">FY2016 On-Site Evaluation Report Instructions (PDF)</a>  (rev. 09/2015)</li>
+	</ul> 
+</div>
+
+<div class="Section" id="Forms">
+	<a title="forms" class="bookmark" name="forms"></a>
+	<h2>Forms & Documents</h2>
+	<ul>
+		<li><a title="VPD Surveillance Guidelines"  href="/idcu/health/vaccine_preventable_diseases/resources/">VPD Surveillance Guidelines</a></li>
+		<li><a title="Selected Case Track Record & Investigation Forms" href="/idcu/health/vaccine_preventable_diseases/forms/">Selected Case Track Record & Investigation Forms</a></li>
+		<li><a title="ImmTrac Registration Application"  href="/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589987238">ImmTrac Registration Application (PDF)</a></li>
+		<li><a title="Immunization Branch Literature Order Form" href="https://secure.immunizetexasorderform.com/default.asp">Immunization Branch Literature Order Form</a></li>
+		<li><a title="Binational Immunization Equivalency Tool"  href="http://www.cdc.gov/vaccines/schedules/downloads/child/binational-schedule-pr.pdf">Binational Immunization Equivalency Tool</a></li>
+		<li><a title="Population Assessment Manual  "  href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8589995697">Population Assessment Manual (PDF)</a></li>
+	</ul>
+</div>
+
+<div class="Section" id="ProviderInfo">
+	<a class="bookmark" title="info" name="info"></a>
+	<hr/>
+	<h2>Provider Information</h2>
+	<ul>
+		<li><a title="Immtrac Provider Brochure, &#8220;Protect Texans&#8221; - Stock No. 6-218" href="/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=24556">Immtrac Provider Brochure, &#8220;Protect Texans&#8221; - Stock No. 6-218 (PDF)</a></li>
+		<li><a title="Assessment, Feedback, Incentives, Exchange" href="/immunize/afix2.shtm">Assessment, Feedback, Incentives, Exchange (AFIX)</a></li>
+		<li><a title="Guidelines for Vaccine Storage & Handling" href="/immunize/vac_manage.shtm#storage">Guidelines for Vaccine Storage & Handling</a></li>
+		<li><a title="Clinic/Provider Assessment Software Application" href="/immunize/casa.shtm">Clinic/Provider Assessment Software Application</a> (CASA)</li>
+		<li><a title="Texas Vaccines For Children" href="/immunize/tvfc/default.shtm">Texas Vaccines For Children</a> (TVFC)</li>
+		<li><a title="Vaccine Safety" href="/immunize/safety/vac_safety.shtm">Vaccine Safety</a></li>
+	</ul>
+</div>
+
+<div class="Section" id="OtherInfo">
+	<a class="bookmark" title="other" name="other"></a>
+	<hr/>
+	<h2>Other Immunization Information</h2>
+	<ul>
+		<li><a title="Benefit-Cost Analysis of Commonly Used Vaccines" href="/immunize/other_info.shtm">Benefit-Cost Analysis of Commonly Used Vaccines</a></li>
+		<li><a title="Licensure Dates" href="/immunize/other_info.shtm#vac_hist">Licensure Dates</a> for Vaccines and Toxoids, United States</li>
+		<li><a title="Non-English Immunization Information" href="http://www.immunize.org/catg.d/noneng.htm">Non-English Immunization Information from the Immunization Action Coalition</a></li>
+		<li><a title="Required Record Keeping for Vaccinations" href="/immunize/other_info.shtm#recordke">Required Record Keeping for Vaccinations</a></li>
+		<li><a title="Archive - News & Updates..." href="/immunize/immnews.shtm">Archive - News & Updates...</a></li>
+	</ul>
+</div>
+
+
+<div class="Section" id="Resources">
+	<a class="bookmark" title="resources" name="resources"></a>
+	<hr/>
+	<h2>Other Provider/Physician Resources</h2>
+	<ul>
+		<li><a title="Bioterrorism Links"  href="http://www.texmed.org/Template.aspx?id=3922">Bioterrorism Links</a> (Texas Medical Association)</li>
+		<li><a title="On Demand Webcasts" href="http://www.sph.unc.edu/media/webcasts.html">On Demand Webcasts</a> (University of North Carolina School of Public Health)</li>
+	</ul>
+</div>
+
+
+<?php include '/home/codio/workspace/includes/footer.html' ?>

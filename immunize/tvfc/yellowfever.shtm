@@ -1,0 +1,157 @@
+<?php
+	$title= "Yellow Fever Information - Texas Vaccines for Children" ;
+	include '/home/codio/workspace/includes/header.html';
+    include '/home/codio/workspace/includes/menus/tvfc_menu.html'; 
+?>
+
+<hr/>
+<h2>Table of Contents</h2>
+<ul>
+	<li><a title="Information for the Public" href="#public">Information for the Public</a></li>
+	<li><a title="Information for Healthcare Providers" href="#providers">Information for Healthcare Providers</a></li>
+	<li><a title="Forms and Publications" href="#forms">Forms and Publications</a></li>
+	<li><a title="Contact Information" href="#contact">Contact Information</a></li>
+	<li><a title="External Resources" href="#resources">External Resources</a></li>
+</ul>
+
+<div class="Section" id="Public">
+	<a class="bookmark" title="public" name="public"></a>
+	<hr/>
+	<h2>Information for the Public</h2>
+	<blockquote style="font-style:initial;">
+		<h3>How do I find a Yellow Fever Vaccination Center?</h3>
+		<p>The Centers for Disease Control and Prevention (CDC) has developed a web-based registry of yellow fever vaccination clinics located in the US.</p>
+		<p>This list of authorized clinics is accessible from CDC's Travelers' Health website at <a title="National Yellow Fever Provider List" href="http://wwwn.cdc.gov/travel/yellow-fever-vaccination-clinics-search.aspx">National Yellow Fever Provider List</a>.</p>
+		<h3>Where can I find more information on immunizations for foreign travel?</h3>
+		<p>To learn more about immunizations required for international travel, see the following:</p>
+		<ul>
+			<li><a title="CDC Travel Information" href="http://wwwn.cdc.gov/travel">CDC Travel Information</a></li>
+			<li><a title="Infectious Disease Control Unit - International Travel" href="http://www.dshs.state.tx.us/idcu/health/international_travel/">Infectious Disease Control Unit - International Travel</a></li>
+		</ul>
+		<h3>Where can I find more information on yellow fever and its vaccine?</h3>
+		<p>To learn more about the yellow fever disease and vaccine, see the following:</p>
+		<ul>
+			<li><a title="CDC Yellow Fever Information" href="http://www.cdc.gov/yellowfever/">CDC Yellow Fever Information</a></li>
+			<li><a title="Infectious Disease Control Unit - Yellow Fever FAQs" href="http://www.dshs.state.tx.us/idcu/disease/yellow_fever/faqs/">Infectious Disease Control Unit - Yellow Fever FAQs</a></li>
+		</ul>
+	</blockquote>
+</div>
+
+<div class="Section" id="Providers">
+	<a class="bookmark" title="providers" name="providers"></a>
+	<hr/>
+	<h2>Information for Healthcare Providers</h2>
+	<blockquote style="font-style:initial;">
+		<h3>Authorized Yellow Fever Vaccine Providers in Texas</h3>
+		<p>The Texas Department of State Health Services (DSHS) is responsible for authorizing physicians in the state to administer yellow fever vaccine for travel outside the United States. A Uniform Stamp is issued to the physician and is used to validate the International Certificate of Vaccination or Prophylaxis (ICV), to verify that a traveler has been vaccinated against yellow fever.</p>
+		<p>Uniform Stamps are issued</p>
+		<ul>
+			<li>only to physicians holding a current Texas medical license, and</li>
+			<li>for use only at the specific vaccination center designated on the application</li>
+		</ul>
+		<p>If a physician practices at more than one vaccination center, a separate application for each is required. Uniform Stamp authorization is required before yellow fever vaccine can be ordered and administered. A designated yellow fever vaccination center is the location where yellow fever vaccine will be shipped to and administered. The Texas Administrative Code (TAC) outlines all policies regarding Uniform Stamp authorization, and can be found online at <a title="25 TAC Chapter 97, Subchapter G, Vaccination Stamps" href="http://texreg.sos.state.tx.us/public/readtac$ext.ViewTAC?tac_view=5&ti=25&pt=1&ch=97&sch=G&rl=Y">25 TAC Chapter 97, Subchapter G, Vaccination Stamps</a>.</p>
+		<br/>
+		<h3>How to Become a Yellow Fever Vaccine Provider</h3>
+		<p>The applicant must be a physician (medical doctor or doctor of osteopathic medicine) with a current Texas medical license. Physicians interested in participating as a designated yellow fever vaccination center should submit a completed <a title="Uniform Stamp Application Form" href="#EF11-11972">Uniform Stamp Application Form</a> and fee to obtain a Uniform Stamp.</p>
+		<br/>
+		<h3>Annual Reauthorization</h3>
+		<p>In January of each year, every stamp holder must submit a <a title="Uniform Stamp Renewal Form" href="#EF11-11971">Uniform Stamp Renewal Form</a> and fee in order to retain authorization to administer yellow fever vaccine. Stamp holders who do not wish to renew must return the Uniform Stamp to DSHS at the address indicated on the renewal form. If you are a public health department, please contact DSHS as there is a different procedure for your renewal.</p>
+		<br/>
+		<h3>Lost or Damaged Uniform Stamp</h3>
+		<p>Replacements for lost, damaged or illegible stamps may be requested by submitting the <a title="Uniform Stamp Replacement Form" href="#EF11-12887">Uniform Stamp Replacement Form</a> and fee. In all cases except for lost stamps, the old stamp must be returned to DSHS when you receive the replacement stamp.</p>
+		<br/>
+		<h3>Change of Address</h3>
+		<p>DSHS must be notified of vaccination center address changes. If the new address is within the same county, the address change information can be faxed to DSHS at 512-776-7743. Please include both the old and the new addresses, on facility letterhead, signed by the stamp holder.  Include the physician's name, stamp number and the effective date of the change.</p>
+		<p>If the vaccination center will move to a different county, a new Uniform Stamp must be issued. Please submit the Uniform Stamp Replacement Form and fee, giving as much advance notice as possible as it can take 10 weeks to receive a new stamp.</p>
+		<p>Address information will be updated with Sanofi-Pasteur and on the Centers for Disease Control and Prevention (CDC) website. Failure to notify DSHS of address changes may affect your ability to order yellow fever vaccine.</p>
+		<br/>
+		<h3>Returning a Uniform Stamp</h3>
+		<p>If an authorized yellow fever vaccination center does not wish to continue offering yellow fever vaccines or fails to complete an annual reauthorization, the center's uniform vaccination stamp must be returned to the Texas Department of State Health Services along with a completed <a title="Uniform Stamp Return Form" href="#EF11-14717">Uniform Stamp Return Form</a>. Please mail the signed form and the uniform vaccination stamp to:</p>
+		<blockquote style="font-style:initial;">
+			<p>
+				Immunizations Unit, MC 1946<br/>
+				Texas Department of State Health Services<br/>
+				P.O. Box 149347<br/>
+				Austin, Texas 78714-9347
+			</p>
+		</blockquote>
+	</blockquote>
+</div>
+
+<div class="Section" id="Forms">
+	<a class="bookmark" title="forms" name="forms"></a>
+	<hr/>
+	<h2>Yellow Fever Forms and Publications</h2>
+	<blockquote style="font-style:initial;">
+		<table class="zebraBorder layout" summary="sorted by stock number, ascending" style="width:100%;">
+			<caption>Yellow Fever Forms and Publications</caption>
+			<thead>
+				<tr>
+					<th id="table_heading_0">Stock Number</th>
+					<th id="table_heading_1">Title</th>
+					<th id="table_heading_2">Revision</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<td headers="table_heading_0"><a class="bookmark" title="EF11-11971" name="EF11-11971"></a>EF11-11971</td>
+					<td headers="table_heading_1"><a title="Uniform Stamp Renewal Form" href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8590003790">Uniform Stamp Renewal Form (PDF)</a></td>
+					<td headers="table_heading_2">2015-12</td>			
+				</tr>
+				<tr>
+					<td headers="table_heading_0"><a class="bookmark" title="EF11-11972" name="EF11-11972"></a>EF11-11972</td>
+					<td headers="table_heading_1"><a title="Uniform Stamp Application Form" href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8590003788">Uniform Stamp Application Form (PDF)</a></td>
+					<td headers="table_heading_2">2015-12</td>			
+				</tr>
+				<tr>
+					<td headers="table_heading_0"><a class="bookmark" title="EF11-11974" name="EF11-11974"></a>EF11-11974</td>
+					<td headers="table_heading_1"><a title="Uniform Stamp Renewal - Public Health Departments Only" href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8590003789">Uniform Stamp Renewal - Public Health Departments Only (PDF)</a></td>
+					<td headers="table_heading_2">2015-12</td>			
+				</tr>
+				<tr>
+					<td headers="table_heading_0"><a class="bookmark" title="EF11-12887" name="EF11-12887"></a>EF11-12887</td>
+					<td headers="table_heading_1"><a title="Uniform Stamp Replacement Form" href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8590003786">Uniform Stamp Replacement Form (PDF)</a></td>
+					<td headers="table_heading_2">2015-12</td>			
+				</tr>
+				<tr>
+					<td headers="table_heading_0"><a class="bookmark" title="EF11-14717" name="EF11-14717"></a>EF11-14717</td>
+					<td headers="table_heading_1"><a title="Uniform Stamp Return Form" href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8590003787">Uniform Stamp Return Form</a></td>
+					<td headers="table_heading_2">2015-12</td>			
+				</tr>
+			</tbody>
+		</table>
+	</blockquote>
+</div>
+
+<div class="Section" id="Contact">
+	<a class="bookmark" title="contact" name="contact"></a>
+	<hr/>
+	<h2>Contact Information</h2>
+	<p>Contact the Immunizations Unit with questions:</p>
+	<blockquote style="font-style:initial;">
+		<p>
+			Email: <a title="YellowFever@dshs.texas.gov" href="mailto:YellowFever@dshs.texas.gov">YellowFever@dshs.texas.gov</a><br/>
+			Phone: (800) 252-9152
+		</p>
+	</blockquote>
+</div>
+
+<div class="Section" id="Resources">
+	<a class="bookmark" title="resources" name="resources"></a>
+	<hr/>
+	<h2>External Resources</h2>
+	<ul>
+		<li><a title="CDC - Yellow Fever Information" href="http://www.cdc.gov/yellowfever">CDC - Yellow Fever Information</a></li>
+		<li><a title="CDC - Yellow Fever Vaccine: Information for Health Care Professionals Advising Travelers" href="http://www.cdc.gov/travel-training/">CDC - Yellow Fever Vaccine: Information for Health Care Professionals Advising Travelers</a></li>
+		<li><a title="CDC - Yellow Fever Vaccination Clinics" href="http://wwwnc.cdc.gov/travel/yellow-fever-vaccination-clinics-search.aspx">CDC - Yellow Fever Vaccination Clinics</a></li>
+		<li><a title="CDC - Travelers' Health" href="http://www.cdc.gov/travel">CDC - Travelers' Health</a></li>
+		<li><a title="CDC - Health Information for International Travel (Yellow Book)" href="http://www.cdc.gov/yellowbook">CDC - Health Information for International Travel (Yellow Book)</a></li>
+		<li><a title="CDC - ACIP Yellow Fever Vaccine Recommendations" href="http://www.cdc.gov/vaccines/hcp/acip-recs/vacc-specific/yf.html">CDC - ACIP Yellow Fever Vaccine Recommendations</a></li>
+		<li><a title="Vaccine Adverse Event Reporting System (VAERS)" href="http://vaers.hhs.gov/">Vaccine Adverse Event Reporting System (VAERS)</a></li>
+		<li><a title="Yellow Fever Vaccine Information Statement" href="http://www.cdc.gov/vaccines/pubs/vis/downloads/vis-yf.pdf">Yellow Fever Vaccine Information Statement (PDF)</a></li>
+		<li><a title="International Certificate of Vaccination or Prophylaxis" href="http://bookstore.gpo.gov/catalog/health-benefits/immunization-vaccination/vaccination-forms">International Certificate of Vaccination or Prophylaxis</a>, or call (866) 512-1800</li>
+		<li><a title="Yellow Fever Vaccine" href="http://www.vaccineshoppe.com/">Order Yellow Fever Vaccine from Sanofi-Pasteur</a>, or call (800) 822-2463</li>
+	</ul>
+</div>
+
+<?php include '/home/codio/workspace/includes/footer.html' ?>

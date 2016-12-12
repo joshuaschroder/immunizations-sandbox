@@ -1,0 +1,46 @@
+<?php
+	$title= "Infant Immunizations" ;
+	include '/home/codio/workspace/includes/header.html';
+    include '/home/codio/workspace/includes/menus/imm_old_menu.html'; 
+?>
+
+<hr/>
+<h2>Immunize on Time, Every Time</h2>
+<p>Infants are particularly vulnerable to infectious diseases; that is why it is critical to protect them through immunization. Completing the full series of vaccines for your child or children is important to ensure they have the best protection against serious childhood diseases and dangerous complications. Getting all of the suggested vaccines in their first year is a great start. Immunization is one of the most important things a parents can do to protect their children's health. Failure to vaccinate may mean putting children at risk for serious diseases.</p>
+
+<hr/>
+<h2>Complete Each Series. Follow the Recommended Schedule.</h2>
+<p>Your baby is vulnerable to many infectious diseases early in life, but if you follow the recommended immunization schedule provided by the Centers for Disease Control (CDC), your child will have the best possible protection. You can <a title="download recommended immunization schedule poster for children 0-6 years" href="/immunize/campaign/Infant/E11-14456P.pdf">download and print out this chart</a> to remind yourself of your child's next doctor's appointment. Place the schedule on your refrigerator or in another prominent place so that you can make sure to vaccinate on time, every time.</p>
+
+<p>
+	<strong><a title="download recommended vaccine schedule poster for children 0-6 years" href="http://wwwstage.dshs.state.tx.us/immunize/campaign/Infant/E11-14456P.pdf">Download this Poster</a></strong><br/>
+	<a title="download recommended vaccine schedule poster for children 0-6 years" href="http://wwwstage.dshs.state.tx.us/immunize/campaign/Infant/E11-14456P.pdf">
+		<img title="recommended vaccine schedule poster for children 0-6 years" src="http://wwwstage.dshs.state.tx.us/uploadedImages/Content/Prevention_and_Preparedness/immunize/campaign/Infant/InfantSched_preview.gif" alt="recommended vaccine schedule poster for children 0-6 years" />
+	</a>
+</p>
+
+<p>See the detailed <a title="recommended schedule" href="http://www.cdc.gov/vaccines/parents/downloads/parent-ver-sch-0-6yrs.pdf">recommended schedule</a> from the CDC.</p>
+<p>Find out the exact dates your child should get vaccinated using the CDC's <a title="vaccine scheduler" href="http://www2a.cdc.gov/nip/kidstuff/newscheduler_le/">vaccine scheduler</a>.</p>
+
+<hr/>
+<h2>Ask Your Doctor</h2>
+<p>Talk to your doctor. Your pediatrician can answer any questions you may have about infant immunizations, and can help you plan ahead. As you leave one appointment, make sure you schedule the next one and get a reminder to stick on your fridge or in an email -- this will help you and your child stay on track.</p>
+<p>Your doctor can also help you learn about other programs provided by the state of Texas to help you and your family stay on top of your vaccines.</p>
+
+<hr/>
+<h2>Vaccines are Safe</h2>
+<p>All vaccines used in the United States require extensive safety testing for years -- sometimes even decades -- before they are licensed by the U.S. Food and Drug Administration (FDA). The FDA and the CDC work with doctors and other health-care professionals throughout the U.S. to continually monitor the safety of vaccines. Learn more about how vaccines are <a title="developed" href="http://www.cdc.gov/vaccines/parents/infographics/journey-of-child-vaccine.html">developed</a> and <a title="approved" href="http://www.cdc.gov/vaccinesafety/populations/parents.html">approved</a>.</p>
+
+<hr/>
+<h2>Learn More About Immunizations</h2>
+<p>There are many helpful resources available for infant immunizations and vaccines in general.</p>
+<p>To keep all your child's immunization information in one place, sign up for <a title="ImmTrac" href="/Immunize/ImmTrac/default.shtm">ImmTrac</a>, the secure and confidential Texas Immunization Registry. This will help you hold onto your child's medical history, even if you move to a different city or switch doctors.</p>
+<p>If you think your child has missed some vaccines or boosters, learn how to <a title="child and adolescent catchup vaccination schedule" href="http://www.cdc.gov/vaccines/schedules/hcp/child-adolescent.html">catch up</a>.</p>
+<p>Protect your preteens by keeping them on the recommended schedule for <a title="adolescent vaccines" href="/immunize/PreteenVaccines.aspx">adolescents</a>.</p>
+<p>Learn about the <a title="" href="/immunize/tvfc/">Texas Vaccines for Children (TVFC)</a> program, which provides vaccines to eligible children.</p>
+
+<hr/>
+<h2>Resources for Health-Care Providers</h2>
+<p>Health-care providers can find additional information on our <a title="Infant Immunizations - Provider Information page" href="/immunize/infants-providers.shtm">Infant Immunizations - Provider Information page</a>.</p>
+
+<?php include '/home/codio/workspace/includes/footer.html' ?>

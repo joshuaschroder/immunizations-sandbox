@@ -1,0 +1,157 @@
+<?php
+	$title= "Vaccination Coverage Levels in Registered and Licensed Childcare Facilities in Texas" ;
+	include '/home/codio/workspace/includes/header.html';
+	include '/home/codio/workspace/includes/menus/coverage_menu.html'; 
+?>
+
+<p>This survey is conducted triennially to assess vaccination coverage levels of children attending a childcare facility and to monitor compliance with new and existing vaccine requirements at licensed child care centers (LCCC) and registered child care homes (RCCH) in Texas. A random sample of childcare facilities is selected for the survey every other year. Local health departments and DSHS staff review a random sample of immunization records from each selected childcare facility. Statewide and regional vaccination coverage levels are available for children ages 19&#8211;59 months of age attending childcare facilities in Texas.</p>
+
+<hr/>
+<h2>2013 Results of Biannual Report of Immunization Status</h2>
+<p><a title="2013 Report on Vaccination Coverage Levels in Texas Childcare Facilities" href="/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8590004125" rel="alternate">Printable PDF of this Data (PDF)</a></p>
+
+<table class="zebraBorder" summary="sorted by area, with Texas cumulative results first and then indexed by health service region in numerical order" style="width:100%;">
+	<caption>Vaccination Coverage Levels among Childcare Attendees Aged 19&#8211;59 Months, Texas and Health Service
+	Regions (HSR), 2013</caption>
+	<thead>
+		<tr>
+			<th scope="col" style="width:15%;">Area </th>
+			<th scope="col">DTaP <sup><a href="#fn1">1</sup></a></th>
+			<th scope="col">Polio <sup><a href="#fn2">2</sup></a></th>
+			<th scope="col">MMR <sup><a href="#fn3">3</sup></a></th>
+			<th scope="col">Var <sup><a href="#fn4">4</sup></a></th>
+			<th scope="col">HepB <sup><a href="#fn5">5</sup></a></th>
+			<th scope="col">Hib <sup><a href="#fn6">6</sup></a></th>
+			<th scope="col">PCV <sup><a href="#fn7">7</sup></a></th>
+			<th scope="col">HepA <sup><a href="#fn8">8</sup></a></th>
+			<th scope="col">4:3:1:3:3:1:4 <sup><a href="#fn9">9</sup></a></th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<th scope="row">Texas</th>
+			<td>90.5%</td>
+			<td>97.0%</td>
+			<td>95.2%</td>
+			<td>94.9%</td>
+			<td>93.4%</td>
+			<td>97.1%</td>
+			<td>88.2%</td>
+			<td>73.5%</td>
+			<td>78.9%</td>
+		</tr>
+		<tr>
+			<th scope="row">HSR 1</th>
+			<td>93.2%</td>
+			<td>97.9%</td>
+			<td>96.5%</td>
+			<td>96.2%</td>
+			<td>94.0%</td>
+			<td>97.8%</td>
+			<td>89.2%</td>
+			<td>79.0%</td>
+			<td>79.7%</td>
+		</tr>
+		<tr>
+			<th scope="row">HSR 2/3</th>
+			<td>88.0%</td>
+			<td>97.5%</td>
+			<td>93.4%</td>
+			<td>93.1%</td>
+			<td>91.0%</td>
+			<td>97.4%</td>
+			<td>86.7%</td>
+			<td>71.3%</td>
+			<td>75.1%</td>
+		</tr>
+		<tr>
+			<th scope="row">HSR 4/5N</th>
+			<td>92.5%</td>
+			<td>97.6%</td>
+			<td>97.0%</td>
+			<td>96.8%</td>
+			<td>95.7%</td>
+			<td>97.4%</td>
+			<td>89.8%</td>
+			<td>74.5%</td>
+			<td>84.0%</td>
+		</tr>
+		<tr>
+			<th scope="row">HSR 6/5S</th>
+			<td>92.5%</td>
+			<td>97.0%</td>
+			<td>95.7%</td>
+			<td>95.8%</td>
+			<td>94.8%</td>
+			<td>97.2%</td>
+			<td>89.8%</td>
+			<td>71.9%</td>
+			<td>81.7%</td>
+		</tr>
+		<tr>
+			<th scope="row">HSR 7</th>
+			<td>87.2%</td>
+			<td>95.1%</td>
+			<td>93.0%</td>
+			<td>92.6%</td>
+			<td>90.0%</td>
+			<td>94.9%</td>
+			<td>83.8%</td>
+			<td>69.4%</td>
+			<td>73.2%</td>
+		</tr>
+		<tr>
+			<th scope="row">HSR 8</th>
+			<td>91.1%</td>
+			<td>96.5%</td>
+			<td>94.0%</td>
+			<td>94.2%</td>
+			<td>95.1%</td>
+			<td>97.9%</td>
+			<td>89.6%</td>
+			<td>72.5%</td>
+			<td>79.1%</td>
+		</tr>
+		<tr>
+			<th scope="row">HSR 9/10</th>
+			<td>89.6%</td>
+			<td>97.1%</td>
+			<td>95.6%</td>
+			<td>95.2%</td>
+			<td>92.2%</td>
+			<td>97.0%</td>
+			<td>87.8%</td>
+			<td>76.9%</td>
+			<td>78.6%</td>
+		</tr>
+		<tr>
+			<th scope="row">HSR 11</th>
+			<td>90.3%</td>
+			<td>96.8%</td>
+			<td>95.9%</td>
+			<td>95.5%</td>
+			<td>93.0%</td>
+			<td>97.5%</td>
+			<td>89.3%</td>
+			<td>78.4%</td>
+			<td>78.5%</td>
+		</tr>
+	</tbody>
+</table>
+
+<h3>Footnotes</h3>
+<p><a class="bookmark" title="fn1" name="fn1"></a></a><sup>1</sup> Four or more doses of any diphtheria and tetanus toxoids and pertussis vaccines including diphtheria and tetanus toxoids, and any acellular pertussis vaccine (DTaP/DTP/DT).<br/></p>
+<p><a class="bookmark" title="fn2" name="fn2"></a></a><sup>2</sup> Three or more doses of any poliovirus vaccine.<br/></p>
+<p><a class="bookmark" title="fn3" name="fn3"></a></a><sup>3</sup> One or more doses of measles-mumps-rubella vaccine.<br/></p>
+<p><a class="bookmark" title="fn4" name="fn4"></a></a><sup>4</sup> Three or more doses of Haemophilus influenzae type b (Hib) vaccine.<br/></p>
+<p><a class="bookmark" title="fn5" name="fn5"></a></a><sup>5</sup> Three or more doses of hepatitis B vaccine.<br/></p>
+<p><a class="bookmark" title="fn6" name="fn6"></a></a><sup>6</sup> One or more doses of varicella at or after child's first birthday, unadjusted for history of varicella illness.<br/></p>
+<p><a class="bookmark" title="fn7" name="fn7"></a></a><sup>7</sup> &#8805; four doses of pneumococcal conjugate vaccine (PCV).<br/></p>
+<p><a class="bookmark" title="fn8" name="fn8"></a></a><sup>8</sup> Two or more doses of hepatitis A vaccine.<br/></p>
+<p><a class="bookmark" title="fn9" name="fn9"></a></a><sup>9</sup> &#8805; four doses of diphtheria and tetanus toxoids and acellular pertussis (DTaP) vaccine, &#8805; three doses of poliovirus (Polio) vaccine, &#8805; one dose of any measles-mumps-rubella (MMR) vaccine,&#8805; three doses of Haemophilus influenzae (Hib) vaccine of any type, &#8805; three doses of hepatitis B (HepB) vaccine, &#8805; one dose of varicella (Var) vaccine, and &#8805; four doses of pneumococcal conjugate vaccine (PCV).</p>
+
+<hr/>
+<h2>Historical Data</h2>
+<p>See the <a title="Chidcare Facility Coverage Level Archives" href="/immunize/coverage/childcarearchive.shtm">Chidcare Facility Coverage Level Archives</a> for reports from prior years.</p>
+
+<?php include '/home/codio/workspace/includes/footer.html' ?>

@@ -1,0 +1,76 @@
+<?php
+	$title= "Advisory No. XX" ;
+	include '/home/codio/workspace/includes/header.html';
+    include '/home/codio/workspace/includes/menus/imm_old_menu.html'; 
+?>
+
+<hr/>
+<p style="text-align:right;"><a title="Print Version of Vaccine Advisory No. XX" href="">Print Version of Vaccine Advisory No. XX</a>  <span class="small">(PDF, XXKB)</span></p>
+<hr/>
+<p>
+	<b>
+		DATE<br/>
+		TITLE OF VACADVISE<br/>
+	</b>
+</p>
+
+<p><i></i></p>
+
+<hr/>
+
+<p><b>This advisory contains:</b></p>
+<ol>
+</ol>
+
+<a id="1" title="1" data-ektron-placeholder="bookmark"></a>
+<hr />
+<h2></h2>
+
+
+<a id="2" title="2" data-ektron-placeholder="bookmark"></a>
+<hr />
+<h2></h2>
+
+
+<a id="3" title="3" data-ektron-placeholder="bookmark"></a>
+<hr />
+<h2></h2>
+
+
+<a id="4" title="4" data-ektron-placeholder="bookmark"></a>
+<hr />
+<h2></h2>
+
+
+<a id="5" title="5" data-ektron-placeholder="bookmark"></a>
+<hr />
+<h2></h2>
+
+
+<a id="6" title="6" data-ektron-placeholder="bookmark"></a>
+<hr />
+<h2></h2>
+
+
+<a id="7" title="7" data-ektron-placeholder="bookmark"></a>
+<hr />
+<h2></h2>
+
+
+<a id="8" title="8" data-ektron-placeholder="bookmark"></a>
+<hr />
+<h2></h2>
+
+
+<hr/>
+<p><b>We hope you generously forward this advisory to others who may benefit from this information.</b></p>
+<p>
+	Texas Department of State Health Services<br/>
+	Immunizations Unit<br/>
+	P.O. Box 149347,<br/>
+	Austin, Texas, 78714-9347<br/> 
+	1-800-252-9152<br/>
+	<a title="www.ImmunizeTexas.com" href="http://www.ImmunizeTexas.com">www.ImmunizeTexas.com</a>
+</p>
+
+<?php include '/home/codio/workspace/includes/footer.html' ?>

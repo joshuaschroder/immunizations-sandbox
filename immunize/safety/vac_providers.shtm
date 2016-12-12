@@ -1,0 +1,33 @@
+<?php
+	$title= "Resources for Healthcare Providers - Vaccine Safety" ;
+	include '/home/codio/workspace/includes/header.html';
+    include '/home/codio/workspace/includes/menus/vacsafe_menu.html'; 
+?>
+
+<hr/>
+<h2>Publications:</h2>
+<p style="margin-left:20px;">
+	<a title="Physician's Guide to Reporting to the Vaccine Adverse Event Reporting System (VAERS)" href="/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=24881">Physician's Guide to Reporting to the Vaccine Adverse Event Reporting System (VAERS) (PDF)</a>
+</p>
+<p style="margin-left:20px;">
+	<a title="Epidemiology and Prevention of Vaccine-Preventable Diseases" href="http://www.cdc.gov/vaccines/pubs/pinkbook/index.html">Epidemiology and Prevention of Vaccine-Preventable Diseases</a><br/>
+	(Pinkbook). Centers for Disease Control and Prevention (CDC)
+</p>
+<p style="margin-left:20px;">
+	<a title="Vaccine Safety Training and Education" href="http://www.cdc.gov/od/science/iso/professional_info/provider_training.htm">Vaccine Safety Training and Education</a><br/>
+	Vaccine safety training and educational materials from CDC Immunization Safety Office
+</p>
+
+<hr/>
+<h2>Websites:</h2>
+<p style="margin-left:20px;">
+	<a title="Allied Vaccine Group" href="http://www.vaccine.org/">Allied Vaccine Group</a><br/>
+	Compromised of organizations dedicated to presenting valid scientific information about vaccines. This site offers facts for providers, parents, journalists, and policymakers.
+</p>
+
+<p style="margin-left:20px;">
+	<a title="American Academy of Pediatrics Immunization Initiatives" href="http://www.cispimmunize.org/">American Academy of Pediatrics Immunization Initiatives</a><br/>
+	This site provides information on general immunization issues and vaccine safety and supply for both clinicians and parents.
+</p>
+
+<?php include '/home/codio/workspace/includes/footer.html' ?>

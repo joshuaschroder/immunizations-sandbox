@@ -1,0 +1,56 @@
+<?php
+	$title= "Reporting Adverse Events - Vaccine Safety" ;
+	include '/home/codio/workspace/includes/header.html';
+    include '/home/codio/workspace/includes/menus/vacsafe_menu.html'; 
+?>
+
+<hr/>
+<h2>Table of Contents</h2>
+<ul>
+	<li><a title="Background Information on VAERS" href="#background">Background Information on VAERS</a></li>
+	<li><a title="Who Should Report?" href="#who">Who Should Report?</a></li>
+	<li><a title="What Should be Reported?" href="#what">What Should be Reported?</a></li>
+	<li><a title="How do you Report?" href="#how">How do you Report?</a></li>
+	<li><a title="Why Should I Report to VAERS?" href="#why">Why Should I Report to VAERS?</a></li>
+</ul>
+
+<a class="bookmark" title="background" name="background"></a>
+<hr/>
+<h2>Background Information on VAERS</h2>
+<p>The Vaccine Adverse Event Reporting System (VAERS) is a national program which collects information about adverse events associated with vaccinations for the purpose of monitoring the safety of vaccines which are used in the United States. The National Childhood Vaccine Injury Act (NCVIA) of 1986 mandated reporting of certain adverse events. VAERS was created in 1990 by the Department of Health and Human Services. VAERS provides a database management system for the collection and analysis of these reports. It is operated jointly by the Centers for Disease Control and Prevention (CDC) and the Food and Drug Administration (FDA). These agencies monitor VAERS reports to determine if any vaccine or vaccine lot has a higher than expected rate of events and the types of events reported for each vaccine. They watch for associations between vaccines and rare events that were not found during clinical trials.</p>
+
+<ul>
+	<li><a title="U.S. Food & Drug Administration - VAERS Page" href="http://www.fda.gov/cber/vaers/vaers.htm">U.S. Food &amp; Drug Administration - VAERS Page</a></li>
+	<li><a title="Centers for Disease Control and Prevention (CDC) - VAERS Page" href="http://www.cdc.gov/od/science/iso/research_activties/vaers.htm">Centers for Disease Control and Prevention (CDC) - VAERS Page</a></li>
+	<li><a title="The Vaccine Adverse Event Reporting System" href="http://vaers.hhs.gov/">The Vaccine Adverse Event Reporting System</a></li>
+</ul>
+
+<a class="bookmark" title="who" name="who"></a>
+<hr/>
+<h2>Who Should Report?</h2>
+<p>Anyone can report to VAERS. Reports are usually submitted by health care providers, vaccine manufacturers, and vaccine recipients (or their parents or guardians). Patients, parents, and guardians are encouraged to seek the help of the vaccine provider in reporting adverse events. They should have a record of the vaccine manufacturer and lot number. Also, it is important to have vaccine adverse events recorded in the medical history for assessment of vaccine contraindications.</p>
+
+<a class="bookmark" title="what" name="what"></a>
+<hr/>
+<h2>What Should be Reported?</h2>
+<p>Any clinically significant adverse event occurring after administration of any vaccine licensed in the US should be reported. Required reports include any event listed in NCVIA reportable event table and any event listed in the package insert as a contraindication to subsequent doses. A report is not documentation that a vaccine caused the event. The  <a title="Reportable Event Table (PDF)" href="http://vaers.hhs.gov/reportable.htm">Reportable Event Table (PDF)</a> specifically outlines the reportable post-vaccination events and the time frames of events that are reportable by law. A copy of the table can also be obtained by calling VAERS at (800) 822-7967.</p>
+
+<a class="bookmark" title="how" name="how"></a>
+<hr/>
+<h2>How do you Report?</h2>
+<p>Reports should be made on the <a title="VAERS form (PDF)" href="/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=24852">VAERS form (PDF)</a>. All requested information should be recorded. The vaccine manufacturer, lot number, and injection site are very important. The forms are pre-addressed and postage paid. They may be photocopied. To request a VAERS form or additional information call the VAERS contact in your area.</p>
+<p>Adverse events following vaccination with vaccine purchased with public funds such as Vaccines for Children funds should be reported through the following agencies.</p>
+<ul>
+	<li><strong>Texas:</strong> (800) 252-9152</li>
+	<li><strong>For Bexar County residents:</strong> (210) 207-2087</li>
+	<li><strong>For City of Houston residents:</strong> (713) 558-3518</li>
+</ul>
+<p>Privately purchased vaccine should be reported directly to VAERS. Contact (800) 822-7967 for forms and information. Secure web-based reporting is available at the <a title="VAERS website" href="http://vaers.hhs.gov/">VAERS website</a>.</p>
+
+<a class="bookmark" title="why" name="why"></a>
+<hr/>
+<h2>Why Should I Report to VAERS?</h2>
+<p>Registries of disease or injury work best when reporting is complete. Complete reporting of post-vaccination events supplies public health professionals with the information they need to ensure the safest strategies of vaccine administration.</p>
+<p><b><em>PLEASE NOTE THAT A REPORT TO VAERS DOES NOT INITIATE A REPORT TO OR FILE A CLAIM WITH THE NATIONAL VACCINE INJURY COMPENSATION PROGRAM.</em></b></p>
+
+<?php include '/home/codio/workspace/includes/footer.html' ?>

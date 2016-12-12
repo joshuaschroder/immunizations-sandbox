@@ -1,0 +1,1247 @@
+<?php
+	$title= "Vaccine Information Statements (VIS)  - Immunizations Unit" ;
+	include '/home/codio/workspace/includes/header.html';
+    include '/home/codio/workspace/includes/menus/imm_old_menu.html'; 
+?>
+
+<p>Vaccine Information Statements (VIS) are information sheets produced by the Centers for Disease Control and Prevention (CDC) that explain to vaccine recipients, their parents, or their legal representatives both the benefits and risks of a vaccine.</p>
+<p>Under the           
+    <a title="National Childhood Vaccine Injury Act (NCVIA)"  href="http://www.cdc.gov/vaccinesafety/ensuringsafety/history/index.html#injuryact">National Childhood Vaccine Injury Act (NCVIA)</a>, federal law requires that VIS be handed out whenever certain vaccinations are given.      
+<a title="Instructions for the use of VIS"  href="http://www.cdc.gov/vaccines/hcp/vis/about/required-use-instructions.html">Instructions for the use of VIS</a> can be viewed on the Centers for Disease Control & Prevention website. </p>
+<p>For all questions pertaining to the literature list or order form, please call Immunizations Unit at (800) 252-9152.</p>
+<hr/>
+<h2>Table of Contents</h2>
+<p style="margin-left:20px;">    
+    <a title="A"  href="#A">A</a> |    
+    <a title="B"  href="#B">B</a> |    
+    <a title="C"  href="#C">C</a> |    
+    <a title="D"  href="#D">D</a> |    
+    <a title="E"  href="#E">E</a> |    
+    <a title="F"  href="#F">F</a> |    
+    <a title="G"  href="#G">G</a> |    
+    <a title="H"  href="#H">H</a> |    
+    <a title="I"  href="#I">I</a> |    
+    <a title="J"  href="#J">J</a> |    
+    <a title="K"  href="#K">K</a> |    
+    <a title="L"  href="#L">L</a> |    
+    <a title="M"  href="#M">M</a> |    
+    <a title="N"  href="#N">N</a> |    
+    <a title="O"  href="#O">O</a> |    
+    <a title="P"  href="#P">P</a> |    
+    <a title="Q"  href="#Q">Q</a> |    
+    <a title="R"  href="#R">R</a> |    
+    <a title="S"  href="#S">S</a> |    
+    <a title="T"  href="#T">T</a> |    
+    <a title="U"  href="#U">U</a> |    
+    <a title="V"  href="#V">V</a> |    
+    <a title="W"  href="#W">W</a> |    
+    <a title="X"  href="#X">X</a> |    
+    <a title="Y"  href="#Y">Y</a> |    
+<a title="Z"  href="#Z">Z</a> | </p>
+<a id="A"  title="A"  data-ektron-placeholder="bookmark"></a>
+<div class="Section"  id="Anthrax">  
+    <hr/>  
+    <h2>Anthrax</h2>  
+    <table class="zebraBorder layout"  summary="Sorted by stock number, ascending"  style="width:95%; margin-left:30px;"  dropzone="copy">    
+        <caption>Vaccine Information Statements and Addendums Relating to the Anthrax vaccine</caption>    
+        <thead>  
+            <tr>    
+                <th scope="col"  style="width:17%;">Stock Number</th>    
+                <th scope="col"  style="width:73%;">Title</th>    
+			<th scope="col"  style="width:10%;">Revision</th>  </tr>
+		</thead>
+        <tbody>  
+            <tr>    
+                <td>EF11-11161</td>    
+                <td>      
+				<a title="Anthrax VIS - English"  href="http://www.cdc.gov/vaccines/hcp/vis/vis-statements/anthrax.pdf"  draggable="false">Anthrax VIS - English (PDF)</a>    </td>    
+			<td>03/2010</td>  </tr>  
+            <tr>    
+                <td>EF11-11161-add</td>    
+                <td>      
+				<a title="Anthrax VIS Addendum - English"  href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=25123"  draggable="false">Anthrax VIS Addendum - English (PDF)</a>    </td>    
+			<td>03/2010</td>  </tr>  
+            <tr>    
+                <td>EF11-11161A</td>    
+                <td>      
+				<a title="Anthrax VIS - Spanish"  href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8589978744"  draggable="false">Anthrax VIS - Spanish (PDF)</a>    </td>    
+			<td>03/2010</td>  </tr>  
+            <tr>    
+                <td>EF11-11161A-sup</td>    
+                <td>      
+				<a title="Anthrax VIS Addendum - Spanish"  href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8589978745"  draggable="false">Anthrax VIS Addendum - Spanish (PDF)</a>    </td>    
+			<td>03/2010</td>  </tr>
+		</tbody>
+	</table>
+</div>
+<a id="B"  title="B"  data-ektron-placeholder="bookmark"></a>
+<a id="C"  title="C"  data-ektron-placeholder="bookmark"></a>
+<div class="Section"  id="ChickenPox">  
+    <hr/>  
+    <h2>Chicken Pox</h2>  
+    <table class="zebraBorder layout"  summary="Sorted by stock number, ascending"  style="width:95%; margin-left:30px;"  dropzone="copy">    
+        <caption>Vaccine Information Statements and Addendums Relating to the Chicken Pox vaccine</caption>    
+        <thead>      
+            <tr>        
+                <th scope="col"  style="width:17%;">Stock Number</th>        
+                <th scope="col"  style="width:73%;">Title</th>        
+				<th scope="col"  style="width:10%;">Revision</th>
+			</tr>
+		</thead>    
+		<tbody>      
+			<tr>        
+				<td>EC-97</td>        
+				<td>          
+					<a title="Chickenpox VIS - English"  href="http://www.cdc.gov/vaccines/hcp/vis/vis-statements/varicella.pdf"  draggable="false">Chickenpox VIS - English (PDF)</a>
+				</td>        
+				<td>03/2008</td>
+			</tr>      
+			<tr>        
+				<td>EC-97-add</td>        
+				<td>          
+					<a title="Checkenpox VIS Addendum - English"  href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=25118"  draggable="false">Checkenpox VIS Addendum - English (PDF)</a>
+				</td>        
+				<td>03/2008</td>
+			</tr>      
+			<tr>        
+				<td>EC-97A</td>        
+				<td>          
+					<a title="Chickenpox VIS - Spanish"  href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=25119"  draggable="false">Chickenpox VIS - Spanish (PDF)</a>
+				</td>        
+				<td>03/2008</td>
+			</tr>      
+			<tr>        
+				<td>EC-97A-sup</td>        
+				<td>          
+					<a title="Checkenpox VIS Addendum - Spanish"  href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=60103"  draggable="false">Checkenpox VIS Addendum - Spanish (PDF)</a>
+				</td>        
+				<td>03/2008</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+<a id="D"  title="D"  data-ektron-placeholder="bookmark"></a>
+<div class="Section"  id="DTaP">  
+    <hr/>  
+    <h2>Diphtheria, Tetanus, & Pertussis (DTP, DTaP, DT)</h2>  
+    <table class="zebraBorder layout"  summary="Sorted by stock number, ascending"  style="width:95%; margin-left:30px;"  dropzone="copy">    
+        <caption>Vaccine Information Statements and Addendums Relating to the Diphtheria, Tetanus, & Pertussis (DTP, DTaP, DT) vaccines</caption>    
+        <thead>      
+            <tr>        
+                <th scope="col"  style="width:17%;">Stock Number</th>        
+                <th scope="col"  style="width:73%;">Title</th>        
+				<th scope="col"  style="width:10%;">Revision</th>
+			</tr>
+		</thead>    
+		<tbody>      
+			<tr>        
+				<td>EC-91</td>        
+				<td>          
+					<a title="Diphtheria, Tetanus, & Pertussis (DTP, DTaP, DT) VIS - English"  href="http://www.cdc.gov/vaccines/hcp/vis/vis-statements/dtap.pdf"  draggable="false">Diphtheria, Tetanus, & Pertussis (DTP, DTaP, DT) VIS - English (PDF)</a>
+				</td>        
+				<td>05/2007</td>
+			</tr>      
+			<tr>        
+				<td>EC-91-add</td>        
+				<td>          
+					<a title="Diphtheria, Tetanus, & Pertussis (DTP, DTaP, DT) VIS Addendum - English"  href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=25106"  draggable="false">Diphtheria, Tetanus, & Pertussis (DTP, DTaP, DT) VIS Addendum - English (PDF)</a>
+				</td>        
+				<td>05/2007</td>
+			</tr>      
+			<tr>        
+				<td>EC-91A</td>        
+				<td>          
+					<a title="Diphtheria, Tetanus, & Pertussis (DTP, DTaP, DT) VIS - Spanish"  href="http://www.immunize.org/vis/spdtap01.pdf"  draggable="false">Diphtheria, Tetanus, & Pertussis (DTP, DTaP, DT) VIS - Spanish (PDF)</a>
+				</td>        
+				<td>05/2007</td>
+			</tr>      
+			<tr>        
+				<td>EC-91A-sup</td>        
+				<td>          
+					<a title="Diphtheria, Tetanus, & Pertussis (DTP, DTaP, DT) VIS Addendum - Spanish"  href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=60090"  draggable="false">Diphtheria, Tetanus, & Pertussis (DTP, DTaP, DT) VIS Addendum - Spanish (PDF)</a>
+				</td>        
+				<td>05/2007</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+<a id="E"  title="E"  data-ektron-placeholder="bookmark"></a>
+<a id="F"  title="F"  data-ektron-placeholder="bookmark"></a>
+<a id="G"  title="G"  data-ektron-placeholder="bookmark"></a>
+<a id="H"  title="H"  data-ektron-placeholder="bookmark"></a>
+<div class="Section"  id="HIB">  
+    <hr/>  
+    <h2>Haemophilus Influenzae Type B (Hib)</h2>  
+    <table class="zebraBorder layout"  summary="Sorted by stock number, ascending"  style="width:95%; margin-left:30px;"  dropzone="copy">    
+        <caption>Vaccine Information Statements and Addendums Relating to the <i>Haemophilus Influenzae</i> Type B (Hib) vaccine</caption>    
+        <thead>      
+            <tr>        
+                <th scope="col"  style="width:17%;">Stock Number</th>        
+                <th scope="col"  style="width:73%;">Title</th>        
+			<th scope="col"  style="width:10%;">Revision</th>
+			</tr>
+		</thead>    
+		<tbody>      
+			<tr>        
+				<td>EC-108</td>        
+				<td>          
+					<a title="Haemophilus Influenzae Type B (Hib) VIS - English"  href="http://www.cdc.gov/vaccines/hcp/vis/vis-statements/hib.pdf"  draggable="false">          <i>Haemophilus Influenzae</i> Type B (Hib) VIS - English (PDF)</a>
+				</td>        
+				<td>04/2015</td>
+			</tr>      
+			<tr>        
+				<td>EC-108-add</td>        
+				<td>          
+					<a title="Haemophilus Influenzae Type B (Hib) VIS Addendum - English"  href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8589997787"  draggable="false">          <i>Haemophilus Influenzae</i> Type B (Hib) VIS Addendum - English (PDF)</a>
+				</td>        
+				<td>04/2015</td>
+			</tr>      
+			<tr>        
+				<td>EC-108A</td>        
+				<td>          
+					<a title="Haemophilus Influenzae Type B (Hib) VIS - Spanish"  href="http://www.immunize.org/vis/sphib.pdf"  draggable="false">          <i>Haemophilus Influenzae</i> Type B (Hib) VIS - Spanish (PDF)</a>
+				</td>        
+				<td>02/2014</td>
+			</tr>      
+			<tr>        
+				<td>EC-108A-sup</td>        
+				<td>          
+					<a title="Haemophilus Influenzae Type B (Hib) VIS Addendum - Spanish"  href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=60109"  draggable="false">          <i>Haemophilus Influenzae</i> Type B (Hib) VIS Addendum - Spanish (PDF)</a>
+				</td>        
+				<td>04/2015</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+<div class="Section"  id="HepA">  
+    <hr/>  
+    <h2>Hepatitis A</h2>  
+    <table class="zebraBorder layout"  summary="Sorted by stock number, ascending"  style="width:95%; margin-left:30px;"  dropzone="copy">    
+        <caption>Vaccine Information Statements and Addendums Relating to the Hepatitis A vaccine</caption>    
+        <thead>      
+            <tr>        
+                <th scope="col"  style="width:17%;">Stock Number</th>        
+                <th scope="col"  style="width:73%;">Title</th>        
+			<th scope="col"  style="width:10%;">Revision</th>
+			</tr>
+		</thead>    
+		<tbody>      
+			<tr>        
+				<td>EC-95</td>        
+				<td>          
+					<a title="Hepatitis A VIS - English"  href="http://www.cdc.gov/vaccines/hcp/vis/vis-statements/hep-a.pdf"  draggable="false">Hepatitis A VIS - English (PDF)</a>
+				</td>        
+				<td>10/2011</td>
+			</tr>      
+			<tr>        
+				<td>EC-95-add</td>        
+				<td>          
+					<a title="Hepatitis A VIS Addendum - English"  href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8589972924"  draggable="false">Hepatitis A VIS Addendum - English (PDF)</a>
+				</td>        
+				<td>10/2011</td>
+			</tr>      
+			<tr>        
+				<td>EC-95A</td>        
+				<td>          
+					<a title="Hepatitis A VIS - Spanish"  href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8589972925"  draggable="false">Hepatitis A VIS - Spanish (PDF)</a>
+				</td>        
+				<td>10/2011</td>
+			</tr>      
+			<tr>        
+				<td>EC-95A-sup</td>        
+				<td>          
+					<a title="Hepatitis A VIS Addendum - Spanish"  href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8589972926"  draggable="false">Hepatitis A VIS Addendum - Spanish (PDF)</a>
+				</td>        
+				<td>10/2011</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+<div class="Section"  id="HepB">  
+    <hr/>  
+    <h2>Hepatitis B</h2>  
+    <table class="zebraBorder layout"  summary="Sorted by stock number, ascending"  style="width:95%; margin-left:30px;"  dropzone="copy">    
+        <caption>Vaccine Information Statements and Addendums Relating to the Hepatitis B vaccine</caption>    
+        <thead>      
+            <tr>        
+                <th scope="col"  style="width:17%;">Stock Number</th>        
+                <th scope="col"  style="width:73%;">Title</th>        
+			<th scope="col"  style="width:10%;">Revision</th>
+			</tr>
+		</thead>    
+		<tbody>      
+			<tr>        
+				<td>EC-106</td>        
+				<td>          
+					<a title="Hepatitis B VIS - English"  href="http://www.cdc.gov/vaccines/hcp/vis/vis-statements/hep-b.pdf"  draggable="false">Hepatitis B VIS - English (PDF)</a>
+				</td>        
+				<td>02/2012</td>
+			</tr>      
+			<tr>        
+				<td>EC-106-add</td>        
+				<td>          
+					<a href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=12884905272"  title="Hepatitis B VIS Addendum - English (PDF)"  draggable="false">Hepatitis B VIS Addendum - English (PDF)</a>
+				</td>        
+				<td>02/2012</td>
+			</tr>      
+			<tr>        
+				<td>EC-106A</td>        
+				<td>          
+					<a title="Hepatitis B VIS - Spanish"  href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=60107"  draggable="false">Hepatitis B VIS - Spanish (PDF)</a>
+				</td>        
+				<td>02/2012</td>
+			</tr>      
+			<tr>        
+				<td>EC-106A-sup</td>        
+				<td>          
+					<a title="Hepatitis B VIS Addendum - Spanish"  href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=12884903583"  draggable="false">Hepatitis B VIS Addendum - Spanish (PDF)</a>
+				</td>        
+				<td>02/2012</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+<div class="Section"  id="HPV-Cervarix">  
+    <hr/>  
+    <h2>Human Papillomavirus Vaccine (HPV-Cervarix®)</h2>  
+    <table class="zebraBorder layout"  summary="Sorted by stock number, ascending"  style="width:95%; margin-left:30px;"  dropzone="copy">    
+        <caption>Vaccine Information Statements and Addendums Relating to the Human Papillomavirus Vaccine (HPV-Cervarix®) vaccine</caption>    
+        <thead>      
+            <tr>        
+                <th scope="col"  style="width:17%;">Stock Number</th>        
+                <th scope="col"  style="width:73%;">Title</th>        
+			<th scope="col"  style="width:10%;">Revision</th>
+			</tr>
+		</thead>    
+		<tbody>      
+			<tr>        
+				<td>EC-111</td>        
+				<td>          
+					<a title="Human Papillomavirus Vaccine (HPV-Cervarix) VIS - English"  href="http://www.cdc.gov/vaccines/hcp/vis/vis-statements/hpv-cervarix.pdf"  draggable="false">Human Papillomavirus Vaccine (HPV-Cervarix) VIS - English (PDF)</a>
+				</td>        
+				<td>05/2011</td>
+			</tr>      
+			<tr>        
+				<td>EC-111-add</td>        
+				<td>          
+					<a title="Human Papillomavirus Vaccine (HPV-Cervarix) VIS Addendum - English"  href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=25096"  draggable="false">Human Papillomavirus Vaccine (HPV-Cervarix) VIS Addendum - English (PDF)</a>
+				</td>        
+				<td>05/2011</td>
+			</tr>      
+			<tr>        
+				<td>EC-111A</td>        
+				<td>          
+					<a title="Human Papillomavirus Vaccine (HPV-Cervarix) VIS - Spanish"  href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=60114"  draggable="false">Human Papillomavirus Vaccine (HPV-Cervarix) VIS - Spanish (PDF)</a>
+				</td>        
+				<td>05/2013</td>
+			</tr>      
+			<tr>        
+				<td>EC-111A-sup</td>        
+				<td>          
+					<a title="Human Papillomavirus Vaccine (HPV-Cervarix) VIS Addendum - Spanish"  href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=60115"  draggable="false">Human Papillomavirus Vaccine (HPV-Cervarix) VIS Addendum - Spanish (PDF)</a>
+				</td>        
+				<td>05/2013</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+<div class="Section"  id="HPV-Gardasil">  
+    <hr/>  
+    <h2>Human Papillomavirus Vaccine (HPV-Gardasil®)</h2>  
+    <table class="zebraBorder layout"  summary="Sorted by stock number, ascending"  style="width:95%; margin-left:30px;"  dropzone="copy">    
+        <caption>Vaccine Information Statements and Addendums Relating to the Human Papillomavirus Vaccine (HPV-Gardasil®) vaccine</caption>    
+        <thead>      
+            <tr>        
+                <th scope="col"  style="width:17%;">Stock Number</th>        
+                <th scope="col"  style="width:73%;">Title</th>        
+			<th scope="col"  style="width:10%;">Revision</th>
+			</tr>
+		</thead>    
+		<tbody>      
+			<tr>        
+				<td>EC-114</td>        
+				<td>          
+					<a title="Human Papillomavirus Vaccine (HPV-Gardasil) VIS - English"  href="http://www.cdc.gov/vaccines/hcp/vis/vis-statements/hpv-gardasil.pdf"  draggable="false">Human Papillomavirus Vaccine (HPV-Gardasil) VIS - English (PDF)</a>
+				</td>        
+				<td>05/2013</td>
+			</tr>      
+			<tr>        
+				<td>EC-114-add</td>        
+				<td>          
+					<a title="Human Papillomavirus Vaccine (HPV-Gardasil) VIS Addendum - English"  href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=60120"  draggable="false">Human Papillomavirus Vaccine (HPV-Gardasil) VIS Addendum - English (PDF)</a>
+				</td>        
+				<td>05/2013</td>
+			</tr>      
+			<tr>        
+				<td>EC-114A</td>        
+				<td>          
+					<a title="Human Papillomavirus Vaccine (HPV-Gardasil) VIS - Spanish"  href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=60121"  draggable="false">Human Papillomavirus Vaccine (HPV-Gardasil) VIS - Spanish (PDF)</a>
+				</td>        
+				<td>08/2015</td>
+			</tr>      
+			<tr>        
+				<td>EC-114A-sup</td>        
+				<td>          
+					<a title="Human Papillomavirus Vaccine (HPV-Gardasil) VIS Addendum - Spanish"  href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=60122"  draggable="false">Human Papillomavirus Vaccine (HPV-Gardasil) VIS Addendum - Spanish (PDF)</a>
+				</td>        
+				<td>08/2015</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+<div class="Section"  id="HPV-ZGardasil-9">  
+    <hr/>  
+    <h2>Human Papillomavirus Vaccine (HPV-Gardasil®-9)</h2>  
+    <table class="zebraBorder layout"  summary="Sorted by stock number, ascending"  style="width:95%; margin-left:30px;"  dropzone="copy">    
+        <caption>Vaccine Information Statements and Addendums Relating to the Human Papillomavirus Vaccine (HPV-Gardasil®-9) vaccine</caption>    
+        <thead>      
+            <tr>        
+                <th scope="col"  style="width:17%;">Stock Number</th>        
+                <th scope="col"  style="width:73%;">Title</th>        
+			<th scope="col"  style="width:10%;">Revision</th>
+			</tr>
+		</thead>    
+		<tbody>      
+			<tr>        
+				<td>C-116</td>        
+				<td>          
+					<a title="Human Papillomavirus Vaccine (HPV-Gardasil-9) VIS - English"  href="/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8590007103"  draggable="false">Human Papillomavirus Vaccine (HPV-Gardasil-9) VIS - English (PDF)</a>
+				</td>        
+				<td>12/2016</td>
+			</tr>      
+			<tr>        
+				<td>C-116-add</td>        
+				<td>          
+					<a title="Human Papillomavirus Vaccine (HPV-Gardasil-9) VIS Addendum - English"  href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8590007104"  draggable="false">Human Papillomavirus Vaccine (HPV-Gardasil-9) VIS Addendum - English (PDF)</a>
+				</td>        
+				<td>12/2016</td>
+			</tr>      
+			<tr>        
+				<td>C-116A</td>        
+				<td>          
+					<a title="Human Papillomavirus Vaccine (HPV-Gardasil-9) VIS - Spanish"  href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8590005900"  draggable="false">Human Papillomavirus Vaccine (HPV-Gardasil-9) VIS - Spanish (PDF)</a>
+				</td>        
+				<td>03/2016</td>
+			</tr>      
+			<tr>        
+				<td>C-116A-sup</td>        
+				<td>          
+					<a title="Human Papillomavirus Vaccine (HPV-Gardasil-9) VIS Addendum - Spanish"  href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8590000388"  draggable="false">Human Papillomavirus Vaccine (HPV-Gardasil-9) VIS Addendum - Spanish (PDF)</a>
+				</td>        
+				<td>08/2016</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+<a id="I"  title="I"  data-ektron-placeholder="bookmark"></a>
+<div class="Section"  id="Influenza-Inactivated-Recombinant">  
+    <hr/>  
+    <h2>Influenza, Inactivated or Recombinant</h2>  
+    <table class="zebraBorder layout"  summary="Sorted by stock number, ascending"  style="width:95%; margin-left:30px;"  dropzone="copy">    
+        <caption>Vaccine Information Statements and Addendums Relating to the Influenza, Inactivated or Recombinant vaccine</caption>    
+        <thead>      
+            <tr>        
+                <th scope="col"  style="width:17%;">Stock Number</th>        
+                <th scope="col"  style="width:73%;">Title</th>        
+				<th scope="col"  style="width:10%;">Revision</th>
+		</tr>
+		</thead>    
+		<tbody>      
+			<tr>        
+				<td>C-93</td>        
+				<td>          
+					<a title="Influenza, Inactivated or Recombinant VIS - English"  href="http://www.cdc.gov/vaccines/hcp/vis/vis-statements/flu.pdf"  draggable="false">Influenza, Inactivated or Recombinant VIS - English (PDF)</a>
+				</td>        
+				<td>08/2015</td>
+			</tr>      
+			<tr>        
+				<td>C-93-add</td>        
+				<td>          
+					<a title="Influenza, Inactivated or Recombinant VIS Addendum - English"  href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8590000393"  draggable="false">Influenza, Inactivated or Recombinant VIS Addendum - English (PDF)</a>
+				</td>        
+				<td>08/2015</td>
+			</tr>      
+			<tr>        
+				<td>C-93A</td>        
+				<td>          
+					<a title="Influenza, Inactivated or Recombinant VIS - Spanish"  href="http://www.immunize.org/vis/spanish_flu_inactive.pdf"  draggable="false">Influenza, Inactivated or Recombinant VIS - Spanish (PDF)</a>
+				</td>        
+				<td>08/2015</td>
+			</tr>      
+			<tr>        
+				<td>C-93A-sup</td>        
+				<td>          
+					<a title="Influenza, Inactivated or Recombinant VIS Addendum - Spanish"  href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8590000995"  draggable="false">Influenza, Inactivated or Recombinant VIS Addendum - Spanish (PDF)</a>
+				</td>        
+				<td>08/2015</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+<div class="Section"  id="Influenza-Live-Intranasal">  
+    <hr/>  
+    <h2>Influenza, Live, Intranasal</h2>  
+    <table class="zebraBorder layout"  summary="Sorted by stock number, ascending"  style="width:95%; margin-left:30px;"  dropzone="copy">    
+        <caption>Vaccine Information Statements and Addendums Relating to the Influenza, Live, Intranasal vaccine</caption>    
+        <thead>      
+            <tr>        
+                <th scope="col"  style="width:17%;">Stock Number</th>        
+                <th scope="col"  style="width:73%;">Title</th>        
+				<th scope="col"  style="width:10%;">Revision</th>
+		</tr>
+		</thead>    
+		<tbody>      
+			<tr>        
+				<td>C-87</td>        
+				<td>          
+					<a title="Influenza, Live, Intranasal VIS - English"  href="http://www.cdc.gov/vaccines/hcp/vis/vis-statements/flulive.pdf"  draggable="false">Influenza, Live, Intranasal VIS - English (PDF)</a>
+				</td>        
+				<td>08/2015</td>
+			</tr>      
+			<tr>        
+				<td>C-87-add</td>        
+				<td>          
+					<a title="Influenza, Live, Intranasal VIS Addendum - English"  href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8590000394"  draggable="false">Influenza, Live, Intranasal VIS Addendum - English (PDF)</a>
+				</td>        
+				<td>08/2015</td>
+			</tr>      
+			<tr>        
+				<td>C-87A</td>        
+				<td>          
+					<a title="Influenza, Live, Intranasal VIS - Spanish"  href="http://www.immunize.org/vis/spanish_flu_live.pdf"  draggable="false">Influenza, Live, Intranasal VIS - Spanish (PDF)</a>
+				</td>        
+				<td>08/2015</td>
+			</tr>      
+			<tr>        
+				<td>C-87A-sup</td>        
+				<td>          
+					<a title="Influenza, Live, Intranasal VIS Addendum - Spanish"  href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8590000996"  draggable="false">Influenza, Live, Intranasal VIS Addendum - Spanish (PDF)</a>
+				</td>        
+				<td>08/2015</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+<a id="J"  title="J"  data-ektron-placeholder="bookmark"></a>
+<div class="Section"  id="Japanese-Encephalitis">  
+    <hr/>  
+    <h2>Japanese Encephalitis (IXIARO)</h2>  
+    <table class="zebraBorder layout"  summary="Sorted by stock number, ascending"  style="width:95%; margin-left:30px;"  dropzone="copy">    
+        <caption>Vaccine Information Statements and Addendums Relating to the Japanese Encephalitis (IXIARO) vaccine</caption>    
+        <thead>      
+            <tr>        
+                <th scope="col"  style="width:17%;">Stock Number</th>        
+                <th scope="col"  style="width:73%;">Title</th>        
+				<th scope="col"  style="width:10%;">Revision</th>
+		</tr>
+		</thead>    
+		<tbody>      
+			<tr>        
+				<td>EF11-13431</td>        
+				<td>          
+					<a title="Japanese Encephalitis (IXIARO) VIS - English"  href="http://www.cdc.gov/vaccines/hcp/vis/vis-statements/je-ixiaro.pdf"  draggable="false">Japanese Encephalitis (IXIARO) VIS - English (PDF)</a>
+				</td>        
+				<td>01/2014</td>
+			</tr>      
+			<tr>        
+				<td>EF11-13431-add</td>        
+				<td>          
+					<a title="Japanese Encephalitis (IXIARO) VIS Addendum - English"  href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=60065"  draggable="false">Japanese Encephalitis (IXIARO) VIS Addendum - English (PDF)</a>
+				</td>        
+				<td>12/2011</td>
+			</tr>      
+			<tr>        
+				<td>EF11-13431A</td>        
+				<td>          
+					<a title="Japanese Encephalitis (IXIARO) VIS - Spanish"  href="http://www.immunize.org/vis/spanish_je_ixiaro.pdf"  draggable="false">Japanese Encephalitis (IXIARO) VIS - Spanish (PDF)</a>
+				</td>        
+				<td>03/2010</td>
+			</tr>      
+			<tr>        
+				<td>EF11-13431-sup</td>        
+				<td>          
+					<a title="Japanese Encephalitis (IXIARO) VIS Addendum - Spanish"  href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8589978746"  draggable="false">Japanese Encephalitis (IXIARO) VIS Addendum - Spanish (PDF)</a>
+				</td>        
+				<td>03/2010</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+<a id="K"  title="K"  data-ektron-placeholder="bookmark"></a>
+<a id="L"  title="L"  data-ektron-placeholder="bookmark"></a>
+<a id="M"  title="M"  data-ektron-placeholder="bookmark"></a>
+<div class="Section"  id="Measles-Mumps-Rubella">  
+    <hr/>  
+    <h2>Measles, Mumps, & Rubella (MMR)</h2>  
+    <table class="zebraBorder layout"  summary="Sorted by stock number, ascending"  style="width:95%; margin-left:30px;"  dropzone="copy">    
+        <caption>Vaccine Information Statements and Addendums Relating to the Measles, Mumps, & Rubella (MMR) vaccine</caption>    
+        <thead>      
+            <tr>        
+                <th scope="col"  style="width:17%;">Stock Number</th>        
+                <th scope="col"  style="width:73%;">Title</th>        
+				<th scope="col"  style="width:10%;">Revision</th>
+		</tr>
+		</thead>    
+		<tbody>      
+			<tr>        
+				<td>EC-92</td>        
+				<td>          
+					<a title="Measles, Mumps, & Rubella (MMR) VIS - English"  href="http://www.cdc.gov/vaccines/hcp/vis/vis-statements/mmr.pdf"  draggable="false">Measles, Mumps, & Rubella (MMR) VIS - English (PDF)</a>
+				</td>        
+				<td>04/2012</td>
+			</tr>      
+			<tr>        
+				<td>EC-92-add</td>        
+				<td>          
+					<a title="Measles, Mumps, & Rubella (MMR) VIS Addendum - English"  href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8589973459"  draggable="false">Measles, Mumps, & Rubella (MMR) VIS Addendum - English (PDF)</a>
+				</td>        
+				<td>04/2012</td>
+			</tr>      
+			<tr>        
+				<td>EC-92A</td>        
+				<td>          
+					<a title="Measles, Mumps, & Rubella (MMR) VIS - Spanish"  href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8589973461"  draggable="false">Measles, Mumps, & Rubella (MMR) VIS - Spanish (PDF)</a>
+				</td>        
+				<td>04/2012</td>
+			</tr>      
+			<tr>        
+				<td>EC-92A-sup</td>        
+				<td>          
+					<a title="Measles, Mumps, & Rubella (MMR) VIS Addendum - Spanish"  href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8589973460"  draggable="false">Measles, Mumps, & Rubella (MMR) VIS Addendum - Spanish (PDF)</a>
+				</td>        
+				<td>04/2012</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+<div class="Section"  id="Measles-Mumps-Rubella-Varicella">  
+    <hr/>  
+    <h2>Measles, Mumps, Rubella, & Varicella (MMRV)</h2>  
+    <table class="zebraBorder layout"  summary="Sorted by stock number, ascending"  style="width:95%; margin-left:30px;"  dropzone="copy">    
+        <caption>Vaccine Information Statements and Addendums Relating to the Measles, Mumps, Rubella, & Varicella (MMRV) vaccine</caption>    
+        <thead>      
+            <tr>        
+                <th scope="col"  style="width:17%;">Stock Number</th>        
+                <th scope="col"  style="width:73%;">Title</th>        
+				<th scope="col"  style="width:10%;">Revision</th>
+		</tr>
+		</thead>    
+		<tbody>      
+			<tr>        
+				<td>EC-115</td>        
+				<td>          
+					<a title="Measles, Mumps, Rubella, & Varicella (MMRV) VIS - English"  href="http://www.cdc.gov/vaccines/hcp/vis/vis-statements/mmrv.pdf"  draggable="false">Measles, Mumps, Rubella, & Varicella (MMRV) VIS - English (PDF)</a>
+				</td>        
+				<td>05/2010</td>
+			</tr>      
+			<tr>        
+				<td>EC-115-add</td>        
+				<td>          
+					<a title="Measles, Mumps, Rubella, & Varicella (MMRV) VIS Addendum - English"  href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8589979980"  draggable="false">Measles, Mumps, Rubella, & Varicella (MMRV) VIS Addendum - English (PDF)</a>
+				</td>        
+				<td>05/2010</td>
+			</tr>      
+			<tr>        
+				<td>EC-115A</td>        
+				<td>          
+					<a title="Measles, Mumps, Rubella, & Varicella (MMRV) VIS - Spanish"  href="http://www.immunize.org/vis/spanish_mmrv.pdf"  draggable="false">Measles, Mumps, Rubella, & Varicella (MMRV) VIS - Spanish (PDF)</a>
+				</td>        
+				<td>05/2010</td>
+			</tr>      
+			<tr>        
+				<td>EC-115A-sup</td>        
+				<td>          
+					<a title="Measles, Mumps, Rubella, & Varicella (MMRV) VIS Addendum - Spanish"  href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8589979981"  draggable="false">Measles, Mumps, Rubella, & Varicella (MMRV) VIS Addendum - Spanish (PDF)</a>
+				</td>        
+				<td>05/2010</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+<div class="Section"  id="Meningococcal-ACWY">  
+    <hr/>  
+    <h2>Meningococcal ACWY</h2>  
+    <table class="zebraBorder layout"  summary="Sorted by stock number, ascending"  style="width:95%; margin-left:30px;"  dropzone="copy">    
+        <caption>Vaccine Information Statements and Addendums Relating to the Meningococcal ACWY vaccine</caption>    
+        <thead>      
+            <tr>        
+                <th scope="col"  style="width:17%;">Stock Number</th>        
+                <th scope="col"  style="width:73%;">Title</th>        
+				<th scope="col"  style="width:10%;">Revision</th>
+		</tr>
+		</thead>    
+		<tbody>      
+			<tr>        
+				<td>EC-96</td>        
+				<td>          
+					<a title="Meningococcal ACWY VIS - English"  href="http://www.cdc.gov/vaccines/hcp/vis/vis-statements/mening.pdf"  draggable="false">Meningococcal ACWY VIS - English (PDF)</a>
+				</td>        
+				<td>03/2016</td>
+			</tr>      
+			<tr>        
+				<td>EC-96-add</td>        
+				<td>          
+					<a title="Meningococcal ACWY VIS Addendum - English"  href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=25115"  draggable="false">Meningococcal ACWY VIS Addendum - English (PDF)</a>
+				</td>        
+				<td>03/2016</td>
+			</tr>      
+			<tr>        
+				<td>EC-96A</td>        
+				<td>          
+					<a title="Meningococcal ACWY VIS - Spanish"  href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=25116"  draggable="false">Meningococcal ACWY VIS - Spanish (PDF)</a>
+				</td>        
+				<td>10/2011</td>
+			</tr>      
+			<tr>        
+				<td>EC-96A-sup</td>        
+				<td>          
+					<a title="Meningococcal ACWY VIS Addendum - Spanish"  href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=60098"  draggable="false">Meningococcal ACWY VIS Addendum - Spanish (PDF)</a>
+				</td>        
+				<td>10/2011</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+<div class="Section"  id="Meningococcal-Serogroup-B">  
+    <hr/>  
+    <h2>Meningococcal, Serogroup B (MenB)</h2>  
+    <table class="zebraBorder layout"  summary="Sorted by stock number, ascending"  style="width:95%; margin-left:30px;"  dropzone="copy">    
+        <caption>Vaccine Information Statements and Addendums Relating to the Meningococcal, Serogroup B (MenB) vaccine</caption>    
+        <thead>      
+            <tr>        
+                <th scope="col"  style="width:17%;">Stock Number</th>        
+                <th scope="col"  style="width:73%;">Title</th>        
+				<th scope="col"  style="width:10%;">Revision</th>
+		</tr>
+		</thead>    
+		<tbody>      
+			<tr>        
+				<td>C-117</td>        
+				<td>          
+					<a title="Meningococcal, Serogroup B (MenB) VIS - English"  href="http://www.cdc.gov/vaccines/hcp/vis/vis-statements/mening-serogroup.pdf"  draggable="false">Meningococcal, Serogroup B (MenB) VIS - English (PDF)</a>
+				</td>        
+				<td>08/2016</td>
+			</tr>      
+			<tr>        
+				<td>C-117-add</td>        
+				<td>          
+					<a title="Meningococcal, Serogroup B (MenB) VIS Addendum - English"  href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8590005901"  draggable="false">Meningococcal, Serogroup B (MenB) VIS Addendum - English (PDF)</a>
+				</td>        
+				<td>08/2016</td>
+			</tr>      
+			<tr>        
+				<td>C-117A</td>        
+				<td>          
+					<a title="Meningococcal, Serogroup B (MenB) VIS - English"  href="http://www.immunize.org/vis/spanish_meningococcal_b.pdf"  draggable="false">Meningococcal, Serogroup B (MenB) VIS - Spanish (PDF)</a>
+				</td>        
+				<td>08/2016</td>
+			</tr>      
+			<tr>        
+				<td>C-117A-sup</td>        
+				<td>          
+					<a title="Meningococcal, Serogroup B (MenB) VIS Addendum - English"  href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8590005903"  draggable="false">Meningococcal, Serogroup B (MenB) VIS Addendum - Spanish (PDF)</a>
+				</td>        
+				<td>08/2016</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+<div class="Section"  id="Multiple-Vaccines">  
+    <hr/>  
+    <h2>Multiple Vaccines (DTaP, Hib, Hepatitis B, Polio, and PCV13)</h2>  
+    <table class="zebraBorder layout"  summary="Sorted by stock number, ascending"  style="width:95%; margin-left:30px;"  dropzone="copy">    
+        <caption>Vaccine Information Statements and Addendums Relating to Multiple Vaccines (DTaP, Hib, Hepatitis B, Polio, and PCV13) Administered at Once</caption>    
+        <thead>      
+            <tr>        
+                <th scope="col"  style="width:17%;">Stock Number</th>        
+                <th scope="col"  style="width:73%;">Title</th>        
+				<th scope="col"  style="width:10%;">Revision</th>
+		</tr>
+		</thead>    
+		<tbody>      
+			<tr>        
+				<td>EC-113</td>        
+				<td>          
+					<a title="Multiple Vaccines VIS - English"  href="http://www.cdc.gov/vaccines/hcp/vis/vis-statements/multi.pdf"  draggable="false">Multiple Vaccines VIS - English (PDF)</a>
+				</td>        
+				<td>11/2015</td>
+			</tr>      
+			<tr>        
+				<td>EC-113-add</td>        
+				<td>          
+					<a title="Multiple Vaccines VIS Addendum - English"  href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=60117"  draggable="false">Multiple Vaccines VIS Addendum - English (PDF)</a>
+				</td>        
+				<td>11/2015</td>
+			</tr>      
+			<tr>        
+				<td>EC-113A</td>        
+				<td>          
+					<a title="Multiple Vaccines VIS - Spanish"  href="http://www.immunize.org/vis/spanish_multi_vaccine_infants.pdf"  draggable="false">Multiple Vaccines VIS - Spanish (PDF)</a>
+				</td>        
+				<td>11/2014</td>
+			</tr>      
+			<tr>        
+				<td>EC-113A-sup</td>        
+				<td>          
+					<a title="Multiple Vaccines VIS Addendum - Spanish"  href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8590001876"  draggable="false">Multiple Vaccines VIS Addendum - Spanish (PDF)</a>
+				</td>        
+				<td>11/2014</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+<a id="N"  title="N"  data-ektron-placeholder="bookmark"></a>
+<a id="O"  title="O"  data-ektron-placeholder="bookmark"></a>
+<a id="P"  title="P"  data-ektron-placeholder="bookmark"></a>
+<div class="Section"  id="Pneumococcal-Conjugate">  
+    <hr/>  
+    <h2>Pneumococcal Conjugate</h2>  
+    <table class="zebraBorder layout"  summary="Sorted by stock number, ascending"  style="width:95%; margin-left:30px;"  dropzone="copy">    
+        <caption>Vaccine Information Statements and Addendums Relating to the Pneumococcal Conjugate vaccine</caption>    
+        <thead>      
+            <tr>        
+                <th scope="col"  style="width:17%;">Stock Number</th>        
+                <th scope="col"  style="width:73%;">Title</th>        
+				<th scope="col"  style="width:10%;">Revision</th>
+		</tr>
+		</thead>    
+		<tbody>      
+			<tr>        
+				<td>EC-85</td>        
+				<td>          
+					<a title="Pneumococcal Conjugate VIS - English"  href="http://www.cdc.gov/vaccines/hcp/vis/vis-statements/pcv13.pdf"  draggable="false">Pneumococcal Conjugate VIS - English (PDF)</a>
+				</td>        
+				<td>11/2015</td>
+			</tr>      
+			<tr>        
+				<td>EC-85-add</td>        
+				<td>          
+					<a title="Pneumococcal Conjugate VIS Addendum - English"  href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=60082"  draggable="false">Pneumococcal Conjugate VIS Addendum - English (PDF)</a>
+				</td>        
+				<td>11/2015</td>
+			</tr>      
+			<tr>        
+				<td>EC-85A</td>        
+				<td>          
+					<a title="Pneumococcal Conjugate VIS - Spanish"  href="http://www.immunize.org/vis/spanish_pcv13.pdf"  draggable="false">Pneumococcal Conjugate VIS - Spanish (PDF)</a>
+				</td>        
+				<td>02/2013</td>
+			</tr>      
+			<tr>        
+				<td>EC-85A-sup</td>        
+				<td>          
+					<a title="Pneumococcal Conjugate VIS Addendum - Spanish"  href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=60084"  draggable="false">Pneumococcal Conjugate VIS Addendum - Spanish (PDF)</a>
+				</td>        
+				<td>02/2013</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+<div class="Section"  id="Pneumococcal-Polysaccharide">  
+    <hr/>  
+    <h2>Pneumococcal Polysaccharide</h2>  
+    <table class="zebraBorder layout"  summary="Sorted by stock number, ascending"  style="width:95%; margin-left:30px;"  dropzone="copy">    
+        <caption>Vaccine Information Statements and Addendums Relating to the Pneumococcal Polysaccharide vaccine</caption>    
+        <thead>      
+            <tr>        
+                <th scope="col"  style="width:17%;">Stock Number</th>        
+                <th scope="col"  style="width:73%;">Title</th>        
+				<th scope="col"  style="width:10%;">Revision</th>
+		</tr>
+		</thead>    
+		<tbody>      
+			<tr>        
+				<td>C-86</td>        
+				<td>          
+					<a title="Pneumococcal Polysaccharide VIS - English"  href="http://www.cdc.gov/vaccines/hcp/vis/vis-statements/ppv.pdf"  draggable="false">Pneumococcal Polysaccharide VIS - English (PDF)</a>
+				</td>        
+				<td>04/2015</td>
+			</tr>      
+			<tr>        
+				<td>C-86-add</td>        
+				<td>          
+					<a title="Pneumococcal Polysaccharide VIS Addendum - English"  href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=12884907361"  draggable="false">Pneumococcal Polysaccharide VIS Addendum - English (PDF)</a>
+				</td>        
+				<td>04/2015</td>
+			</tr>      
+			<tr>        
+				<td>C-86A</td>        
+				<td>          
+					<a title="Pneumococcal Polysaccharide VIS - Spanish"  href="http://www.immunize.org/vis/spanish_ppsv.pdf"  draggable="false">Pneumococcal Polysaccharide VIS - Spanish (PDF)</a>
+				</td>        
+				<td>04/2015</td>
+			</tr>      
+			<tr>        
+				<td>C-86A-sup</td>        
+				<td>          
+					<a title="Pneumococcal Polysaccharide VIS Addendum - Spanish"  href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=12884907363"  draggable="false">Pneumococcal Polysaccharide VIS Addendum - Spanish (PDF)</a>
+				</td>        
+				<td>04/2015</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+<div class="Section"  id="Inactivated-Polio">  
+    <hr/>  
+    <h2>Polio, Inactivated (IPV)</h2>  
+    <table class="zebraBorder layout"  summary="Sorted by stock number, ascending"  style="width:95%; margin-left:30px;"  dropzone="copy">    
+        <caption>Vaccine Information Statements and Addendums Relating to the Inactivated Polio (IPV) vaccine</caption>    
+        <thead>      
+            <tr>        
+                <th scope="col"  style="width:17%;">Stock Number</th>        
+                <th scope="col"  style="width:73%;">Title</th>        
+				<th scope="col"  style="width:10%;">Revision</th>
+		</tr>
+		</thead>    
+		<tbody>      
+			<tr>        
+				<td>EC-90</td>        
+				<td>          
+					<a title="Polio, Inactivated (IPV) VIS - English"  href="http://www.cdc.gov/vaccines/hcp/vis/vis-statements/ipv.pdf"  draggable="false">Polio, Inactivated (IPV) VIS - English (PDF)</a>
+				</td>        
+				<td>11/2011</td>
+			</tr>      
+			<tr>        
+				<td>EC-90-add</td>        
+				<td>          
+					<a title="Polio, Inactivated (IPV) VIS Addendum - English"  href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=12884903584"  draggable="false">Polio, Inactivated (IPV) VIS Addendum - English (PDF)</a>
+				</td>        
+				<td>11/2011</td>
+			</tr>      
+			<tr>        
+				<td>EC-90A</td>        
+				<td>          
+					<a title="Polio, Inactivated (IPV) VIS - Spanish"  href="http://www.immunize.org/vis/sp_pol00.pdf"  draggable="false">Polio, Inactivated (IPV) VIS - Spanish (PDF)</a>
+				</td>        
+				<td>11/2011</td>
+			</tr>      
+			<tr>        
+				<td>EC-90A-sup</td>        
+				<td>          
+					<a title="Polio, Inactivated (IPV) VIS Addendum - Spanish"  href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=12884905271"  draggable="false">Polio, Inactivated (IPV) VIS Addendum - Spanish (PDF)</a>
+				</td>        
+				<td>11/2011</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+<a id="Q"  title="Q"  data-ektron-placeholder="bookmark"></a>
+<a id="R"  title="R"  data-ektron-placeholder="bookmark"></a>
+<div class="Section"  id="Rabies">  
+    <hr/>  
+    <h2>Rabies</h2>  
+    <table class="zebraBorder layout"  summary="Sorted by stock number, ascending"  style="width:95%; margin-left:30px;"  dropzone="copy">    
+        <caption>Vaccine Information Statements and Addendums Relating to the Rabies vaccine</caption>    
+        <thead>      
+            <tr>        
+                <th scope="col"  style="width:17%;">Stock Number</th>        
+                <th scope="col"  style="width:73%;">Title</th>        
+				<th scope="col"  style="width:10%;">Revision</th>
+		</tr>
+		</thead>    
+		<tbody>      
+			<tr>        
+				<td>EC-99</td>        
+				<td>          
+					<a title="Rabies VIS - English"  href="http://www.cdc.gov/vaccines/hcp/vis/vis-statements/rabies.pdf"  draggable="false">Rabies VIS - English (PDF)</a>
+				</td>        
+				<td>10/2009</td>
+			</tr>      
+			<tr>        
+				<td>EC-99-add</td>        
+				<td>          
+					<a title="Rabies VIS Addendum - English"  href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=25121"  draggable="false">Rabies VIS Addendum - English (PDF)</a>
+				</td>        
+				<td>10/2009</td>
+			</tr>      
+			<tr>        
+				<td>EC-99A</td>        
+				<td>          
+					<a title="Rabies VIS - Spanish"  href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=25122"  draggable="false">Rabies VIS - Spanish (PDF)</a>
+				</td>        
+				<td>10/2009</td>
+			</tr>      
+			<tr>        
+				<td>EC-99A-sup</td>        
+				<td>          
+					<a title="Rabies VIS Addendum - Spanish"  href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=60106"  draggable="false">Rabies VIS Addendum - Spanish (PDF)</a>
+				</td>        
+				<td>10/2009</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+<div class="Section"  id="Rotavirus">  
+    <hr/>  
+    <h2>Rotavirus</h2>  
+    <table class="zebraBorder layout"  summary="Sorted by stock number, ascending"  style="width:95%; margin-left:30px;"  dropzone="copy">    
+        <caption>Vaccine Information Statements and Addendums Relating to the Rotavirus vaccine</caption>    
+        <thead>      
+            <tr>        
+                <th scope="col"  style="width:17%;">Stock Number</th>        
+                <th scope="col"  style="width:73%;">Title</th>        
+				<th scope="col"  style="width:10%;">Revision</th>
+		</tr>
+		</thead>    
+		<tbody>      
+			<tr>        
+				<td>C-110</td>        
+				<td>          
+					<a title="Rotavirus VIS - English"  href="http://www.cdc.gov/vaccines/hcp/vis/vis-statements/rotavirus.pdf"  draggable="false">Rotavirus VIS - English (PDF)</a>
+				</td>        
+				<td>04/2015</td>
+			</tr>      
+			<tr>        
+				<td>C-110-add</td>        
+				<td>          
+					<a title="Rotavirus VIS Addendum - English"  href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8590000389"  draggable="false">Rotavirus VIS Addendum - English (PDF)</a>
+				</td>        
+				<td>04/2015</td>
+			</tr>      
+			<tr>        
+				<td>C-110A</td>        
+				<td>          
+					<a title="Rotavirus VIS - Spanish"  href="http://www.immunize.org/vis/spanish_rotavirus.pdf"  draggable="false">Rotavirus VIS - Spanish (PDF)</a>
+				</td>        
+				<td>04/2015</td>
+			</tr>      
+			<tr>        
+				<td>C-110A-sup</td>        
+				<td>          
+					<a title="Rotavirus VIS Addendum - Spanish"  href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8590001880"  draggable="false">Rotavirus VIS Addendum - Spanish (PDF)</a>
+				</td>        
+				<td>04/2015</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+<a id="S"  title="S"  data-ektron-placeholder="bookmark"></a>
+<div class="Section"  id="Shingles">  
+    <hr/>  
+    <h2>Shingles</h2>  
+    <table class="zebraBorder layout"  summary="Sorted by stock number, ascending"  style="width:95%; margin-left:30px;"  dropzone="copy">    
+        <caption>Vaccine Information Statements and Addendums Relating to the Shingles vaccine</caption>    
+        <thead>      
+            <tr>        
+                <th scope="col"  style="width:17%;">Stock Number</th>        
+                <th scope="col"  style="width:73%;">Title</th>        
+				<th scope="col"  style="width:10%;">Revision</th>
+		</tr>
+		</thead>    
+		<tbody>      
+			<tr>        
+				<td>EC-112</td>        
+				<td>          
+					<a title="Shingles VIS - English"  href="http://www.cdc.gov/vaccines/hcp/vis/vis-statements/shingles.pdf"  draggable="false">Shingles VIS - English (PDF)</a>
+				</td>        
+				<td>10/2009</td>
+			</tr>      
+			<tr>        
+				<td>EC-112-add</td>        
+				<td>          
+					<a title="Shingles VIS Addendum - English"  href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=25098"  draggable="false">Shingles VIS Addendum - English (PDF)</a>
+				</td>        
+				<td>10/2009</td>
+			</tr>      
+			<tr>        
+				<td>EC-112A</td>        
+				<td>          
+					<a title="Shingles VIS - Spanish"  href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=25099"  draggable="false">Shingles VIS - Spanish (PDF)</a>
+				</td>        
+				<td>10/2009</td>
+			</tr>      
+			<tr>        
+				<td>EC-112A-sup</td>        
+				<td>          
+					<a title="Shingles VIS Addendum - Spanish"  href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=60116"  draggable="false">Shingles VIS Addendum - Spanish (PDF)</a>
+				</td>        
+				<td>10/2009</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+<a id="T"  title="T"  data-ektron-placeholder="bookmark"></a>
+<div class="Section"  id="Td">  
+    <hr/>  
+    <h2>Tetanus, Diphtheria (Td)</h2>  
+    <table class="zebraBorder layout"  summary="Sorted by stock number, ascending"  style="width:95%; margin-left:30px;"  dropzone="copy">    
+        <caption>Vaccine Information Statements and Addendums Relating to the Tetanus and Diphtheria (Td) vaccine</caption>    
+        <thead>      
+            <tr>        
+                <th scope="col"  style="width:17%;">Stock Number</th>        
+                <th scope="col"  style="width:73%;">Title</th>        
+				<th scope="col"  style="width:10%;">Revision</th>
+		</tr>
+		</thead>    
+		<tbody>      
+			<tr>        
+				<td>C-94</td>        
+				<td>          
+					<a title="Tetanus, Diphtheria (Td) VIS - English"  href="http://www.cdc.gov/vaccines/hcp/vis/vis-statements/td.pdf"  draggable="false">Tetanus, Diphtheria (Td) VIS - English (PDF)</a>
+				</td>        
+				<td>02/2015</td>
+			</tr>      
+			<tr>        
+				<td>C-94-add</td>        
+				<td>          
+					<a title="Tetanus, Diphtheria (Td) VIS Addendum - English"  href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8590001873 "  draggable="false">Tetanus, Diphtheria (Td) VIS Addendum - English (PDF)</a>
+				</td>        
+				<td>02/2015</td>
+			</tr>      
+			<tr>        
+				<td>C-94A</td>        
+				<td>          
+					<a title="Tetanus, Diphtheria (Td) VIS - Spanish"  href="http://www.immunize.org/vis/spanish_td.pdf"  draggable="false">Tetanus, Diphtheria (Td) VIS - Spanish (PDF)</a>
+				</td>        
+				<td>02/2015</td>
+			</tr>      
+			<tr>        
+				<td>C-94A-sup</td>        
+				<td>          
+					<a title="Tetanus, Diphtheria (Td) VIS Addendum - Spanish"  href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8590001879"  draggable="false">Tetanus, Diphtheria (Td) VIS Addendum - Spanish (PDF)</a>
+				</td>        
+				<td>02/2015</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+<div class="Section"  id="Tdap">  
+    <hr/>  
+    <h2>Tetanus, Diptheria, Pertussis (Tdap)</h2>  
+    <table class="zebraBorder layout"  summary="Sorted by stock number, ascending"  style="width:95%; margin-left:30px;"  dropzone="copy">    
+        <caption>Vaccine Information Statements and Addendums Relating to the Tetanus, Diptheria, and Pertussis (Tdap) vaccine</caption>    
+        <thead>      
+            <tr>        
+                <th scope="col"  style="width:17%;">Stock Number</th>        
+                <th scope="col"  style="width:73%;">Title</th>        
+				<th scope="col"  style="width:10%;">Revision</th>
+		</tr>
+		</thead>    
+		<tbody>      
+			<tr>        
+				<td>EC-109</td>        
+				<td>          
+					<a title="Tetanus, Diptheria, Pertussis (Tdap) VIS - English"  href="http://www.cdc.gov/vaccines/hcp/vis/vis-statements/tdap.pdf"  draggable="false">Tetanus, Diptheria, Pertussis (Tdap) VIS - English (PDF)</a>
+				</td>        
+				<td>02/2015</td>
+			</tr>      
+			<tr>        
+				<td>EC-109-add</td>        
+				<td>          
+					<a title="Tetanus, Diptheria, Pertussis (Tdap) VIS Addendum - English"  href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8590000390"  draggable="false">Tetanus, Diptheria, Pertussis (Tdap) VIS Addendum - English (PDF)</a>
+				</td>        
+				<td>02/2015</td>
+			</tr>      
+			<tr>        
+				<td>EC-109A</td>        
+				<td>          
+					<a title="Tetanus, Diptheria, Pertussis (Tdap) VIS - Spanish"  href="http://www.immunize.org/vis/spanish_tdap.pdf"  draggable="false">Tetanus, Diptheria, Pertussis (Tdap) VIS - Spanish (PDF)</a>
+				</td>        
+				<td>02/2015</td>
+			</tr>      
+			<tr>        
+				<td>EC-109A-sup</td>        
+				<td>          
+					<a title="Tetanus, Diptheria, Pertussis (Tdap) VIS Addendum - Spanish"  href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8590001878"  draggable="false">Tetanus, Diptheria, Pertussis (Tdap) VIS Addendum - Spanish (PDF)</a>
+				</td>        
+				<td>02/2015</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+<div class="Section"  id="Typhoid">  
+    <hr/>  
+    <h2>Typhoid</h2>  
+    <table class="zebraBorder layout"  summary="Sorted by stock number, ascending"  style="width:95%; margin-left:30px;"  dropzone="copy">    
+        <caption>Vaccine Information Statements and Addendums Relating to the Typhoid vaccine</caption>    
+        <thead>      
+            <tr>        
+                <th scope="col"  style="width:17%;">Stock Number</th>        
+                <th scope="col"  style="width:73%;">Title</th>        
+				<th scope="col"  style="width:10%;">Revision</th>
+		</tr>
+		</thead>    
+		<tbody>      
+			<tr>        
+				<td>EF11-12050</td>        
+				<td>          
+					<a title="Typhoid VIS - English"  href="http://www.cdc.gov/vaccines/hcp/vis/vis-statements/typhoid.pdf"  draggable="false">Typhoid VIS - English (PDF)</a>
+				</td>        
+				<td>05/2012</td>
+			</tr>      
+			<tr>        
+				<td>EF11-12050-add</td>        
+				<td>          
+					<a title="Typhoid VIS Addendum - English"  href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=25124"  draggable="false">Typhoid VIS Addendum - English (PDF)</a>
+				</td>        
+				<td>05/2012</td>
+			</tr>      
+			<tr>        
+				<td>EF11-12050A</td>        
+				<td>          
+					<a title="Typhoid VIS - Spanish"  href="http://www.immunize.org/vis/sptyphoid.pdf"  draggable="false">Typhoid VIS - Spanish (PDF)</a>
+				</td>        
+				<td>05/2012</td>
+			</tr>      
+			<tr>        
+				<td>EF11-12050A-sup</td>        
+				<td>          
+					<a title="Typhoid VIS Addendum - Spanish"  href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8590001877"  draggable="false">Typhoid VIS Addendum - Spanish (PDF)</a>
+				</td>        
+				<td>05/2012</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+<a id="U"  title="U"  data-ektron-placeholder="bookmark"></a>
+<a id="V"  title="V"  data-ektron-placeholder="bookmark"></a>
+<a id="W"  title="W"  data-ektron-placeholder="bookmark"></a>
+<a id="X"  title="X"  data-ektron-placeholder="bookmark"></a>
+<a id="Y"  title="Y"  data-ektron-placeholder="bookmark"></a>
+<div class="Section"  id="Yellow-Fever">  
+    <hr/>  
+    <h2>Yellow Fever</h2>  
+    <table class="zebraBorder layout"  summary="Sorted by stock number, ascending"  style="width:95%; margin-left:30px;"  dropzone="copy">    
+        <caption>Vaccine Information Statements and Addendums Relating to the Yellow Fever vaccine</caption>    
+        <thead>      
+            <tr>        
+                <th scope="col"  style="width:17%;">Stock Number</th>        
+                <th scope="col"  style="width:73%;">Title</th>        
+				<th scope="col"  style="width:10%;">Revision</th>
+		</tr>
+		</thead>    
+		<tbody>      
+			<tr>        
+				<td>EF11-12051</td>        
+				<td>          
+					<a title="Yellow Fever VIS - English"  href="http://www.cdc.gov/vaccines/hcp/vis/vis-statements/yf.pdf"  draggable="false">Yellow Fever VIS - English (PDF)</a>
+				</td>        
+				<td>03/2011</td>
+			</tr>      
+			<tr>        
+				<td>EF11-12051-add</td>        
+				<td>          
+					<a title="Yellow Fever VIS Addendum - English"  href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=25126"  draggable="false">Yellow Fever VIS Addendum - English (PDF)</a>
+				</td>        
+				<td>03/2011</td>
+			</tr>      
+			<tr>        
+				<td>EF11-12051A</td>        
+				<td>          
+					<a title="Yellow Fever VIS - Spanish"  href="http://www.immunize.org/vis/sp_yf04.pdf"  draggable="false">Yellow Fever VIS - Spanish (PDF)</a>
+				</td>        
+				<td>03/2011</td>
+			</tr>      
+			<tr>        
+				<td>EF11-12051A-sup</td>        
+				<td>          
+					<a title="Yellow Fever VIS Addendum - Spanish"  href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=12884901921"  draggable="false">Yellow Fever VIS Addendum - Spanish (PDF)</a>
+				</td>        
+				<td>03/2011</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+<a id="Z"  title="Z"  data-ektron-placeholder="bookmark"></a>
+
+<?php include '/home/codio/workspace/includes/footer.html' ?>

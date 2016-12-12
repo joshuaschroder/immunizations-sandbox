@@ -1,0 +1,71 @@
+<?php
+	$title= "Adverse Event Prevention - Vaccine Safety" ;
+	include '/home/codio/workspace/includes/header.html';
+    include '/home/codio/workspace/includes/menus/vacsafe_menu.html'; 
+?>
+
+<p>The risk of vaccine adverse events can be reduced by screening for precautions and contraindications prior to administration of any vaccine.</p>
+
+<hr/>
+<h2>Contraindication</h2>
+<p>A contraindication is a condition in a recipient that <b><em>greatly increases</em></b> the chance of a serious adverse reaction. It is a condition in the recipient of the vaccine, not with the vaccine per se. If the vaccine were given in the presence of that condition, the resulting adverse reaction could seriously harm the recipient. In general, vaccines should not be administered when a contraindication condition is present. Contraindications may be temporary or permanent.</p>
+
+<hr/>
+<h2>Precaution</h2>
+<p>A precaution is a condition in a recipient which may <b><em>increase</em></b> the chance or severity of a serious adverse reaction, or that may compromise the ability of the vaccine to produce immunity. Injury could result, but the chance of this happening is less than with a contraindication. Precautions may be temporary or permanent. In general, vaccines are deferred when a precaution condition is present. However, situations may arise when the benefit of protection from the vaccine outweighs the risk of an adverse reaction, and a provider may decide to give the vaccine.</p>
+
+<p>There are two basic types of vaccine, live attenuated and inactivated. Each type of vaccine has different characteristics including the type of adverse event associated with it. The table below shows general characteristics of live and inactivated vaccines. <b><em>Specific contraindications to each vaccine can be found in VIS forms, manufacturer product inserts, and ACIP recommendations</em></b>.</p>
+
+<hr/>
+<h2>Vaccine Contraindications and Precautions</h2>
+<table class="zebraBorder layout" style="width:90%;" summary="table not sorted">
+	<caption>Vaccine Contraindications and Precautions</caption>
+	<thead>
+		<tr>
+			<th scope="col">Condition</th>
+			<th scope="col">Live Attenuated Vaccines<sup>1</sup></th>
+			<th scope="col">Inactivated Vaccines</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Allergy to component</td>
+			<td style="text-align:center;">C<sup>2</sup></td>
+			<td style="text-align:center;">C<sup>2</sup></td>
+		</tr>
+		<tr>
+			<td>Encephalopathy</td>
+			<td style="text-align:center;">---</td>
+			<td style="text-align:center;">C<sup>3</sup></td>
+		</tr>
+		<tr>
+			<td>Pregnancy</td>
+			<td style="text-align:center;">C</td>
+			<td style="text-align:center;">V</td>
+		</tr>
+		<tr>
+			<td>Immunosuppression</td>
+			<td style="text-align:center;">C</td>
+			<td style="text-align:center;">V</td>
+		</tr>
+		<tr>
+			<td>Severe illness</td>
+			<td style="text-align:center;">P</td>
+			<td style="text-align:center;">P</td>
+		</tr>
+		<tr>
+			<td>Recent blood product</td>
+			<td style="text-align:center;">P</td>
+			<td style="text-align:center;">V</td>
+		</tr>
+	</tbody>
+</table>
+
+<h3>Notes:</h3>
+<p>C = Contraindication P = Precaution V = Vaccinate if indicated</p>
+<p><sup>1</sup> Currently available live attenuated vaccines include live viruses (live attenuated influenza vaccine (LAIV), measles, mumps, rubella, varicella, zoster, yellow fever, vaccinia, and human-bovine reassortant rotavirus vaccine), one live bacterial vaccine (BCG), and one live recombinant bacterial vaccine (oral typhoid).</p>
+<p><sup>2</sup> A severe (anaphylactic) allergy is a permanent contraindication.</p>
+<p><sup>3</sup> Applies only to encephalopathy without a known cause occurring within 7 days of a dose of pertussis vaccine.</p>
+<p>Adapted from: Centers for Disease Control and Prevention. Epidemiology and Prevention of Vaccine-Preventable Diseases. Atkinson W, Hamborsky J, Wolfe S, eds. 8th ed. Washington DC: Public Health Foundation, 2004.</p>
+
+<?php include '/home/codio/workspace/includes/footer.html' ?>

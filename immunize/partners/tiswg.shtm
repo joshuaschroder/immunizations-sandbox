@@ -1,0 +1,75 @@
+<?php
+	$title= "Texas Immunization Stakeholder Working Group (TISWG)" ;
+	include '/home/codio/workspace/includes/header.html';
+    include '/home/codio/workspace/includes/menus/imm_old_menu.html'; 
+?>
+
+<p>Raising vaccine coverage levels will require a comprehensive, coherent, strategic approach. The state immunization system is complex and requires collaboration among many public sector, private sector, and community groups. TISWG was created to increase partnerships among these groups across the state to improve immunization practices for all Texans. </p>
+<p>If you or your group is interested in attending please contact our Coalitions and Partnerships Coordinator, Linc Allen, at      
+    <a title="linc.allen@dshs.state.tx.us"  href="mailto:linc.allen@dshs.state.tx.us">linc.allen@dshs.state.tx.us</a> or (512) 776-6266.</p>
+<p>Read more about the TISWG    
+    <a title="TISWG Charge and Objectives"  href="/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=25007">Charge and Objectives (PDF)</a>.</p>
+<hr/>
+<h2>TISWG Meeting Summaries and Documentation</h2>
+<br/>
+<h3>TISWG Meeting - October 27, 2016</h3>
+<p>
+	<a title="Agenda, October 27, 2016" href="WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=12884906697">Agenda, October 27, 2016 (PDF)</a>
+</p>
+<p>Meeting Attachments:</p>
+<ol>  
+    <li><a title="TISWG Orientation Meeting"  href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=12884906616">TISWG Orientation Meeting (PDF)</a></li>
+    <li><a title="2015-16 Flu Season Summary &  2016-17 Flu Season Update"  href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=12884906614">2015-16 Flu Season Summary &  2016-17 Flu Season Update (PDF)</a></li>
+    <li><a title="2016 Immunization Update"  href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=12884906619">2016 Immunization Update (PDF)</a></li>
+    <li><a title="School Compliance Update"  href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=12884906615">School Compliance Update (PDF)</a></li>
+    <li><a title="National Immunization Survey (NIS) 2015 Update"  href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=12884906617">National Immunization Survey (NIS) 2015 Update (PDF)</a></li>
+    <li><a title="Vaccine Preventable Diseases Update, 2016"  href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=12884906618">Vaccine Preventable Diseases Update, 2016 (PDF)</a></li>
+    <li><a title="ImmTrac2 External User Acceptance Testing (UAT) Process"  href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=12884906620">ImmTrac2 External User Acceptance Testing Process (PDF)</a></li>
+</ol>
+<br/>
+<h3>TISWG Meeting - October 14, 2015</h3>
+<p>  
+    <a title="Agenda, October 14, 2015"  href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8590002490">Agenda, October 14, 2015 (PDF)</a>
+</p>
+<p>Meeting Attachments:</p>
+<ol>  
+    <li><a title="TVFC Program Updates"  href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8590002488">TVFC Program Updates (PDF)</a></li>
+    <li><a title="ImmTrac Update: ImmTrac 2 and H.B. 2171"  href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8590002487">ImmTrac Update: ImmTrac 2 and H.B. 2171 (PDF)</a></li>
+    <li><a title="2014 National Immunization Survey Results"  href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8590002485">2014 National Immunization Survey Results (PDF)</a></li>
+    <li><a title="School Compliance Update"  href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8590002483">School Compliance Update (PDF)</a></li>
+    <li><a title="Vaccine-Preventable Disease Surveillance Update"  href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8590002484">Vaccine-Preventable Disease Surveillance Update (PDF)</a></li>
+    <li><a title="Influenza Update"  href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8590002486">Influenza Update (PDF)</a></li>
+</ol>
+<br/>
+<h3>TISWG Meeting - November 12, 2014</h3>
+<p>  
+    <a title="Agenda, November 12, 2014"  href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8589993852">Agenda, November 12, 2014 (PDF)</a>
+</p>
+<p>Meeting Attachments:</p>
+<ol>  
+    <li><a title="TVFC Overview"  href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8589993850">TVFC Overview (PDF)</a></li> 
+    <li><a title="Vaccine Coverage Levels (NIS Data/Exemptions)"  href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8589993854">Vaccine Coverage Levels (NIS Data/Exemptions) (PDF)</a></li> 
+    <li><a title="Flu Overview/Texas Data & Enterovirus D68"  href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8589993855">Flu Overview/Texas Data & Enterovirus D68 (PDF)</a></li> 
+    <li><a title="VPD Burden of Disease"  href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8589993851">VPD Burden of Disease (PDF)</a></li> 
+    <li><a title="Adult Safety Net Overview"  href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8589993853">Adult Safety Net Overview (PDF)</a></li>
+</ol>
+<br/>
+<h3>TISWG Meeting - June 5, 2014</h3>
+<p>  
+    <a title="Agenda, June 5, 2014"  href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8589988575">Agenda, June 5, 2014 (PDF)</a>
+</p>
+<p>Meeting Attachments:</p>
+<ol>  
+    <li><a title="ImmTrac Replacement Project"  href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8589988577">ImmTrac Replacement Project (PDF)</a></li>  
+    <li><a title="Texas Vaccines for Children (TVFC) and Adult Safety Net (ASN) Updates"  href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8589988578">Texas Vaccines for Children (TVFC) and Adult Safety Net (ASN) Updates (PDF)</a></li>  
+    <li><a title="Burden of Disease in Texas"  href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8589993851">Burden of Disease in Texas (PDF)</a></li>
+</ol>
+<br/>
+<p>For more information contact the Immunization Branch at (800) 252-9152.</p>
+<hr/>
+<p>Back to 
+    <a title="Immunization Branch Partnerships"  href="/immunize/partners/default.shtm">Immunization Branch Partnerships</a>
+</p> 
+<hr/>
+
+<?php include '/home/codio/workspace/includes/footer.html' ?>

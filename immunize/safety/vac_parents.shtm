@@ -1,0 +1,48 @@
+<?php
+$title= "Resources for Parents - Vaccine Safety" ;
+include '/home/codio/workspace/includes/header.html';
+include '/home/codio/workspace/includes/menus/vacsafe_menu.html'; 
+?>
+
+<p>Parents are often presented with conflicting information about vaccines and their safety through the media and the internet, some of which may not be based on sound science. The following resources may help parents better understand why immunizations are important and the benefits and risks of vaccines.</p>
+
+<p>
+<a href="http://www.vaccine.org/">Allied Vaccine Group</a>
+<br/>Comprised of organizations dedicated to presenting valid scientific information about vaccines. This site offers facts for providers, parents, journalists, and policymakers, and provides links to organizations that provide fair and balanced information on vaccines. 
+</p>
+
+<p>
+<a title="Centers for Disease Control and Prevention (CDC): How Vaccines Prevent Disease"  href="http://www.cdc.gov/vaccines/parents/vaccine-decision/prevent-diseases.html  ">Centers for Disease Control and Prevention (CDC): How Vaccines Prevent Disease</a>
+<br/>A brief description of how vaccines protect children from disease from the CDC National Immunization Program.
+</p>
+
+<p>
+<a title="Centers for Disease Control and Prevention (CDC): Parents&#8217; Guide to Immunizations"  href="http://www.cdc.gov/vaccines/pubs/parents-guide/parents-guide-part4.html">Centers for Disease Control and Prevention (CDC): Parents&#8217; Guide to Immunizations</a>
+<br/>Frequently asked questions to guide parents on childhood immunizations.</p>
+
+<p>
+<a href="http://www.cdc.gov/od/science/iso/general_info/parents.htm">CDC: Vaccine Safety Information for Parents </a>
+<br/>Learn how vaccines are monitored for safety. Also includes information on the Vaccine Adverse Event Reporting System (VAERS) and the National Vaccine Injury Compensation Program from the CDC Immunization Safety Office. 
+</p>
+
+<p>
+<a title="CDC: Vaccine Side Effects"  href="http://www.cdc.gov/vaccines/parents/vaccine-decision/side-effects.html ">CDC: Vaccine Side Effects</a>
+<br/>Learn more about known vaccine side effects from the CDC National Immunization Program website.
+</p>
+
+<p>
+<a title="CDC: Common vaccine safety concerns"  href="http://www.cdc.gov/vaccinesafety/concerns/index.html ">CDC: Common vaccine safety concerns</a>
+<br/>Answer to common questions about vaccine safety.
+</p>
+
+<p>
+<a title="Real-life Accounts of Vaccine-Preventable Diseases"  href="http://www.immunize.org/reports/ ">Real-life Accounts of Vaccine-Preventable Diseases</a>
+<br/>Read real-life accounts of people who have suffered or died from vaccine-preventable diseases: compelling personal testimonies, remembrances, case reports, and newspaper articles.
+</p>
+
+<p>
+<a title="Article on Vaccine Safety"  href="http://www.chop.edu/centers-programs/vaccine-education-center/vaccine-safety/are-vaccines-safe#.VoVpjbYrKUl ">The Children&#8217;s Hospital of Philadelphia: Vaccine Safety: Are Vaccines Safe?</a>
+<br/>Article examines four different vaccines and the diseases they prevent.
+</p>
+
+<?php include '/home/codio/workspace/includes/footer.html' ?>

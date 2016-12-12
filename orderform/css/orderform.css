@@ -1,0 +1,288 @@
+/* --------------------------
+	Table of Contents
+	--------------------------
+	1. Standard Elements
+	2. Sections and Containers
+	3. Header
+	4. Updates and Alerrts
+	5. Shipping Information
+	6. Publications Table
+	7. Form Submit Buttons and Text
+	8. Footer
+	9. Mobile Media Queries
+*/
+
+/*   1. STANDARD ELEMENTS   */
+
+	body {
+	}
+	a {
+		color: #2d699e;
+	}
+
+/*   2. SECTIONS AND CONTAINERS   */
+
+	.Section {
+		margin:0 35px;
+		clear:both;
+	}
+	.Section h2 {
+		margin-top:60px;
+	}
+	.SubSection {
+		clear:both;
+	}
+	.form-group {
+		margin-bottom:0 !important;
+	}
+
+/*   3. HEADER   */
+
+	#logo {
+		padding-top:20px;
+	}
+
+/*   4. UPDATES AND ALERTS   */
+
+	.alert-info {
+		color: #214c62;
+	}
+	.with-errors li {
+		color:#a20000;
+	}
+	noscript {
+		color:#a20000;		
+	}
+	
+/*   5. SHIPPING INFORMATION   */
+
+	#Date-Personal-Shipping {
+		background-color: #fcf8e3;
+		border-color: #faebcc;
+		padding: 15px;
+		margin-bottom: 20px;
+		border-radius: 4px;	
+	}
+	#PersonalInfo input, #ShippingInfo input {
+		width:100%;
+		padding: 5px;
+	}
+	#PersonalInfo label, #ShippingInfo label {
+		margin-top:10px;
+	}
+	#PersonalInfo select, #ShippingInfo select{
+		width:100%;
+		padding: 5px;
+	}
+	#shipping-text {
+		clear:both;
+		padding:15px;
+	}
+
+/*   6. PUBLICATIONS TABLE   */
+
+	/* Column Widths */
+	
+	#col1 {width: 10%;}
+	#col2 {width: 40%;}
+	#col3 {width: 10%;} 
+	#col4 {width: 20%;} 
+	#col5 {width: 20%;}
+	
+	/* Table Formatting */
+	#pub-table {
+		table-layout:fixed;
+		width:100%;
+	}
+	#pub-table a {
+		font-weight: bold;
+		text-decoration: underline;
+	}
+	#pub-table div.form-group {
+		width:100%;
+	}	
+	#pub-table input {
+		width:90%;
+	}
+	#pub-table td {
+		vertical-align:middle;
+		padding: 20px 10px;
+	}
+	#pub-table th, .fixedHeader-floating th {
+		background-color: #333;
+		color: #FFF;
+		padding: 20px 10px;
+	}
+	td[data-title="Publication Title"] {
+		font-weight:bold;
+		color:#515151;
+	}
+	td[data-title="Publication Title"]:before {
+		font-weight:bold;
+		color:#333;
+	}
+	
+	/* Search Box for Publication Table */
+	.col-sm-6:nth-child(1) {
+		display:none;
+	}
+	.col-sm-6:nth-child(2) {
+		width:100%;
+		 max-width:600px; 
+	}
+	#pub-table_filter {
+		color: #000;
+		background-color: #EFEFEF;
+		padding: 15px;
+		margin: 30px 0;
+		border: 1px solid transparent;
+		border-radius: 4px;
+		width:100%;
+		text-align:left;
+	}
+	#pub-table_filter label {
+		width:100%;
+	}
+	#pub-table_filter input {
+		width:73%;
+	}	
+	
+	/* Placeholder Text for Form Fields */
+	 input.form-control::-webkit-input-placeholder, input::-webkit-input-placeholder { /* Chrome, Edge, and Opera */
+		color:#545454;
+	}
+	input:-moz-placeholder { /* Mozilla Firefox 4 to 18 */
+	   color:#545454 !important;
+	   opacity:1;
+	}
+	input::-moz-placeholder { /* Mozilla Firefox 19+ */
+	   color:#545454 !important;
+	   opacity:1;
+	}
+	input.form-control:-ms-input-placeholder, input:-ms-input-placeholder  {  /* Internet Explorer 10+ */
+	   color:#545454 !important;
+	}
+	 input.form-control[placeholder], [placeholder], *[placeholder] { /* Catch-all for other browsers */
+	   color: #545454;
+	}
+
+/*   7. FORM SUBMIT BUTTONS AND TEXT   */
+
+	#Checkout {
+		background-color: #fcf8e3;
+		border-color: #faebcc;
+		padding: 15px;
+		margin-bottom: 20px;
+		border-radius: 4px;	
+	}
+	#btn-group {
+		margin:20px 0;
+	}
+	#Checkout input.btn {
+		margin-right:25px;
+		margin-bottom:10px;
+	}
+	#Checkout input.btn-primary {
+		background-color:#265986;
+	}
+	#Checkout input.btn-primary:hover {
+		background-color:#1e4b70;
+	}
+	#Checkout input.btn-secondary {
+		background-color:#FFF;
+		border: 1px solid #777;
+	}
+
+/*   8.  FOOTER   */
+
+	#Footer {
+		text-align:center;
+		padding:25px;
+	}
+	
+/*   9. MOBILE MEDIA QUERIES   */
+
+	/*  Make the logo fit better on phones  */
+	@media screen and (max-width: 360px) {
+		#logo {
+			width: 85%;
+			height: auto;
+		}
+	}
+	
+	/* Reduce margins on phones */
+	@media only screen and (max-width: 800px) {
+		.Section {
+			margin:0 15px;
+			clear:both;
+		}
+		#pub-table {
+			padding:0;
+		}
+		.fixedHeader-floating th {
+			display:none;
+		}
+		div.form-group {
+			padding-left: 5px;
+			padding-right: 5px;
+		}
+		#shipping-text {
+			padding:5px;
+		}
+		.col-sm-6:nth-child(2) {
+			 max-width:100%; 
+		}		
+		#pub-table_filter input {
+			display:block;
+			width:100%;
+			margin:10px 0;
+		}
+		#btn-group {
+			margin:15px 0;
+		}
+	}
+
+	/* No More Tables Technique */
+	/*   http://bootsnipp.com/snippets/featured/no-more-tables-respsonsive-table  */
+	@media only screen and (max-width: 800px) {
+		/* Force table to not be like tables anymore */
+		#no-more-tables table, 
+		#no-more-tables thead, 
+		#no-more-tables tbody, 
+		#no-more-tables th, 
+		#no-more-tables td, 
+		#no-more-tables tr { 
+			display: block; 
+		}
+		/* Hide table headers (but not display: none;, for accessibility) */
+		#no-more-tables thead tr { 
+			position: absolute;
+			top: -9999px;
+			left: -9999px;
+		}
+		#no-more-tables tr { border: 1px solid #ccc; }
+		#no-more-tables td, #pub-table td { 
+			/* Behave  like a "row" */
+			border: none;
+			border-bottom: 1px solid #eee; 
+			position: relative;
+			padding:10px 10px 10px 40%;
+			white-space: normal;
+			text-align:left;
+			vertical-align:top;
+		}
+		#no-more-tables td:before { 
+			/* Now like a table header */
+			position: absolute;
+			/* Top/left values mimic padding */
+			left: 6px;
+			width: 40%; 
+			padding-right: 10px; 
+			/* white-space: nowrap; */
+			text-align:left;
+			font-weight: bold;
+		}
+		/*Label the data*/
+		#no-more-tables td:before { content: attr(data-title); }
+	}
+		

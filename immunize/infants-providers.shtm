@@ -1,0 +1,56 @@
+<?php
+	$title= "Infant Immunizations - Health-Care Providers" ;
+	include '/home/codio/workspace/includes/header.html';
+    include '/home/codio/workspace/includes/menus/imm_old_menu.html'; 
+?>
+
+<hr/>
+<h2>Your Strong Recommendation to Vaccinate Makes All the Difference</h2>
+<p>While health departments work hard to ensure that appropriate vaccine information is available, public health officials must work in partnership with health-care providers to address parents' individual needs and concerns. Vaccinations for young children have been known to fall off after their first year, so encouraging your patients at every visit to follow the recommended immunization schedule is more important than ever. Please continue to emphasize to parents the importance of routine and timely vaccination.</p>
+
+<hr/>
+<h2>Helpful Charts and Posters</h2>
+<p>"Protect Your Babies," a new campaign from the Texas Department of State Health Services, provides easy-to-follow materials to help you inform your patients.</p>
+
+<p>
+	<strong><a title="download recommended vaccine schedule poster for children 0-6 years" href="http://wwwstage.dshs.state.tx.us/immunize/campaign/Infant/E11-14456P.pdf">Download and Display this Poster</a></strong><br/>
+	<a title="download recommended vaccine schedule poster for children 0-6 years" href="http://wwwstage.dshs.state.tx.us/immunize/campaign/Infant/E11-14456P.pdf">
+		<img title="recommended vaccine schedule poster for children 0-6 years" src="http://wwwstage.dshs.state.tx.us/uploadedImages/Content/Prevention_and_Preparedness/immunize/campaign/Infant/InfantSched_preview.gif" alt="recommended vaccine schedule poster for children 0-6 years" />
+	</a>
+</p>
+<p>See the <a title="recommended childhood immunization schedule" href="/immunize/docs/6-105.pdf">recommended childhood immunization schedule</a> from the CDC.</p>
+<p>Access DSHS literature and publications to order more detailed <a title="Vaccine Information Statements (VIS)" href="https://secure.immunizetexasorderform.com/default.asp">Vaccine Information Statements (VIS)</a>.</p>
+
+<hr/>
+<h2>Tools and Programs for Patients</h2>
+
+<p>Here are some tools and programs offered in the state of Texas:</p>
+
+<p>The <a title="Texas Vaccines For Children (TVFC) program" href="/immunize/tvfc/">Texas Vaccines For Children (TVFC)</a> program is a state- and <a title="vaccines for children federal funding source" href="http://www.cdc.gov/vaccines/programs/vfc/index.html">federally-funded</a> program that provides vaccines to eligible children.</p>
+
+<p>If a child has missed some vaccines or needs a booster, see the CDC's webpage on <a title="Birth-18 Years &amp; Catch-up Immunization Schedules" href="http://www.cdc.gov/vaccines/schedules/hcp/child-adolescent.html">Birth-18 Years &amp; "Catch-up" Immunization Schedules</a> to determine a personalized plan of needed vaccines.</p>
+
+<p>Please be sure to register as an <a title="authorized ImmTrac health-care provider" href="/immunize/immtrac/authorized-organizations.shtm">authorized ImmTrac health-care provider</a>. Then, discuss with your patients the <a title="benefits of ImmTrac registration for clients" href="/immunize/immtrac/clients.shtm">benefits</a> of consenting to store their families' immunization records in <a title="ImmTrac homepage" href="/immunize/immtrac/default.shtm">ImmTrac</a>, the secure and confidential Texas Immunization Registry. This will help parents keep track of their child's immunization history, even if they move to a different city or switch doctors.</p>
+
+<hr/>
+<h2>Websites for Parents</h2>
+<p>Help ensure your infant and toddler patients receive needed vaccinations. You can start by referring parents to the <a title="infant-specific section" href="http://www.dshs.state.tx.us/immunize/infants.shtm">infant-specific section of the Immunize Texas website</a>.</p>
+<p>Parents can protect their preteens by keeping them on the recommended schedule for <a title="adolescents" href="http://www.dshs.state.tx.us/immunize/PreteenVaccines.aspx">adolescents</a>.</p>
+
+<hr/>
+<h2>Communication Strategies -- How to Have a Successful Dialogue</h2>
+<p><span class="small">An excerpt from <br/><a title="Talking with Parents about Vaccines for Infants" href="http://www.cdc.gov/vaccines/hcp/patient-ed/conversations/downloads/talk-infants-color-office.pdf">Talking with Parents about Vaccines for Infants</a></span></p>
+
+<blockquote>
+	<p>A successful discussion about vaccines involves a two-way conversation, with both parties sharing information and asking questions. These communications principles can help you connect with patients by encouraging open, honest, and productive dialogue.</p>
+
+	<p>Take advantage of early opportunities such as the prenatal, newborn, 1-week, and 1-month visits to initiate a dialogue about vaccines. These also are good opportunities to provide take-home materials or direct parents to immunization websites that you trust. This gives parents time to read and digest reputable vaccine information before the first and all future immunizations. And when parents have questions, you can build on the reputable information that they already have reviewed. With parents who have many questions, consider an extended visit to discuss vaccinating their child.</p>
+</blockquote>
+
+<hr/>
+<h2>Vaccines are Safe</h2>
+<p>Parents want to know whether a vaccine is safe for their child. It is important to provide clear answers and correct any misinformation in a helpful, reassuring way. This <a title="infographic from the CDC" href="http://www.cdc.gov/vaccines/parents/infographics/journey-of-child-vaccine.html">infographic from the CDC</a> can be a handy tool when explaining the testing that occurs with every recommended vaccination.</p>
+
+
+
+<?php include '/home/codio/workspace/includes/footer.html' ?>

@@ -1,0 +1,22 @@
+<?php
+	$title= "Vaccine Safety" ;
+	include '/home/codio/workspace/includes/header.html';
+    include '/home/codio/workspace/includes/menus/vacsafe_menu.html'; 
+?>
+
+<p>Vaccines are safe and serious side effects are very rare. Vaccines, like any other drug, are not without some risks. However, unlike other drugs, vaccines are held to a high safety standard since they are given to healthy individuals. Most side effects from vaccines are mild and self-limiting. Vaccines are the safest and most effective tool we have to prevent serious and sometimes fatal diseases like pertussis (whooping cough), measles, tetanus, hepatitis B, diphtheria, as well as others.</p>
+
+<!--hr/>
+<h2>Email Updates</h2>
+<p>Sign up to receive email updates about important changes about vaccine safety. This feature will serve as a tool to increase communication with parents and providers regarding new information added to the website.</p>
+<p><a title="sign up for email updates" href="https://public.govdelivery.com/accounts/TXHHSC/subscriber/new?topic_id=TXHHSC_n"><img alt="sign up for email updates" src="http://wwwstage.dshs.state.tx.us/uploadedImages/Common/button-govdelsq.gif"></a></p-->
+
+
+<hr/>
+<h2>Contact Information</h2>
+<p>
+	Toll-Free: (800) 252-9152<br/>
+	Fax: (512) 776-7288
+</p>
+
+<?php include '/home/codio/workspace/includes/footer.html' ?>

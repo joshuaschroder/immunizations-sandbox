@@ -1,0 +1,42 @@
+<?php
+	$title= "Adolescent Vaccines - Information for Providers" ;
+	include '/home/codio/workspace/includes/header.html';
+    include '/home/codio/workspace/includes/menus/imm_old_menu.html'; 
+?>
+
+<hr/>
+<h2>Help Preteens Get All Recommended Vaccines</h2>
+<p>The Texas Department of State Health Services (DSHS) recommends certain vaccines for preteens, as determined by the U.S. Centers for Disease Control and Prevention (CDC). The vaccines for adolescents help prevent human papillomavirus (HPV vaccine); meningitis (meningococcal conjugate vaccine, or MCV4); tetanus, diphtheria, and pertussis (Tdap vaccine); and influenza (flu vaccine).These recommendations are supported by the American Academy of Pediatrics, the American Academy of Family Physicians, and the Society for Adolescent Health and Medicine.</p>
+<p>Vaccines are part of a lifelong wellness strategy that will better protect your patients from vaccine-preventable diseases.</p>
+<ul>
+	<li><a title="See the Full Schedule Online" href="/immunize/Schedule/schedule_child.shtm">See the Full Schedule Online</a></li>
+	<li><a title="Download the Full Schedule" href="/immunize/docs/6-105.pdf">Download the Full Schedule</a></li>
+</ul>
+
+<hr/>
+<h2>Any Adolescent Visit is a Good Time to Talk About Immunizations</h2>
+<p>Studies* show that a recommendation from a provider is the single best predictor of vaccination. Any medical visit by an adolescent is a good opportunity to discuss the recommended preteen vaccines. Help parents understand the benefits of getting the recommended vaccines for their children at the right time (during the preteen years), and how their children can catch up if they are behind on the immunization schedule. Also, remind parents that there are vaccines for their preteens that help prevent cervical cancer, whooping cough, and other life-threatening diseases. If you have the capability at your office or clinic, use technology (such as email reminders) to communicate with parents about their preteen's current immunizations. This can be especially helpful for the HPV vaccine, which requires three doses over a six-month period.</p>
+<p><em>*Based on immunization research conducted in 2011 and 2012 for the DSHS Immunizations Unit</em></p>
+
+<hr/>
+<h2>Talk With Parents and Caregivers About Vaccines</h2>
+<p>Some parents may have concerns about vaccine safety. They may not fully understand what each vaccine protects against. And they may not understand why some vaccines need to be given during adolescence. Take the time to listen to the concerns of parents. Remind them that these vaccines are safe and can help prevent illness, hospitalization, and even death. The CDC has a number of <a title="helpful resources" href="http://www.cdc.gov/vaccines/hcp/patient-ed/conversations/index.html">helpful resources</a> for talking with parents about vaccines, including the <a title="vaccine for HPV" href="http://www.cdc.gov/vaccines/who/teens/for-hcp/hpv-resources.html">vaccine for HPV</a>.</p>
+
+<hr/>
+<h2>Make Use of Additional Resources</h2>
+<p>There are many resources available to help you ensure your adolescent patients receive needed vaccinations. Your first step can be to direct patients to the <a title="preteen-specific section" href="/immunize/PreteenVaccines.aspx">preteen-specific section</a> of the Immunize Texas website.</p>
+
+<p><a title="ImmTrac, the Texas immunization registry" href="/immunize/immtrac/default.shtm">ImmTrac, the Texas immunization registry</a>, helps providers and parents track immunization histories.</p>
+
+<hr/>
+<h2>Downloadable Resources</h2>
+<ul>
+	<li><a title="Download the HPV-Cervarix Info Sheet (PDF)" href="http://www.cdc.gov/vaccines/hcp/vis/vis-statements/hpv-cervarix.pdf">HPV-Cervarix Info Sheet (PDF)</a></li>
+	<li><a title="Download the MCV4 Info Sheet (PDF)" href="http://www.cdc.gov/vaccines/hcp/vis/vis-statements/mening.pdf">MCV4 Info Sheet (PDF)</a></li>
+	<li><a title="Download the Inactivated Flu VIS" href="http://www.cdc.gov/vaccines/hcp/vis/vis-statements/flu.pdf">Inactivated Flu VIS (PDF)</a></li>
+	<li><a title="Download the HPV-Gardasil Info Sheet (PDF)" href="http://www.cdc.gov/vaccines/hcp/vis/vis-statements/hpv-gardasil.pdf">HPV-Gardasil Info Sheet (PDF)</a></li>
+	<li><a title="Download the Tdap Info Sheet (PDF)" href="http://www.cdc.gov/vaccines/hcp/vis/vis-statements/tdap.pdf">Tdap Info Sheet (PDF)</a></li>
+	<li><a title="Download the Live, Intranasal Flu VIS (PDF)" href="http://www.cdc.gov/vaccines/hcp/vis/vis-statements/flulive.pdf">Live, Intranasal Flu VIS (PDF)</a></li>
+</ul>
+
+<?php include '/home/codio/workspace/includes/footer.html' ?>

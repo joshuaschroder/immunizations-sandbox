@@ -1,0 +1,267 @@
+<?php
+	$title= "2016-2017 Texas Influenza (Flu) Season" ;
+	include '/home/codio/workspace/includes/header.html';
+	include '/home/codio/workspace/includes/menus/imm_old_menu.html'; 
+?>
+
+<div class="Section" id="Intro">
+	<hr/>
+	<h2>Table of Contents</h2>
+	<ol>
+		<li><a title="Where To Get a Flu Vaccine"  href="#where">Where To Get a Flu Vaccine</a></li>
+		<li><a title="NIVW Resources"  href="#NIVW">NIVW Resources</a></li>
+		<li><a title="Flu Season Websites"  href="#web">Flu Season Websites</a></li>
+		<li><a title="What You Should Know About the Flu"  href="#what">What You Should Know About the Flu</a> </li>
+		<li><a title="Flu Vaccine Information"  href="#vac">Flu Vaccine Information</a></li>
+		<li><a title="Information for Health-Care Professionals"  href="#prof">Information for Health-Care Professionals</a></li>
+		<li><a title="Flu Print Publications"  href="#print">Flu Print Publications</a></li>
+		<li><a title="Influenza Prevention Organizations"  href="#org">Influenza Prevention Organizations</a></li>
+	</ol>
+</div>
+
+<div class="Section" id="1-Where">
+	<a name="where" title="where" class="bookmark"></a>
+	<hr/>
+	<h2>1. Where To Get a Flu Vaccine</h2>
+	<p>The following resources may be used to find a vaccine clinic near you:</p>
+	<iframe src="//www.cdc.gov/flu/freeresources/flu-finder-widget.html" scrolling="no" height="160" frameborder="0" width="280" title="CDC Flu Vaccine Finder" style="overflow: hidden;"><!-- Flu Finder Widget !--> </iframe>
+	<br/><br/>
+	<ul>
+		<li>Contact your health-care provider </li>
+		<li>Texas DSHS <a title="Health Service Regional Offices"  href="/regions/default.shtm">Health Service Regional Offices</a> </li>
+		<li>Texas Local Health Departments Offices 
+			<ul>
+				<li><a title="Full Service Local Health Departments and Districts of Texas" href="/regions/lhds.shtm">Full Service Local Health Departments and Districts of Texas</a></li>
+				<li><a title="Texas Non-Participating Local Health Departments" href="/regions/nonlhd.shtm">Texas Non-Participating Local Health Departments</a> </li>
+			</ul>
+		</li>
+		<li>Watch for advertisements in your local newspaper or clinics at community centers, churches, office parks, shopping malls, grocery store pharmacies, national pharmacy stores, etc.</li>
+	</ul>
+</div>
+
+<div class="Section" id="2-Resources">
+	<a name="NIVW" title="NIVW" class="bookmark"></a>
+	<hr/>
+	<h2>2. National Influenza Vaccination Week (NIVW) Resources</h2>
+	
+	<p>Below are several resources we welcome providers and health care facilities to use in the promotion of National Influenza Vaccination Week (NIVW), scheduled for December 4-10, 2016.</p>
+	<ul>
+		<li>DSHS is pleased to offer the following graphics provided by Walgreens for the promotion of NIVW:
+			<br/>(Click for full-sized image. Then right-click to save.)
+			<br/>
+			<a href="/uploadedImages/Content/Prevention_and_Preparedness/immunize/nivw/NIVW-SpursPoster2014.jpg"  target="_blank">
+				<img alt="Don't sit on your spurs, get a flu shot poster" src="/uploadedImages/Content/Prevention_and_Preparedness/immunize/nivw/NIVW-spurs_thumb.png" style="padding:10px;"/>
+			</a>       
+			<a href="/uploadedImages/Content/Prevention_and_Preparedness/immunize/nivw/NIVW-RememberPoster2014.jpg"  target="_blank">
+				<img alt="Remember the flu. Get a flu shot poster" src="/uploadedImages/Content/Prevention_and_Preparedness/immunize/nivw/NIVW-remember_thumb.png" style="padding:10px;"/>
+			</a>       
+			<a href="/uploadedImages/Content/Prevention_and_Preparedness/immunize/nivw/NIVW-TumbleweedPoster2014.jpg"  target="_blank">
+				<img alt="The flu just rolled in poster" src="/uploadedImages/Content/Prevention_and_Preparedness/immunize/nivw/NIVW-tumbleweed_thumb.png" style="padding:10px;"/>
+			</a> 
+		</li>
+		<li>See the CDC's 
+			<a title="National Influenza Vaccination Week &#8211; December 4-10, 2016"  href="http://www.cdc.gov/flu/NIVW/index.htm">National Influenza Vaccination Week &#8211; December 4-10, 2016</a> page for highlights of the CDC's plans and additional resources for NIVW 2015.
+		</li>
+	</ul>
+</div>
+
+<div class="Section" id="3-Websites">
+	<a name="web" title="web" class="bookmark"></a>
+	<hr/>
+	<h2>3. Flu Season Websites</h2>
+	<table>
+		<tbody>
+			<tr>
+				<td style="width:17%;text-align:center;"><a title="TexasFluOrg-sm"  href="http://www.texasflu.org"><img title="TexasFluOrg-sm"  alt="TexasFlu.Org logo"  src="/uploadedImages/Content/Prevention_and_Preparedness/immunize/images/TexasFlu-Org(1).jpg"  border="0" /></a></td>
+				<td style="width:27%;"><strong>Texas DSHS:</strong><br/><a title="TexasFlu.org"  href="http://www.TexasFlu.org">TexasFlu.org</a></td>
+				<td style="width:52%;padding-left:4%;"><strong>Texas DSHS &#8211; Infectious Disease Control Unit (IDCU):</strong><br/><a title="Flu Surveillance Homepage"  href="http://www.dshs.state.tx.us/idcu/disease/influenza/">Flu Surveillance Homepage</a></td>
+			</tr>
+			<tr>
+				<td style="width:17%;text-align:center;"><img title="protect2"  alt="protect2"  src="/uploadedImages/Content/Prevention_and_Preparedness/immunize/Protect2.gif" /></td>
+				<td style="width:27%;"><strong>Texas DSHS <br/><em>Protect Two from the Flu:</em></strong><br/><a title="Protect2.org"  href="http://www.protect2.org">Protect2.org</a></td>
+				<td style="width:52%;padding-left:4%;"><strong>Centers for Disease Control and Prevention (CDC):<br/></strong><a title="CDC Seasonal Flu Homepage"  href="http://www.cdc.gov/flu/">CDC Seasonal Flu Homepage</a></td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+
+<div class="Section" id="4-Should-Know">
+	<a name="what" title="what" class="bookmark"></a>
+	<hr/>
+	<h2>4. What You Should Know About the Flu</h2>
+	<table>
+		<tr>
+			<td>
+				<a title="The Flu I.Q. widget is an interactive quiz to test your flu knowledge."  href="http://www.cdc.gov/flu/fluiq.htm/index.html?s_cid=seasonalflu-btn-004&utm_source=external&utm_medium=banner&utm_content=0613-Flu-004&utm_campaign=seasonalflu">
+					<img style="border: 0px currentColor; border-image: none; width: 150px; height: 172px;"  alt="The Flu I.Q. widget is an interactive quiz to test your flu knowledge."  src="https://www.cdc.gov/images/campaigns/seasonalflu/flu0613-Summer-150x172.gif"/>
+				</a>
+			</td>
+			<td>
+				<ul>
+					<li><a title="What You Should Know for the 2016-2017 Influenza Season"  href="http://www.cdc.gov/flu/about/season/flu-season-2016-2017.htm">What You Should Know for the 2016-2017 Influenza Season</a></li>
+					<li><a title="Questions &amp; Answers: Flu Vaccine"  href="http://www.cdc.gov/flu/protect/vaccine/general.htm">Questions & Answers: Flu Vaccine</a></li>
+					<li><a title="Questions &amp; Answers: The Nasal-Spray Flu Vaccine "  href="http://www.cdc.gov/flu/about/qa/nasalspray.htm">Questions & Answers: The Nasal-Spray Flu Vaccine </a></li>
+					<li><a title="Key Facts about Influenza (Flu) & Flu Vaccine" href="http://www.cdc.gov/flu/keyfacts.htm">Key Facts about Influenza (Flu) & Flu Vaccine</a></li>
+					<li><a title="Preventing the Flu" href="http://www.cdc.gov/flu/protect/preventing.htm">Preventing the Flu</a></li>
+					<li><a title="Influenza (the Flu): Questions & Answers" href="http://www.cdc.gov/flu/about/qa/">Influenza (the Flu): Questions & Answers</a></li>
+				</ul>
+			</td>
+		</tr>
+	</table>
+</div>
+
+<div class="Section" id="5-Information">
+	<hr/>
+	<a name="vac" title="vac" class="bookmark"></a>
+	<h2>5. Flu Vaccine Information</h2>
+	
+	<br/>
+	<h3>Inactivated Influenza - Vaccine Information Statements (VIS) and Addendums</h3>
+	<ul>
+		<li><a title="Inactivated Influenza VIS - English" href="http://www.cdc.gov/vaccines/hcp/vis/vis-statements/flu.pdf">Inactivated Influenza VIS - English (PDF)</a></li>
+		<li><a title="Inactivated Influenza VIS - Spanish" href="http://www.immunize.org/vis/spanish_flu_inactive.pdf">Inactivated Influenza VIS - Spanish (PDF)</a></li>
+		<li><a title="Inactivated Influenza Addendum - English" href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8590000393">Inactivated Influenza Addendum - English (PDF)</a></li>
+		<li><a title="Inactivated Influenza Addendum - English" href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8590000995">Inactivated Influenza Addendum - Spanish (PDF)</a></li>
+	</ul>
+	
+	<br/>
+	<h3>Live, Intranasal Influenza - Vaccine Information Statements (VIS) and Addendums</h3>
+	<ul>
+		<li><a title="Live, Intranasal Influenza VIS - English" href="http://www.cdc.gov/vaccines/hcp/vis/vis-statements/flulive.pdf">Live, Intranasal Influenza VIS - English (PDF)</a></li>
+		<li><a title="Live, Intranasal Influenza VIS - Spanish" href="http://www.immunize.org/vis/spanish_flu_live.pdf">Live, Intranasal Influenza VIS - Spanish (PDF)</a></li>
+		<li><a title="Live, Intranasal Influenza Addendum - English" href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8590000394">Live, Intranasal Influenza Addendum - English (PDF)</a></li>
+		<li><a title="Live, Intranasal Influenza Addendum - English" href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8590000996">Live, Intranasal Influenza Addendum - Spanish (PDF)</a></li>
+	</ul>
+	
+	<br/>
+	<h3>U.S. Food and Drug Administration (FDA) Influenza Virus Vaccine Information</h3>
+	<ul>
+		<li><a title="Influenza Virus Vaccine Information"  href="http://www.fda.gov/cber/flu/flu.htm">Influenza Virus Vaccine Information</a></li>
+		<li><a title="What to Do for Colds and Flu"  href="http://www.fda.gov/ForConsumers/ConsumerUpdates/ucm092805.htm#flu">What to Do for Colds and Flu</a></li>
+	</ul>
+	
+	<br/>	
+	<h3>Immunization Recommendations - Children & Adolescents</h3>
+	<ul>
+		<li><a title="Protecting Children From Flu" href="http://www.cdc.gov/flu/school/">Protecting Children From Flu</a> (CDC) </li>
+		<li><a title="2016 Childhood and Adolescent Immunization Schedule (English)"  href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8589995383">2016 Childhood and Adolescent Immunization Schedule - English (PDF)</a></li>
+		<li><a title="2015 Childhood and Adolescent Immunization Schedule (Spanish)"  href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8589974767">2015 Childhood and Adolescent Immunization Schedule - Spanish (PDF)</a></li>
+	</ul>
+	
+	<br/>
+	<h3>Immunization Recommendations - Adults</h3>
+	<ul>
+		<li><a title="2016 Adult Immunization Schedule (English)"  href="/immunize/docs/6-104.pdf">2016 Adult Immunization Schedule - English (PDF)</a></li>
+		<li><a title="2013 Adult Immunization Schedule (Spanish)"  href="/immunize/docs/6-104A.pdf">2013 Adult Immunization Schedule - Spanish (PDF)</a></li>
+	</ul>
+</div>
+
+<div class="Section" id="6-Professionals">
+	<hr/>
+	<a name="prof" title="prof" class="bookmark"></a>
+	<h2>6. Information for Health-Care Professionals</h2>
+	
+	<br/>
+	<h3>CDC Resources</h3>
+	<ul>
+		<li><a title="Seasonal Influenza Vaccination Resources for Health Professionals"  href="http://www.cdc.gov/flu/professionals/vaccination/">Seasonal Influenza Vaccination Resources for Health Professionals</a></li>
+		<li><a title="Infection Control in Health Care Facilities" href="http://www.cdc.gov/flu/professionals/infectioncontrol/index.htm">Infection Control in Health Care Facilities</a></li>
+		<li><a title="Clinical Description & Lab Diagnosis of Influenza"  href="http://www.cdc.gov/flu/professionals/diagnosis/index.htm">Clinical Description & Lab Diagnosis of Influenza</a></li>
+		<li><a title="Antiviral Drugs" href="http://www.cdc.gov/flu/professionals/treatment/index.htm">Antiviral Drugs</a></li>
+		<li><a title="Free Flu Materials " href="http://www.cdc.gov/flu/professionals/flugallery/index.htm">Free Flu Materials </a></li>
+		<li><a title="Communications for Providers"  href="http://www.cdc.gov/flu/professionals/communications_hcp.htm">Communications to Health Care Providers</a></li>
+		<li><a title="Influenza Training" href="http://www.cdc.gov/flu/professionals/training/index.htm">Influenza Training</a></li>
+		<li><a title="References and Resources" href="http://www.cdc.gov/flu/references.htm">References and Resources</a></li>
+		<li><a title="Surveillance" href="http://www.cdc.gov/flu/professionals/surveillance.htm">Flu Activity & Surveillance</a></li>
+		<li><a title="Vaccine Supply, Ordering, & Distribution" href="http://www.cdc.gov/flu/professionals/vaccination/vaccinesupply.htm">Vaccine Supply, Ordering, & Distribution</a></li>
+		<li><a title="Vaccine Storage & Handling" href="http://www.cdc.gov/vaccines/hcp/admin/storage/index.html">Vaccine Storage & Handling</a></li>
+		<li><a title="Vaccine Effectiveness & Safety" href="http://www.cdc.gov/flu/protect/vaccine/vaccinesafety.htm">Vaccine Safety</a></li>
+		<li><a title="Vaccine Composition" href="http://www.cdc.gov/flu/about/qa/flushot.htm">Vaccine Composition</a></li>
+		<li><a title="Patient & Provider Education" href="http://www.cdc.gov/vaccines/ed/patient-ed.html">Patient Education</a></li>
+	</ul>
+	
+	<h3>National Adult and Influenza Immunization Summit</h3>
+	<ul>
+		<li><a title="Influenza Vaccine Availability Tracking System &#8211; IVATS"  href="http://www.izsummitpartners.org/ivats/">Influenza Vaccine Availability Tracking System &#8211; IVATS</a></li>
+		<li><a title="Influenza Disease and Vaccination Resources"  href="http://www.izsummitpartners.org/influenza-vaccination-resources/">Influenza Disease and Vaccination Resources</a></li>
+	</ul>
+	
+	<br/>
+	<h3>American Nurses Association (ANA)</h3>
+	<ul>
+		<li><a title="ANA Influenza Toolkit"  href="http://www.anaimmunize.org/Main-Menu-Category/Vaccines-for-nurses/Influenza/default.aspx">ANA Influenza Toolkit</a></li>
+	</ul>
+	
+</div>
+
+<div class="Section" id="7-Publications">
+	<a name="print" title="print" class="bookmark"></a>
+	<hr/>
+	<h2>7. Flu Print Publications</h2>
+	<p>Health-care providers, child-care facilities, schools, etc. interested in ordering the below materials in bulk can do so via our <a title="online order form"  href="https://secure.immunizetexasorderform.com/default.asp">online order form</a>. </p>
+	
+	<table class="zebraBorder layout" summary="sorted numerically by stock number, ascending" style="width:100%;">
+		<caption>Flu Print Publications</caption>
+		<thead>
+			<tr>
+				<th scope="col">Stock Number</th>
+				<th scope="col">Title</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td>11-12811</td>
+				<td><a title="Little Kids Get The Flu Too!! Brochure"  href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=24520">Little Kids Get The Flu Too!! Brochure - English (PDF)</a></td>
+			</tr>
+			<tr>
+				<td>11-12811A</td>
+				<td><a title="Little Kids Get The Flu Too!! Brochure"  href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8589955957">Little Kids Get The Flu Too!! Brochure - Spanish (PDF)</a></td>
+			</tr>
+			<tr>
+				<td>11-12812</td>
+				<td><a title="Influenza (The Flu) Fact Sheet for Child-Care Settings"  href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=24521">Influenza (The Flu) Fact Sheet for Child-Care Settings - English (PDF)</a></td>
+			</tr>
+			<tr>
+				<td>11-13338</td>
+				<td><a title="Flu Fighters Activity Book"  href="/immunize/docs/11-13338.pdf">Flu Fighters Activity Book - Bilingual (PDF)</a></td>
+			</tr>
+			<tr>
+				<td>11-13710</td>
+				<td><a title="Fight the Flu Brochure"  href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8589979011">Fight the Flu Brochure - English (PDF)</a></td>
+			</tr>
+			<tr>
+				<td>11-13710A</td>
+				<td><a title="Fight the Flu Brochure"  href="/immunize/docs/11-13710A.pdf">Fight the Flu Brochure - Spanish (PDF)</a></td>
+			</tr>
+			<tr>
+				<td>11-13710P</td>
+				<td><a title="Fight The Flu Poster"  href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8589965316">Fight the Flu Poster, 9.5" x 12" - Bilingual (PDF)</a></td>
+			</tr>
+			<tr>
+				<td>11-14015P</td>
+				<td><a title="&quot;Fight The Flu&quot;-Poster - 18 &quot; x 25&quot;"  href="/immunize/docs/11-14015p.pdf">Fight the Flu Poster, 18" x 25" - Bilingual (PDF)</a></td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+
+<div class="Section" id="8-Organizations">
+	<a name="org" title="org" class="bookmark"></a>
+	<hr/>
+	<h2>8. Influenza Prevention Organizations </h2>
+	<p>
+		<a title="Childhood Influenza Immunization Coalition" href="http://www.preventchildhoodinfluenza.org/">Childhood Influenza Immunization Coalition</a><br/>
+		The National Foundation for Infectious Diseases' (NFID) <em>Childhood Influenza Immunization Coalition</em> (<em>CIIC</em>) is made up of 25 of the nation's leading public health, medical, patient and parent groups. The <em>CIIC</em> mission is to protect infants, children and adolescents from influenza by communicating with "one strong voice" the need to make influenza immunization a national health priority.
+	</p>
+	<p>
+		<a title="Families Fighting Flu" href="http://www.familiesfightingflu.org/">Families Fighting Flu</a><br/>
+		A non-profit organization made up of families and pediatricians who have experienced first-hand loss of a child to the flu or have had a child experience severe medical complications from the flu...dedicated to providing comfort to one another and to encouraging everyone to vaccinate their children against the flu every year.
+	</p>
+	<p>
+		<a title="National Influenza Vaccine Summit - Prevent Influenza Now!" href="http://www.preventinfluenza.org/">National Influenza Vaccine Summit - "Prevent Influenza Now!"</a><br/>
+		The National Influenza Vaccine Summit<strong>, </strong>started in the year 2000, is co-sponsored by the American Medical Association and the Centers for Disease Control and Prevention. The Summit is an action-oriented entity with over 400 members who represent over 100 public and private organizations with an interest in addressing and resolving influenza and influenza vaccine issues.
+	</p>
+</div>
+
+
+<?php include '/home/codio/workspace/includes/footer.html' ?>

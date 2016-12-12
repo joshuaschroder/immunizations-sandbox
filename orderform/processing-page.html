@@ -1,0 +1,911 @@
+<html lang="en">
+	<head>
+	<meta charset="UTF-8"></meta>
+	<title>Form Test Page</title>
+	<!-- CSS: Bootstrap 3.x  -->  
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+	<style>
+		body {margin:25px;}
+	</style>
+</head>
+<body>
+	<h1>Order Confirmation Page</h1>
+	<p><b>Note:</b> This is not the actual page that customers will see. This page is for testing and troubleshooting purposes only.</p>
+	<hr/>
+	<h2>Recipient Details</h2>
+	<p><b>Order Date:</b> <?php echo $_POST["Order_Date"]; ?></p>
+	<p><b>First Name:</b> <?php echo $_POST["FirstName"]; ?></p>
+	<p><b>Last Name:</b> <?php echo $_POST["LastName"]; ?></p>
+	<p><b>Organization:</b> <?php echo $_POST["Organization"]; ?></p>
+	<p><b>Shipping Address 1:</b> <?php echo $_POST["Address"]; ?></p>
+	<p><b>Shipping Address 2:</b> <?php echo $_POST["Address2"]; ?></p>
+	<p><b>City:</b> <?php echo $_POST["City"]; ?></p>
+	<p><b>State:</b> <?php echo $_POST["State"]; ?></p>
+	<p><b>ZipCode:</b> <?php echo $_POST["Zip"]; ?></p>
+	<p><b>Phone:</b> <?php echo $_POST["Phone"]; ?></p>
+	<hr/>
+	<h2>Shipping Details</h2>
+	<p><b>Method of Shipment:</b> <?php echo $_POST["Shipping"]; ?></p>
+	<p><b>Shipping Account:</b> <?php echo $_POST["ShipAccount"]; ?></p>
+	<hr/>
+	<h2>Publications Requested</h2>
+
+	<?php
+		if (!empty($_POST["Item3"])) {
+			echo '<p><b>6-26:</b> ' . $_POST["Item3"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item4"])) {
+			echo '<p><b>6-26P:</b> ' . $_POST["Item4"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item5"])) {
+			echo '<p><b>6-27P:</b> ' . $_POST["Item5"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item6"])) {
+			echo '<p><b>6-36:</b> ' . $_POST["Item6"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item7"])) {
+			echo '<p><b>6-61:</b> ' . $_POST["Item7"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item8"])) {
+			echo '<p><b>6-67:</b> ' . $_POST["Item8"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item9"])) {
+			echo '<p><b>6-67A:</b> ' . $_POST["Item9"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item10"])) {
+			echo '<p><b>6-102:</b> ' . $_POST["Item10"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item11"])) {
+			echo '<p><b>6-103:</b> ' . $_POST["Item11"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item12"])) {
+			echo '<p><b>6-104:</b> ' . $_POST["Item12"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item13"])) {
+			echo '<p><b>6-104A:</b> ' . $_POST["Item13"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item14"])) {
+			echo '<p><b>6-105:</b> ' . $_POST["Item14"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item15"])) {
+			echo '<p><b>6-105A:</b> ' . $_POST["Item15"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item16"])) {
+			echo '<p><b>6-180:</b> ' . $_POST["Item16"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item17"])) {
+			echo '<p><b>6-202:</b> ' . $_POST["Item17"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item18"])) {
+			echo '<p><b>6-202P:</b> ' . $_POST["Item18"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item20"])) {
+			echo '<p><b>6-205:</b> ' . $_POST["Item20"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item21"])) {
+			echo '<p><b>6-205A:</b> ' . $_POST["Item21"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item22"])) {
+			echo '<p><b>6-214:</b> ' . $_POST["Item22"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item23"])) {
+			echo '<p><b>6-216:</b> ' . $_POST["Item23"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item24"])) {
+			echo '<p><b>6-217:</b> ' . $_POST["Item24"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item27"])) {
+			echo '<p><b>6-218:</b> ' . $_POST["Item27"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item28"])) {
+			echo '<p><b>6-250:</b> ' . $_POST["Item28"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item29"])) {
+			echo '<p><b>6-251:</b> ' . $_POST["Item29"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item31"])) {
+			echo '<p><b>11-10373:</b> ' . $_POST["Item31"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item32"])) {
+			echo '<p><b>11-11117:</b> ' . $_POST["Item32"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item33"])) {
+			echo '<p><b>11-11166:</b> ' . $_POST["Item33"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item34"])) {
+			echo '<p><b>11-11424:</b> ' . $_POST["Item34"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item35"])) {
+			echo '<p><b>F11-11443:</b> ' . $_POST["Item35"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item47"])) {
+			echo '<p><b>11-12155:</b> ' . $_POST["Item47"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item48"])) {
+			echo '<p><b>C-7:</b> ' . $_POST["Item48"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item49"])) {
+			echo '<p><b>C-9:</b> ' . $_POST["Item49"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item50"])) {
+			echo '<p><b>C-10:</b> ' . $_POST["Item50"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item248"])) {
+			echo '<p><b>FLU_FIGHTERS:</b> ' . $_POST["Item248"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item344"])) {
+			echo '<p><b>Pertussis_CD:</b> ' . $_POST["Item344"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item351"])) {
+			echo '<p><b>11-11444A:</b> ' . $_POST["Item351"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item352"])) {
+			echo '<p><b>IMMTRAC:</b> ' . $_POST["Item352"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item353"])) {
+			echo '<p><b>PROTECT_TWO_PEN:</b> ' . $_POST["Item353"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item354"])) {
+			echo '<p><b>DIS05:</b> ' . $_POST["Item354"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item355"])) {
+			echo '<p><b>DIS06:</b> ' . $_POST["Item355"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item356"])) {
+			echo '<p><b>DIS07:</b> ' . $_POST["Item356"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item357"])) {
+			echo '<p><b>DIS08:</b> ' . $_POST["Item357"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item358"])) {
+			echo '<p><b>DIS09:</b> ' . $_POST["Item358"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item359"])) {
+			echo '<p><b>DIS10:</b> ' . $_POST["Item359"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item361"])) {
+			echo '<p><b>C-109:</b> ' . $_POST["Item361"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item362"])) {
+			echo '<p><b>NOTICE:</b> ' . $_POST["Item362"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item364"])) {
+			echo '<p><b>6-217M:</b> ' . $_POST["Item364"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item397"])) {
+			echo '<p><b>C-87:</b> ' . $_POST["Item397"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item404"])) {
+			echo '<p><b>11-12845P:</b> ' . $_POST["Item404"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item51"])) {
+			echo '<p><b>C-11:</b> ' . $_POST["Item51"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item52"])) {
+			echo '<p><b>C-33:</b> ' . $_POST["Item52"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item53"])) {
+			echo '<p><b>C-63:</b> ' . $_POST["Item53"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item54"])) {
+			echo '<p><b>C-64:</b> ' . $_POST["Item54"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item55"])) {
+			echo '<p><b>C-68:</b> ' . $_POST["Item55"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item56"])) {
+			echo '<p><b>C-76:</b> ' . $_POST["Item56"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item57"])) {
+			echo '<p><b>C-85:</b> ' . $_POST["Item57"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item58"])) {
+			echo '<p><b>C-85A:</b> ' . $_POST["Item58"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item59"])) {
+			echo '<p><b>C-86:</b> ' . $_POST["Item59"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item60"])) {
+			echo '<p><b>C-86A:</b> ' . $_POST["Item60"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item62"])) {
+			echo '<p><b>C-87A:</b> ' . $_POST["Item62"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item63"])) {
+			echo '<p><b>C-90:</b> ' . $_POST["Item63"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item64"])) {
+			echo '<p><b>C-90A:</b> ' . $_POST["Item64"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item65"])) {
+			echo '<p><b>C-91:</b> ' . $_POST["Item65"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item66"])) {
+			echo '<p><b>C-91A:</b> ' . $_POST["Item66"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item67"])) {
+			echo '<p><b>C-92:</b> ' . $_POST["Item67"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item68"])) {
+			echo '<p><b>C-92A:</b> ' . $_POST["Item68"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item69"])) {
+			echo '<p><b>C-93:</b> ' . $_POST["Item69"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item70"])) {
+			echo '<p><b>C-93A:</b> ' . $_POST["Item70"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item71"])) {
+			echo '<p><b>C-94:</b> ' . $_POST["Item71"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item72"])) {
+			echo '<p><b>C-94A:</b> ' . $_POST["Item72"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item73"])) {
+			echo '<p><b>C-95:</b> ' . $_POST["Item73"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item74"])) {
+			echo '<p><b>C-95A:</b> ' . $_POST["Item74"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item75"])) {
+			echo '<p><b>C-96:</b> ' . $_POST["Item75"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item76"])) {
+			echo '<p><b>C-96A:</b> ' . $_POST["Item76"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item77"])) {
+			echo '<p><b>C-97:</b> ' . $_POST["Item77"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item78"])) {
+			echo '<p><b>C-97A:</b> ' . $_POST["Item78"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item79"])) {
+			echo '<p><b>C-99:</b> ' . $_POST["Item79"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item80"])) {
+			echo '<p><b>C-99A:</b> ' . $_POST["Item80"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item81"])) {
+			echo '<p><b>C-100:</b> ' . $_POST["Item81"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item82"])) {
+			echo '<p><b>C-102:</b> ' . $_POST["Item82"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item83"])) {
+			echo '<p><b>C-104:</b> ' . $_POST["Item83"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item84"])) {
+			echo '<p><b>C-105:</b> ' . $_POST["Item84"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item85"])) {
+			echo '<p><b>C-106:</b> ' . $_POST["Item85"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item86"])) {
+			echo '<p><b>C-106A:</b> ' . $_POST["Item86"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item87"])) {
+			echo '<p><b>C-108:</b> ' . $_POST["Item87"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item88"])) {
+			echo '<p><b>C-108A:</b> ' . $_POST["Item88"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item91"])) {
+			echo '<p><b>C-110:</b> ' . $_POST["Item91"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item92"])) {
+			echo '<p><b>C-110A:</b> ' . $_POST["Item92"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item93"])) {
+			echo '<p><b>C-111:</b> ' . $_POST["Item93"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item94"])) {
+			echo '<p><b>C-111A:</b> ' . $_POST["Item94"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item95"])) {
+			echo '<p><b>C-112:</b> ' . $_POST["Item95"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item96"])) {
+			echo '<p><b>C-112A:</b> ' . $_POST["Item96"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item106"])) {
+			echo '<p><b>11-12502:</b> ' . $_POST["Item106"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item107"])) {
+			echo '<p><b>11-12600:</b> ' . $_POST["Item107"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item108"])) {
+			echo '<p><b>11-12607:</b> ' . $_POST["Item108"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item111"])) {
+			echo '<p><b>11-12797:</b> ' . $_POST["Item111"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item112"])) {
+			echo '<p><b>11-12798:</b> ' . $_POST["Item112"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item113"])) {
+			echo '<p><b>11-12799:</b> ' . $_POST["Item113"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item116"])) {
+			echo '<p><b>6-252:</b> ' . $_POST["Item116"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item117"])) {
+			echo '<p><b>6-253:</b> ' . $_POST["Item117"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item118"])) {
+			echo '<p><b>6-253A:</b> ' . $_POST["Item118"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item120"])) {
+			echo '<p><b>6-306:</b> ' . $_POST["Item120"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item122"])) {
+			echo '<p><b>BIM114-2_PERRY:</b> ' . $_POST["Item122"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item123"])) {
+			echo '<p><b>HALLMARK_ENV:</b> ' . $_POST["Item123"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item124"])) {
+			echo '<p><b>C-8:</b> ' . $_POST["Item124"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item125"])) {
+			echo '<p><b>C-98:</b> ' . $_POST["Item125"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item126"])) {
+			echo '<p><b>C-98A:</b> ' . $_POST["Item126"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item127"])) {
+			echo '<p><b>CLEAR_ENV:</b> ' . $_POST["Item127"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item142"])) {
+			echo '<p><b>11-12812:</b> ' . $_POST["Item142"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item147"])) {
+			echo '<p><b>11-12611:</b> ' . $_POST["Item147"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item174"])) {
+			echo '<p><b>DV0377_1107:</b> ' . $_POST["Item174"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item179"])) {
+			echo '<p><b>IMMENVW_1108:</b> ' . $_POST["Item179"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item195"])) {
+			echo '<p><b>VIS_PLUG_GUARDS:</b> ' . $_POST["Item195"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item196"])) {
+			echo '<p><b>F11-12955:</b> ' . $_POST["Item196"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item197"])) {
+			echo '<p><b>F11-12956-P:</b> ' . $_POST["Item197"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item198"])) {
+			echo '<p><b>11-12811:</b> ' . $_POST["Item198"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item249"])) {
+			echo '<p><b>11-13338:</b> ' . $_POST["Item249"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item264"])) {
+			echo '<p><b>11-13539:</b> ' . $_POST["Item264"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item270"])) {
+			echo '<p><b>11-13643:</b> ' . $_POST["Item270"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item282"])) {
+			echo '<p><b>11-13661M:</b> ' . $_POST["Item282"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item326"])) {
+			echo '<p><b>11-11444:</b> ' . $_POST["Item326"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item327"])) {
+			echo '<p><b>11-13710A:</b> ' . $_POST["Item327"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item328"])) {
+			echo '<p><b>11-14008:</b> ' . $_POST["Item328"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item334"])) {
+			echo '<p><b>11-14015P:</b> ' . $_POST["Item334"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item345"])) {
+			echo '<p><b>6-105L:</b> ' . $_POST["Item345"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item365"])) {
+			echo '<p><b>11-11118:</b> ' . $_POST["Item365"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item366"])) {
+			echo '<p><b>11-11119:</b> ' . $_POST["Item366"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item367"])) {
+			echo '<p><b>6-30:</b> ' . $_POST["Item367"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item368"])) {
+			echo '<p><b>C-109A:</b> ' . $_POST["Item368"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item369"])) {
+			echo '<p><b>C-115:</b> ' . $_POST["Item369"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item370"])) {
+			echo '<p><b>DIS12:</b> ' . $_POST["Item370"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item371"])) {
+			echo '<p><b>C-115A:</b> ' . $_POST["Item371"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item372"])) {
+			echo '<p><b>11-14106:</b> ' . $_POST["Item372"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item373"])) {
+			echo '<p><b>11-14106P:</b> ' . $_POST["Item373"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item374"])) {
+			echo '<p><b>EpiVPD:</b> ' . $_POST["Item374"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item394"])) {
+			echo '<p><b>PINK-BOOK:</b> ' . $_POST["Item394"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item379"])) {
+			echo '<p><b>IMMTRAC-CLIP-BALL-BLUE:</b> ' . $_POST["Item379"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item381"])) {
+			echo '<p><b>11-14120:</b> ' . $_POST["Item381"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item382"])) {
+			echo '<p><b>IMMTRAC-PLAQ-W/O:</b> ' . $_POST["Item382"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item383"])) {
+			echo '<p><b>F11-14174:</b> ' . $_POST["Item383"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item384"])) {
+			echo '<p><b>11-14175:</b> ' . $_POST["Item384"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item385"])) {
+			echo '<p><b>F11-14177:</b> ' . $_POST["Item385"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item386"])) {
+			echo '<p><b>11-14178:</b> ' . $_POST["Item386"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item387"])) {
+			echo '<p><b>11-14179:</b> ' . $_POST["Item387"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item388"])) {
+			echo '<p><b>F11-14176:</b> ' . $_POST["Item388"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item389"])) {
+			echo '<p><b>10052248:</b> ' . $_POST["Item389"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item390"])) {
+			echo '<p><b>10052246:</b> ' . $_POST["Item390"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item391"])) {
+			echo '<p><b>10052247:</b> ' . $_POST["Item391"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item392"])) {
+			echo '<p><b>6-14:</b> ' . $_POST["Item392"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item393"])) {
+			echo '<p><b>6-15:</b> ' . $_POST["Item393"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item395"])) {
+			echo '<p><b>11-14122:</b> ' . $_POST["Item395"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item396"])) {
+			echo '<p><b>11-14429:</b> ' . $_POST["Item396"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item398"])) {
+			echo '<p><b>11-14450P:</b> ' . $_POST["Item398"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item399"])) {
+			echo '<p><b>11-14451P:</b> ' . $_POST["Item399"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item400"])) {
+			echo '<p><b>11-14452P:</b> ' . $_POST["Item400"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item401"])) {
+			echo '<p><b>11-14453P:</b> ' . $_POST["Item401"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item427"])) {
+			echo '<p><b>11-14740:</b> ' . $_POST["Item428"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item428"])) {
+			echo '<p><b>11-14741:</b> ' . $_POST["Item428"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item429"])) {
+			echo '<p><b>11-14742:</b> ' . $_POST["Item429"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item403"])) {
+			echo '<p><b>59-12547:</b> ' . $_POST["Item403"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item405"])) {
+			echo '<p><b>C-116:</b> ' . $_POST["Item405"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item406"])) {
+			echo '<p><b>E11-14564:</b> ' . $_POST["Item406"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item407"])) {
+			echo '<p><b>C-116A:</b> ' . $_POST["Item407"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item408"])) {
+			echo '<p><b>C-117:</b> ' . $_POST["Item408"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item409"])) {
+			echo '<p><b>C-117A:</b> ' . $_POST["Item409"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item412"])) {
+			echo '<p><b>11-14564:</b> ' . $_POST["Item412"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item219"])) {
+			echo '<p><b>11-13174:</b> ' . $_POST["Item219"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item220"])) {
+			echo '<p><b>IMMTRAC-BADGE-HOLDER:</b> ' . $_POST["Item220"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item222"])) {
+			echo '<p><b>C-61:</b> ' . $_POST["Item222"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item223"])) {
+			echo '<p><b>C-62:</b> ' . $_POST["Item223"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item224"])) {
+			echo '<p><b>TVFC-PROV-MANL:</b> ' . $_POST["Item224"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item225"])) {
+			echo '<p><b>11-12849:</b> ' . $_POST["Item225"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item227"])) {
+			echo '<p><b>IMMTRAC-CLIPBOARD:</b> ' . $_POST["Item227"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item229"])) {
+			echo '<p><b>IMMTRAC-MOUSEPAD:</b> ' . $_POST["Item229"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item230"])) {
+			echo '<p><b>BLUE-BAGS:</b> ' . $_POST["Item230"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item231"])) {
+			echo '<p><b>TVFC-CABLE:</b> ' . $_POST["Item231"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item232"])) {
+			echo '<p><b>TVFC-SIGNATURE_PAD:</b> ' . $_POST["Item232"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item237"])) {
+			echo '<p><b>C-103:</b> ' . $_POST["Item237"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item238"])) {
+			echo '<p><b>C-113A:</b> ' . $_POST["Item238"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item239"])) {
+			echo '<p><b>DV0499:</b> ' . $_POST["Item239"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item240"])) {
+			echo '<p><b>11-12811A:</b> ' . $_POST["Item240"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item242"])) {
+			echo '<p><b>11-12815:</b> ' . $_POST["Item242"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item243"])) {
+			echo '<p><b>11-12815A:</b> ' . $_POST["Item243"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item245"])) {
+			echo '<p><b>C-114:</b> ' . $_POST["Item245"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item246"])) {
+			echo '<p><b>DV-0531:</b> ' . $_POST["Item246"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item251"])) {
+			echo '<p><b>C-114A:</b> ' . $_POST["Item251"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item252"])) {
+			echo '<p><b>F11-12842:</b> ' . $_POST["Item252"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item253"])) {
+			echo '<p><b>F11-13500:</b> ' . $_POST["Item253"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item254"])) {
+			echo '<p><b>11-13534:</b> ' . $_POST["Item254"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item256"])) {
+			echo '<p><b>11-12163:</b> ' . $_POST["Item256"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item257"])) {
+			echo '<p><b>F11-13366:</b> ' . $_POST["Item257"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item263"])) {
+			echo '<p><b>11-13547P:</b> ' . $_POST["Item263"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item267"])) {
+			echo '<p><b>11-13548:</b> ' . $_POST["Item267"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item269"])) {
+			echo '<p><b>11-13602:</b> ' . $_POST["Item269"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item271"])) {
+			echo '<p><b>11-13645P:</b> ' . $_POST["Item271"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item272"])) {
+			echo '<p><b>11-13667:</b> ' . $_POST["Item272"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item275"])) {
+			echo '<p><b>11-13654P:</b> ' . $_POST["Item275"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item276"])) {
+			echo '<p><b>11-13655:</b> ' . $_POST["Item276"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item277"])) {
+			echo '<p><b>11-13656:</b> ' . $_POST["Item277"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item278"])) {
+			echo '<p><b>11-13645P-2:</b> ' . $_POST["Item278"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item323"])) {
+			echo '<p><b>11-13794P:</b> ' . $_POST["Item323"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item324"])) {
+			echo '<p><b>11-13712:</b> ' . $_POST["Item324"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item325"])) {
+			echo '<p><b>11-13712A:</b> ' . $_POST["Item325"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item336"])) {
+			echo '<p><b>DIS01:</b> ' . $_POST["Item336"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item337"])) {
+			echo '<p><b>DIS02A:</b> ' . $_POST["Item337"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item338"])) {
+			echo '<p><b>DIS02B:</b> ' . $_POST["Item338"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item339"])) {
+			echo '<p><b>DIS03:</b> ' . $_POST["Item339"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item375"])) {
+			echo '<p><b>PROBE_STAND:</b> ' . $_POST["Item375"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item376"])) {
+			echo '<p><b>11-14121:</b> ' . $_POST["Item376"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item145"])) {
+			echo '<p><b>11-10923:</b> ' . $_POST["Item145"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item148"])) {
+			echo '<p><b>11-12611A:</b> ' . $_POST["Item148"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item155"])) {
+			echo '<p><b>11-12816:</b> ' . $_POST["Item155"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item166"])) {
+			echo '<p><b>IMMTRAC-BRE_1208:</b> ' . $_POST["Item166"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item167"])) {
+			echo '<p><b>11-12816P:</b> ' . $_POST["Item167"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item168"])) {
+			echo '<p><b>TVFC_CLR_SLEEVE:</b> ' . $_POST["Item168"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item169"])) {
+			echo '<p><b>11-12375:</b> ' . $_POST["Item169"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item175"])) {
+			echo '<p><b>IG-50:</b> ' . $_POST["Item175"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item189"])) {
+			echo '<p><b>F11-11936:</b> ' . $_POST["Item189"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item191"])) {
+			echo '<p><b>06-664:</b> ' . $_POST["Item191"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item200"])) {
+			echo '<p><b>11-13175M:</b> ' . $_POST["Item200"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item201"])) {
+			echo '<p><b>C-113:</b> ' . $_POST["Item201"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item204"])) {
+			echo '<p><b>11-13080P:</b> ' . $_POST["Item204"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item205"])) {
+			echo '<p><b>F11-13078:</b> ' . $_POST["Item205"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item206"])) {
+			echo '<p><b>11-13079:</b> ' . $_POST["Item206"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item210"])) {
+			echo '<p><b>11-12853P:</b> ' . $_POST["Item210"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item212"])) {
+			echo '<p><b>6-104L:</b> ' . $_POST["Item212"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item217"])) {
+			echo '<p><b>IMMTRAC-PLAQ_0212:</b> ' . $_POST["Item217"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item218"])) {
+			echo '<p><b>11-13132:</b> ' . $_POST["Item218"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item279"])) {
+			echo '<p><b>11-13645PA:</b> ' . $_POST["Item279"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item285"])) {
+			echo '<p><b>COCOONING_BAG:</b> ' . $_POST["Item285"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item287"])) {
+			echo '<p><b>COCOONING_CLIPBOARD:</b> ' . $_POST["Item287"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item289"])) {
+			echo '<p><b>F11-13678P:</b> ' . $_POST["Item289"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item290"])) {
+			echo '<p><b>11-13681:</b> ' . $_POST["Item290"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item292"])) {
+			echo '<p><b>11-13680:</b> ' . $_POST["Item292"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item302"])) {
+			echo '<p><b>IMMTRAC:</b> ' . $_POST["Item302"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item410"])) {
+			echo '<p><b>11-14671:</b> ' . $_POST["Item410"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item411"])) {
+			echo '<p><b>11-14679:</b> ' . $_POST["Item411"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item413"])) {
+			echo '<p><b>EF11-14171:</b> ' . $_POST["Item413"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item414"])) {
+			echo '<p><b>11-14202:</b> ' . $_POST["Item414"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item415"])) {
+			echo '<p><b>11-14202P:</b> ' . $_POST["Item415"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item416"])) {
+			echo '<p><b>11-13546:</b> ' . $_POST["Item416"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item417"])) {
+			echo '<p><b>CONF_BAGS:</b> ' . $_POST["Item417"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item418"])) {
+			echo '<p><b>BINDER:</b> ' . $_POST["Item418"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item419"])) {
+			echo '<p><b>F11-11539:</b> ' . $_POST["Item419"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item420"])) {
+			echo '<p><b>59-12817:</b> ' . $_POST["Item420"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item421"])) {
+			echo '<p><b>DVD-HPV:</b> ' . $_POST["Item421"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item422"])) {
+			echo '<p><b>59-13390:</b> ' . $_POST["Item422"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item423"])) {
+			echo '<p><b>59-13391:</b> ' . $_POST["Item423"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item424"])) {
+			echo '<p><b>DVD-500:</b> ' . $_POST["Item424"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item425"])) {
+			echo '<p><b>1114913:</b> ' . $_POST["Item425"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item426"])) {
+			echo '<p><b>59-12818:</b> ' . $_POST["Item426"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item293"])) {
+			echo '<p><b>TVFC_WET_WIPES:</b> ' . $_POST["Item293"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item294"])) {
+			echo '<p><b>TVFC_KLEENEX:</b> ' . $_POST["Item294"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item295"])) {
+			echo '<p><b>IMMTRAC_FIRST_AID_KIT:</b> ' . $_POST["Item295"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item296"])) {
+			echo '<p><b>TVFC_KEY_HAND_SANITIZER:</b> ' . $_POST["Item296"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item297"])) {
+			echo '<p><b>11-13662:</b> ' . $_POST["Item297"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item298"])) {
+			echo '<p><b>HALLMARK_CARD_KIT:</b> ' . $_POST["Item298"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item299"])) {
+			echo '<p><b>11-13231:</b> ' . $_POST["Item299"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item300"])) {
+			echo '<p><b>F11-13788:</b> ' . $_POST["Item300"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item301"])) {
+			echo '<p><b>11-13661MA:</b> ' . $_POST["Item301"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item305"])) {
+			echo '<p><b>11-13707P:</b> ' . $_POST["Item305"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item306"])) {
+			echo '<p><b>11-13708P:</b> ' . $_POST["Item306"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item307"])) {
+			echo '<p><b>11-13707P-2:</b> ' . $_POST["Item307"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item308"])) {
+			echo '<p><b>11-13707P-3:</b> ' . $_POST["Item308"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item309"])) {
+			echo '<p><b>11-13710P:</b> ' . $_POST["Item309"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item310"])) {
+			echo '<p><b>11-13707:</b> ' . $_POST["Item310"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item311"])) {
+			echo '<p><b>11-13708:</b> ' . $_POST["Item311"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item312"])) {
+			echo '<p><b>11-12851:</b> ' . $_POST["Item312"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item313"])) {
+			echo '<p><b>6-104PSS:</b> ' . $_POST["Item313"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item315"])) {
+			echo '<p><b>11-13711P:</b> ' . $_POST["Item315"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item316"])) {
+			echo '<p><b>11-13709:</b> ' . $_POST["Item316"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item317"])) {
+			echo '<p><b>11-13707A:</b> ' . $_POST["Item317"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item318"])) {
+			echo '<p><b>11-13708A:</b> ' . $_POST["Item318"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item319"])) {
+			echo '<p><b>59-13800:</b> ' . $_POST["Item319"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item320"])) {
+			echo '<p><b>11-13711:</b> ' . $_POST["Item320"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item321"])) {
+			echo '<p><b>11-13711A:</b> ' . $_POST["Item321"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item322"])) {
+			echo '<p><b>DV0684:</b> ' . $_POST["Item322"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item329"])) {
+			echo '<p><b>11-13710:</b> ' . $_POST["Item329"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item330"])) {
+			echo '<p><b>11-14009P:</b> ' . $_POST["Item330"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item331"])) {
+			echo '<p><b>11-14009P-1:</b> ' . $_POST["Item331"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item340"])) {
+			echo '<p><b>DIS04:</b> ' . $_POST["Item340"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item341"])) {
+			echo '<p><b>PAN01:</b> ' . $_POST["Item341"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item342"])) {
+			echo '<p><b>TOTE01:</b> ' . $_POST["Item342"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item343"])) {
+			echo '<p><b>TOTE02:</b> ' . $_POST["Item343"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item346"])) {
+			echo '<p><b>6-105PSS:</b> ' . $_POST["Item346"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item347"])) {
+			echo '<p><b>1606:</b> ' . $_POST["Item347"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item348"])) {
+			echo '<p><b>1607:</b> ' . $_POST["Item348"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item349"])) {
+			echo '<p><b>1605:</b> ' . $_POST["Item349"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item350"])) {
+			echo '<p><b>11-14009P-2:</b> ' . $_POST["Item350"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item377"])) {
+			echo '<p><b>11-14168:</b> ' . $_POST["Item377"] . ' pcs.</p>';
+		}
+		if (!empty($_POST["Item378"])) {
+			echo '<p><b>DIS11:</b> ' . $_POST["Item378"] . ' pcs.</p>';
+		}
+
+	?>
+
+</body>
+</html>

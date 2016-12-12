@@ -1,0 +1,25 @@
+<?php
+	$title= "Conscientious Exemption Affidavits Submitted to Schools for School-Year 2003-04" ;
+	include '/home/codio/workspace/includes/header.html';
+    include '/home/codio/workspace/includes/menus/coverage_menu.html'; 
+?>
+
+<hr/>
+<h2>Background</h2>
+<p>Since 1972, Texas has allowed medical and religious exemptions from immunizations required for school entry. In 2003, the Texas Legislature passed a provision allowing exemptions from immunizations for reasons of conscience. To obtain a conscientious exemption, including religious exemption, the parent or guardian must submit a written request to the Department of State Health Services (DSHS) to obtain an affidavit form. The form must then be notarized before being submitted to the school. In spring 2004, DSHS surveyed all Texas Independent School Districts (ISD's) (1256) and private schools (844) accredited by the Texas Education Agency (TEA) to determine the number of conscientious exemption affidavits on file at Texas public and accredited private schools for School-Year 2003-04.</p>
+
+<hr/>
+<h2>Results</h2>
+<p>81% (1,018) of the ISD's and 58% (487) of the accredited private schools responded to the survey. Of the schools that responded to the survey, 2,314 students (1,827 public and 487 private) filed an exemption form during the 2003-2004 school year. This number represents 0.08% of the responding school population. Houston ISD did not respond to the survey.</p>
+
+<hr/>
+<h2>Conclusions</h2>
+<p>The number of conscientious exemptions filed per responding school district or private school varies from 0 to 19.05%. See map and list below, showing the number of ISD's and accredited private schools reporting conscientious exemptions for more than 0.50% of their student population for the School-Year 2003-04. More complete data and a higher response rate are necessary to assess the effect of the conscientious exemption statewide. We are requesting more complete data through the Annual Report of Immunization Status. Data will be available late 2005.</p>
+
+<ul>
+	<li><a title="Map of Independent School Districts and Accredited Private Schools Reporting Conscientious Exemptions for 2003-04 School Year" href="/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=24615">Map of School Districts and Private Schools Conscientious Exemptions for 2003-04 School Year (PDF)</a></li>
+	<li><a title="List of Independent School Districts and Accredited Private Schools Reporting Conscientious Exemptions for 2003-04 School Year" href="/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=24614">List of School Districts and Private Schools Conscientious Exemptions for 2003-04 School Year (PDF)</a></li>
+</ul>
+
+
+<?php include '/home/codio/workspace/includes/footer.html' ?>

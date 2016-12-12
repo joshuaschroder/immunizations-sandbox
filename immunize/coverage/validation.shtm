@@ -1,0 +1,81 @@
+<?php
+	$title= "Texas School Immunization Validation Survey - Vaccination Coverage Levels" ;
+	include '/home/codio/workspace/includes/header.html';
+    include '/home/codio/workspace/includes/menus/coverage_menu.html'; 
+?>
+
+<p>This survey is conducted annually to validate the results of the DSHS Annual Report of Immunization Status in Texas Schools. A random sample of public schools is selected for the survey each year. Local health department and DSHS staff review a random sample of immunization records from each selected school. Statewide vaccination coverage levels are available for Kindergarten and 7th grade students attending public school in Texas.</p>
+
+<hr/>
+<a class="bookmark" title="2010" name="2010"></a>
+<h2>2010 Texas School Immunization Validation Survey Results</h2>
+<ul>
+	<li><a title="Vaccination Compliance Coverage Levels of Kindergarten Students Attending Public Schools in Texas" href="/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589961631">Vaccination Compliance Coverage Levels of Kindergarten Students Attending Public Schools in Texas (PDF)</a></li>
+	<li><a title="Vaccination Compliance Coverage Levels of 7th Grade Students Attending Public Schools in Texas" href="/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589961630">Vaccination Compliance Coverage Levels of 7th Grade Students Attending Public Schools in Texas (PDF)</a></li>
+	<li><a title="Retrospective Vaccination Coverage Levels of Kindergarten Students at 24 Months of Age" href="/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589961629">Retrospective Vaccination Coverage Levels of Kindergarten Students at 24 Months of Age (PDF)</a></li>
+</ul>
+
+<hr/>
+<a class="bookmark" title="2009" name="2009"></a>
+<h2>2009 Texas School Immunization Validation Survey Results</h2>
+<ul>
+	<li><a title="Vaccination Coverage Levels of Kindergarten Students Attending Public Schools in Texas" href="/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589961628">Vaccination Coverage Levels of Kindergarten Students Attending Public Schools in Texas (PDF)</a></li>
+	<li><a title="Vaccination Coverage Levels of 7th Grade Students Attending Public Schools in Texas" href="/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589961627">Vaccination Coverage Levels of 7th Grade Students Attending Public Schools in Texas (PDF)</a></li>
+	<li><a title="Retrospective Vaccination Coverage Levels of Kindergarten Students at 24 Months of Age" href="/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589961626">Retrospective Vaccination Coverage Levels of Kindergarten Students at 24 Months of Age (PDF)</a> </li>
+</ul>
+
+<hr />
+<a class="bookmark" title="2008" name="2008"></a>
+<h2>2008 Texas School Immunization Validation Survey Results</h2>
+<ul>
+	<li><a title="Vaccination Coverage Levels of Kindergarten Students Attending Public Schools in Texas" href="/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589961625">Vaccination Coverage Levels of Kindergarten Students Attending Public Schools in Texas (PDF)</a></li>
+	<li><a title="Vaccination Coverage Levels of 7th Grade Students Attending Public Schools in Texas" href="/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8589961624">Vaccination Coverage Levels of 7th Grade Students Attending Public Schools in Texas (PDF)</a></li>
+</ul>
+
+<hr />
+<a class="bookmark" title="2007" name="2007"></a>
+<h2>2007 Texas School Immunization Validation Survey Results</h2>
+<ul>
+	<li><a title="Vaccination Coverage Levels of Kindergarten Students Attending Public Schools in Texas" href="/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=24867">Vaccination Coverage Levels of Kindergarten Students Attending Public Schools in Texas (PDF)</a></li>
+	<li><a title="Vaccination Coverage Levels of 7th Grade Students Attending Public Schools in Texas" href="/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=24866">Vaccination Coverage Levels of 7th Grade Students Attending Public Schools in Texas (PDF)</a></li>
+	<li><a title="Retrospective Vaccination Coverage Levels of Kindergarten Students at 24 Months of Age" href="/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=24865">Retrospective Vaccination Coverage Levels of Kindergarten Students at 24 Months of Age (PDF)</a> </li>
+</ul>
+
+<hr />
+<a class="bookmark" title="2006" name="2006"></a>
+<h2>2006 Texas School Immunization Validation Survey Results</h2>
+<ul>
+	<li><a title="Vaccination Coverage Levels of Kindergarten Students Attending Public Schools in Texas" href="/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=24864">Vaccination Coverage Levels of Kindergarten Students Attending Public Schools in Texas (PDF)</a></li>
+	<li><a title="Vaccination Coverage Levels of 7th Grade Students Attending Public Schools in Texas" href="/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=24863">Vaccination Coverage Levels of 7th Grade Students Attending Public Schools in Texas (PDF)</a></li>
+	<li><a title="Retrospective Vaccination Coverage Levels of Kindergarten Students at 24 Months of Age" href="/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=24862">Retrospective Vaccination Coverage Levels of Kindergarten Students at 24 Months of Age (PDF)</a></li>
+</ul>
+
+<hr />
+<a class="bookmark" title="2005" name="2005"></a>
+<h2>2005 Texas School Immunization Validation Survey Results</h2>
+<ul>
+	<li><a title="Vaccination Coverage Levels of Kindergarten Students Attending Public Schools in Texas" href="/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=24861">Vaccination Coverage Levels of Kindergarten Students Attending Public Schools in Texas (PDF)</a></li>
+	<li><a title="Vaccination Coverage Levels of 7th Grade Students Attending Public Schools in Texas" href="/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=24860">Vaccination Coverage Levels of 7th Grade Students Attending Public Schools in Texas (PDF)</a></li>
+	<li><a title="Retrospective Vaccination Coverage Levels of Kindergarten Students at 24 Months of Age" href="/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=24859">Retrospective Vaccination Coverage Levels of Kindergarten Students at 24 Months of Age (PDF)</a></li>
+</ul>
+
+<hr />
+<a class="bookmark" title="2004" name="2004"></a>
+<h2>2004 Texas School Immunization Validation Survey Results: </h2>
+<ul>
+	<li><a title="Vaccination Coverage Levels of Kindergarten Students Attending Public Schools in Texas" href="/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=24858">Vaccination Coverage Levels of Kindergarten Students Attending Public Schools in Texas (PDF)</a></li>
+	<li><a title="Vaccination Coverage Levels of 7th Grade Students Attending Public Schools in Texas" href="/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=24857">Vaccination Coverage Levels of 7th Grade Students Attending Public Schools in Texas (PDF)</a></li>
+	<li><a title="Retrospective Vaccination Coverage Levels of Kindergarten Students at 24 Months of Age" href="/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=24856">Retrospective Vaccination Coverage Levels of Kindergarten Students at 24 Months of Age (PDF)</a></li>
+</ul>
+
+<hr />
+<a class="bookmark" title="2003" name="2003"></a>
+<h2>2003 Texas School Immunization Validation Survey Results</h2>
+<ul>
+	<li><a title="Vaccination Coverage Levels of Kindergarten Students Attending Public Schools in Texas" href="/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=24855">Vaccination Coverage Levels of Kindergarten Students Attending Public Schools in Texas (PDF)</a></li>
+	<li><a title="Vaccination Coverage Levels of 7th Grade Students Attending Public Schools in Texas" href="/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=24854">Vaccination Coverage Levels of 7th Grade Students Attending Public Schools in Texas (PDF)</a></li>
+	<li><a title="Retrospective Vaccination Coverage Levels of Kindergarten Students at 24 Months of Age" href="/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=24853">Retrospective Vaccination Coverage Levels of Kindergarten Students at 24 Months of Age (PDF)</a></li>
+</ul>
+
+
+<?php include '/home/codio/workspace/includes/footer.html' ?>

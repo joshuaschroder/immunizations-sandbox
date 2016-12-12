@@ -1,0 +1,766 @@
+<?php
+$title= "Texas Immunization Survey (TIS) - Vaccination Coverage Levels" ;
+include '/home/codio/workspace/includes/header.html';
+include '/home/codio/workspace/includes/menus/coverage_menu.html'; 
+?>
+
+<p>Commissioned by the Associateship for Disease Control and Prevention of the Texas Department of Health, the Texas Immunization Survey (TIS) is a population-based survey designed to assess immunization levels among Texas children 3 through 24 months of age. Statewide surveys were conducted in 1994, 1996, 1998 and 2000. The 1994 TIS was an in-person survey and the 1996, 1998 and 2000 TIS were random digit dial telephone surveys. Trained interviewers used a standardized English- or Spanish-language instrument to solicit information from a parent or legal guardian. The instrument was modeled after the Centers for Disease Control and Prevention State and Local Area Immunization Coverage and Health Survey questionnaire. To determine a child's immunization history, interviewers asked for dates of each vaccine including diphtheria-tetanus-pertussis vaccine (DTP), polio vaccine (OPV/IPV), and measles, mumps, and rubella (MMR) vaccine. For parents without their child's shot record, interviewers asked about each vaccine, whether the child had received the shot, how many, and at what age. A proportion of immunization histories were verified with providers records.</p>
+
+<p>In tables showing results from the TIS, children were defined as up-to-date if they met the following criteria:</p>
+
+<ul>
+	<li>3 through 4 months of age: received 1 dose of diphtheria-tetanus-pertussis  (DTP) vaccine and 1 dose of polio vaccine (OPV/IPV) </li>
+	<li>5 through 6 months of age: received 2 DTP and 2 OPV/IPV </li>
+	<li>7 through 15 months of age: received 3 DTP and 2 OPV/IPV</li>
+	<li>16 through 24 months of age: received 4 DTP, 3 OPV/IPV, and 1 dose of  measles-mumps-rubella vaccine </li>
+</ul>
+
+<hr/>
+<h2>Percentage of Children Up-to-Date on Immunizations</h2>
+<table class="zebraBorder layout" summary="sorted by survey year, ascending" style="width: 40%;">
+	<caption>Percentage of Children Up-to-Date on Immunizations</caption>
+	<thead>
+		<tr>
+			<th scope="col">Survey <br/>Year</th>
+			<th scope="col">Percentage <br/>Immunized</th>
+			<th scope="col">Number <br/>Immunized</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<th scope="row">1994</th>
+			<td>61.9%</td>
+			<td>4456</td>
+		</tr>
+		<tr>
+			<th scope="row">1996</th>
+			<td>67.9%</td>
+			<td>2983</td>
+		</tr>
+		<tr>
+			<th scope="row">1998</th>
+			<td>65.9%</td>
+			<td>417</td>
+		</tr>
+		<tr>
+			<th scope="row">2000</th>
+			<td>70.3%</td>
+			<td>2156</td>
+		</tr>
+	</tbody>
+</table>
+
+<hr/>
+<h2>Percentage of Children Up-to-Date on Immunizations by Race / Ethnicity</h2>
+<table class="zebraBorder layout" summary="sorted horizontally by year, ascending and vertically in alphabetical fashion by race/ethnicity" style="width:100%;">
+	<caption>Percentage of Children Up-to-Date on Immunizations by Race / Ethnicity</caption>
+	<thead>
+		<tr>
+			<th scope="col">Race / Ethnicity</th>
+			<th scope="col">1994 %</th>
+			<th scope="col">1994 (N)</th>
+			<th scope="col">1996 %</th>
+			<th scope="col">1996 (N)</th>
+			<th scope="col">1998 %</th>
+			<th scope="col">1998 (N)</th>
+			<th scope="col">2000 %</th>
+			<th scope="col">2000 (N)</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<th scope="row">African American</th>
+			<td>47.4%</td>
+			<td>574</td>
+			<td>56.0%</td>
+			<td>478</td>
+			<td>63.4%</td>
+			<td>41%</td>
+			<td>72.1%</td>
+			<td>106</td>
+		</tr>
+		<tr>
+			<th scope="row">Hispanic</th>
+			<td>64.9%</td>
+			<td>2132</td>
+			<td>68.3%</td>
+			<td>1105</td>
+			<td>66.4%</td>
+			<td>146</td>
+			<td>66.7%</td>
+			<td>664</td>
+		</tr>
+		<tr>
+			<th scope="row">White</th>
+			<td>64.1%</td>
+			<td>1631</td>
+			<td>70.3%</td>
+			<td>1311</td>
+			<td>66.4%</td>
+			<td>217</td>
+			<td>73.6%</td>
+			<td>660</td>
+		</tr>
+	</tbody>
+</table>
+
+<hr/>
+<h2>Percentage of Children Up-to-Date on Immunizations by Health Insurance Coverage and Public Assistance Factors</h2>
+
+<br/>
+<h3>Health Insurance</h3>
+<table class="zebraBorder layout" summary="sorted chronologically by year, ascending with percentages first and numbers second" style="width:100%">
+	<caption>Percentage of Children with Health Insurance Up-to-Date on Immunizations</caption>
+	<thead>
+		<tr>
+			<th scope="col">Insurance Type</th>
+			<th scope="col">1994 %</th>
+			<th scope="col">1994 (N)</th>
+			<th scope="col">1996 %</th>
+			<th scope="col">1996 (N)</th>
+			<th scope="col">1998 %</th>
+			<th scope="col">1998 (N)</th>
+			<th scope="col">2000 %</th>
+			<th scope="col">2000 (N)</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<th scope="row">None</td>
+			<td>61.7</td>
+			<td>(1415)</td>
+			<td>62.3</td>
+			<td>(382)</td>
+			<td>61.9</td>
+			<td>(63)</td>
+			<td>54.8</td>
+			<td>(288)</td>
+		</tr>
+		<tr>
+			<th scope="row">Medicaid</td>
+			<td>52.0</td>
+			<td>(1110)</td>
+			<td>69.3</td>
+			<td>(1063)</td>
+			<td>62.7</td>
+			<td>(134)</td>
+			<td>72.1</td>
+			<td>(716)</td>
+		</tr>
+		<tr>
+			<th scope="row">Private</td>
+			<td>67.2</td>
+			<td>(1931)</td>
+			<td>68.7</td>
+			<td>(1538)</td>
+			<td>69.1</td>
+			<td>(220)</td>
+			<td>73.6</td>
+			<td>(1125)</td>
+		</tr>
+	</tbody>
+</table>
+
+<br/>
+<h3>Receiving AFDC</h3>
+<table class="zebraBorder layout" summary="sorted chronologically by year, ascending with percentages first and numbers second" style="width:100%">
+	<caption>Percentage of Children Receiving AFDC Up-to-Date on Immunizations</caption>
+	<thead>
+		<tr>
+			<th scope="col">Receiving AFDC</th>
+			<th scope="col">1994 %</th>
+			<th scope="col">1994 (N)</th>
+			<th scope="col">1996 %</th>
+			<th scope="col">1996 (N)</th>
+			<th scope="col">1998 %</th>
+			<th scope="col">1998 (N)</th>
+			<th scope="col">2000 %</th>
+			<th scope="col">2000 (N)</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<th scope="row">Yes</th>
+			<td>47.6</td>
+			<td>(697)</td>
+			<td>66.5</td>
+			<td>(240)</td>
+			<td>*</td>
+			<td>&nbsp;</td>
+			<td>73.9</td>
+			<td>(52)</td>
+		</tr>
+		<tr>
+			<th scope="row">No</th>
+			<td>64.6</td>
+			<td>(3757)</td>
+			<td>68.3</td>
+			<td>(2737)</td>
+			<td>66.7</td>
+			<td>(393)</td>
+			<td>70.2</td>
+			<td>(1419)</td>
+		</tr>
+	</tbody>
+</table>
+
+<br/>
+<h3>Enrolled in WIC</h3>
+<table class="zebraBorder layout" summary="sorted chronologically by year, ascending with percentages first and numbers second" style="width:100%">
+	<caption>Percentage of Children Enrolled in WIC Up-to-Date on Immunizations</caption>
+	<thead>
+		<tr>
+			<th scope="col">Enrolled in WIC</th>
+			<th scope="col">1994 %</th>
+			<th scope="col">1994 (N)</th>
+			<th scope="col">1996 %</th>
+			<th scope="col">1996 (N)</th>
+			<th scope="col">1998 %</th>
+			<th scope="col">1998 (N)</th>
+			<th scope="col">2000 %</th>
+			<th scope="col">2000 (N)</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<th scope="row">Yes</th>
+			<td>64.1</td>
+			<td>(2146)</td>
+			<td>69.2</td>
+			<td>(1187)</td>
+			<td>63.9</td>
+			<td>(169)</td>
+			<td>68.0</td>
+			<td>(666)</td>
+		</tr>
+		<tr>
+			<th scope="row">No</th>
+			<td>60.4</td>
+			<td>(2310)</td>
+			<td>66.9</td>
+			<td>(1791)</td>
+			<td>67.6</td>
+			<td>(247)</td>
+			<td>72.1</td>
+			<td>(804)</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>
+	<em>
+		AFDC = Aid to Families with Dependent Children<br/>
+		WIC = Women, Infants and Children<br/>
+		* Pecentage not calculated. Sample size was less than 25.<br/>
+	</em>
+</p>
+
+<hr/>
+<h2>Percentage of Children Up-to-Date on Immunizations by County</h2>
+<table class="zebraBorder layout" summary="sorted chronologically by year, ascending with percentages first and numbers second" style="width:100%">
+	<caption>Percentage of Children Up-to-Date on Immunizations by County</caption>
+	<thead>
+		<tr>
+			<th scope="col" style="width:16.7%">County</th>
+			<th scope="col" style="width:16.7%">1994 %</th>
+			<th scope="col" style="width:16.7%">1994 (N)</th>
+			<th scope="col" style="width:16.7%">1996 %</th>
+			<th scope="col" style="width:16.7%">1996 (N)</th>
+			<th scope="col" style="width:16.7%">2000 %</th>
+			<th scope="col" style="width:16.7%">2000 (N)</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<th scope="row">Bexar</th>
+			<td>60.3</td>
+			<td>377</td>
+			<td>69.2</td>
+			<td>251</td>
+			<td>67.3</td>
+			<td>202</td>
+		</tr>
+		<tr>
+			<th scope="row">Dallas</th>
+			<td>61.6</td>
+			<td>373</td>
+			<td>64.2</td>
+			<td>364</td>
+			<td>68.6</td>
+			<td>185</td>
+		</tr>
+		<tr>
+			<th scope="row">El Paso</th>
+			<td>72.7</td>
+			<td>377</td>
+			<td>67.9</td>
+			<td>246</td>
+			<td>59.1</td>
+			<td>203</td>
+		</tr>
+		<tr>
+			<th scope="row">Harris</th>
+			<td>51.9</td>
+			<td>373</td>
+			<td>68.6</td>
+			<td>304</td>
+			<td>68.5</td>
+			<td>168</td>
+		</tr>
+		<tr>
+			<th scope="row">Hidalgo</th>
+			<td>65.9</td>
+			<td>379</td>
+			<td>71.3</td>
+			<td>224</td>
+			<td>65.6</td>
+			<td>212</td>
+		</tr>
+		<tr>
+			<th scope="row">Nueces</th>
+			<td>60.9</td>
+			<td>369</td>
+			<td>63.2</td>
+			<td>268</td>
+			<td>64.5</td>
+			<td>211</td>
+		</tr>
+		<tr>
+			<th scope="row">Potter</th>
+			<td>60.3</td>
+			<td>371</td>
+			<td>69.8</td>
+			<td>258</td>
+			<td>72.2</td>
+			<td>205</td>
+		</tr>
+		<tr>
+			<th scope="row">Smith</th>
+			<td>64.7</td>
+			<td>370</td>
+			<td>68.3</td>
+			<td>244</td>
+			<td>66.7</td>
+			<td>171</td>
+		</tr>
+		<tr>
+			<th scope="row">Tarrant</th>
+			<td>62.0</td>
+			<td>372</td>
+			<td>65.4</td>
+			<td>408</td>
+			<td>72.6</td>
+			<td>186</td>
+		</tr>
+		<tr>
+			<th scope="row">Travis</th>
+			<td>57.5</td>
+			<td>355</td>
+			<td>71.9</td>
+			<td>270</td>
+			<td>73.9</td>
+			<td>176</td>
+		</tr>
+	</tbody>
+</table>
+
+<hr/>
+<h2>Immunizations Rates by Race/ethnicity for Counties and Cities in Texas</h2>
+<br/>
+<h3>Bexar County</h3>
+<table class="zebraBorder layout" summary="sorted chronologically by year, ascending with percentages first and numbers second" style="width:60%">
+	<caption>Immunizations Rates by Race/ethnicity for Bexar County</caption>
+	<thead>
+		<tr>
+			<th scope="col">Population</th>
+			<th scope="col">1994 % </th>
+			<th scope="col">1994 (N) </th>
+			<th scope="col">1996 % </th>
+			<th scope="col">1996 (N) </th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<th scope="row">White</th>
+			<td>71.2</td>
+			<td>(60)</td>
+			<td>66.2</td>
+			<td>(91)</td>
+		</tr>
+		<tr>
+			<th scope="row">African American</th>
+			<td>--</td>
+			<td>--</td>
+			<td>--</td>
+			<td>--</td>
+		</tr>
+		<tr>
+			<th scope="row">Hispanic</th>
+			<td>54.6</td>
+			<td>(298)</td>
+			<td>69.5</td>
+			<td>(144)</td>
+		</tr>
+	</tbody>
+</table>
+
+<br/>
+<h3>Dallas County</h3>
+<table class="zebraBorder layout" summary="sorted chronologically by year, ascending with percentages first and numbers second" style="width:60%">
+	<caption>Immunizations Rates by Race/ethnicity for Dallas County</caption>
+	<thead>
+		<tr>
+			<th scope="col">Population</th>
+			<th scope="col">1994 % </th>
+			<th scope="col">1994 (N) </th>
+			<th scope="col">1996 % </th>
+			<th scope="col">1996 (N) </th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<th scope="row">White</th>
+			<td>62.1</td>
+			<td>(146)</td>
+			<td>67.9</td>
+			<td>(145)</td>
+		</tr>
+		<tr>
+			<th scope="row">African American</th>
+			<td>49.7</td>
+			<td>(65)</td>
+			<td>62.4</td>
+			<td>(116)</td>
+		</tr>
+		<tr>
+			<th scope="row">Hispanic</th>
+			<td>70.1</td>
+			<td>(143)</td>
+			<td>61.9</td>
+			<td>(88)</td>
+		</tr>
+	</tbody>
+</table>
+
+
+<br/>
+<h3>El Paso County</h3>
+<table class="zebraBorder layout" summary="sorted chronologically by year, ascending with percentages first and numbers second" style="width:60%">
+	<caption>Immunizations Rates by Race/ethnicity for El Paso County</caption>
+	<thead>
+		<tr>
+			<th scope="col">Population</th>
+			<th scope="col">1994 % </th>
+			<th scope="col">1994 (N) </th>
+			<th scope="col">1996 % </th>
+			<th scope="col">1996 (N) </th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<th scope="row">White</th>
+			<td>72.2</td>
+			<td>(51)</td>
+			<td>72.4</td>
+			<td>(54)</td>
+		</tr>
+		<tr>
+			<th scope="row">African American</th>
+			<td>--</td>
+			<td>--</td>
+			<td>--</td>
+			<td>--</td>
+		</tr>
+		<tr>
+			<th scope="row">Hispanic</th>
+			<td>72.0</td>
+			<td>(300)</td>
+			<td>66.5</td>
+			<td>(182)</td>
+		</tr>
+	</tbody>
+</table>
+
+<br/>
+<h3>Harris County</h3>
+<table class="zebraBorder layout" summary="sorted chronologically by year, ascending with percentages first and numbers second" style="width:60%">
+	<caption>Immunizations Rates by Race/ethnicity for Harris County</caption>
+	<thead>
+		<tr>
+			<th scope="col">Population</th>
+			<th scope="col">1994 % </th>
+			<th scope="col">1994 (N) </th>
+			<th scope="col">1996 % </th>
+			<th scope="col">1996 (N) </th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<th scope="row">White</th>
+			<td>57.3</td>
+			<td>(114)</td>
+			<td>73.5</td>
+			<td>(94)</td>
+		</tr>
+		<tr>
+			<th scope="row">African American</th>
+			<td>35.7</td>
+			<td>(84)</td>
+			<td>62.1</td>
+			<td>(119)</td>
+		</tr>
+		<tr>
+			<th scope="row">Hispanic</th>
+			<td>56.8</td>
+			<td>(158)</td>
+			<td>67.6</td>
+			<td>(74)</td>
+		</tr>
+	</tbody>
+</table>
+
+<br/>
+<h3>Hidalgo County</h3>
+<table class="zebraBorder layout" summary="sorted chronologically by year, ascending with percentages first and numbers second" style="width:60%">
+	<caption>Immunizations Rates by Race/ethnicity for Hidalgo County</caption>
+	<thead>
+		<tr>
+			<th scope="col">Population</th>
+			<th scope="col">1994 % </th>
+			<th scope="col">1994 (N) </th>
+			<th scope="col">1996 % </th>
+			<th scope="col">1996 (N) </th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<th scope="row">White</th>
+			<td>--</td>
+			<td>--</td>
+			<td>--</td>
+			<td>--</td>
+		</tr>
+		<tr>
+			<th scope="row">African American</th>
+			<td>--</td>
+			<td>--</td>
+			<td>--</td>
+			<td>--</td>
+		</tr>
+		<tr>
+			<th scope="row">Hispanic</th>
+			<td>67.2</td>
+			<td>(363)</td>
+			<td>72.3</td>
+			<td>(212)</td>
+		</tr>
+	</tbody>
+</table>
+
+<br/>
+<h3>Nueces County</h3>
+<table class="zebraBorder layout" summary="sorted chronologically by year, ascending with percentages first and numbers second" style="width:60%">
+	<caption>Immunizations Rates by Race/ethnicity for Nueces County</caption>
+	<thead>
+		<tr>
+			<th scope="col">Population</th>
+			<th scope="col">1994 % </th>
+			<th scope="col">1994 (N) </th>
+			<th scope="col">1996 % </th>
+			<th scope="col">1996 (N) </th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<th scope="row">White</th>
+			<td>63.9</td>
+			<td>(143)</td>
+			<td>70.0</td>
+			<td>(113)</td>
+		</tr>
+		<tr>
+			<th scope="row">African American</th>
+			<td>--</td>
+			<td>--</td>
+			<td>--</td>
+			<td>--</td>
+		</tr>
+		<tr>
+			<th scope="row">Hispanic</th>
+			<td>60.5</td>
+			<td>(205)</td>
+			<td>59.2</td>
+			<td>(140)</td>
+		</tr>
+	</tbody>
+</table>
+
+<br/>
+<h3>Potter County</h3>
+<table class="zebraBorder layout" summary="sorted chronologically by year, ascending with percentages first and numbers second" style="width:60%">
+	<caption>Immunizations Rates by Race/ethnicity for Potter County</caption>
+	<thead>
+		<tr>
+			<th scope="col">Population</th>
+			<th scope="col">1994 % </th>
+			<th scope="col">1994 (N) </th>
+			<th scope="col">1996 % </th>
+			<th scope="col">1996 (N) </th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<th scope="row">White</th>
+			<td>65.3</td>
+			<td>(188)</td>
+			<td>77.3</td>
+			<td>(150)</td>
+		</tr>
+		<tr>
+			<th scope="row">African American</th>
+			<td>53.8</td>
+			<td>(72)</td>
+			<td>--</td>
+			<td>--</td>
+		</tr>
+		<tr>
+			<th scope="row">Hispanic</th>
+			<td>48.6</td>
+			<td>(93)</td>
+			<td>62.4</td>
+			<td>(78)</td>
+		</tr>
+	</tbody>
+</table>
+
+<br/>
+<h3>Smith County</h3>
+<table class="zebraBorder layout" summary="sorted chronologically by year, ascending with percentages first and numbers second" style="width:60%">
+	<caption>Immunizations Rates by Race/ethnicity for Smith County</caption>
+	<thead>
+		<tr>
+			<th scope="col">Population</th>
+			<th scope="col">1994 % </th>
+			<th scope="col">1994 (N) </th>
+			<th scope="col">1996 % </th>
+			<th scope="col">1996 (N) </th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<th scope="row">White</th>
+			<td>66.0</td>
+			<td>(199)</td>
+			<td>72.0</td>
+			<td>(187)</td>
+		</tr>
+		<tr>
+			<th scope="row">African American</th>
+			<td>52.8</td>
+			<td>(109)</td>
+			<td>67.8</td>
+			<td>(38)</td>
+		</tr>
+		<tr>
+			<th scope="row">Hispanic</th>
+			<td>82.4</td>
+			<td>(55)</td>
+			<td>--</td>
+			<td>--</td>
+		</tr>
+	</tbody>
+</table>
+
+<br/>
+<h3>Tarrant County</h3>
+<table class="zebraBorder layout" summary="sorted chronologically by year, ascending with percentages first and numbers second" style="width:60%">
+	<caption>Immunizations Rates by Race/ethnicity for Tarrant County</caption>
+	<thead>
+		<tr>
+			<th scope="col">Population</th>
+			<th scope="col">1994 % </th>
+			<th scope="col">1994 (N) </th>
+			<th scope="col">1996 % </th>
+			<th scope="col">1996 (N) </th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<th scope="row">White</th>
+			<td>62.4</td>
+			<td>(181)</td>
+			<td>71.3</td>
+			<td>(209)</td>
+		</tr>
+		<tr>
+			<th scope="row">African American</th>
+			<td>51.4</td>
+			<td>(55)</td>
+			<td>57.9</td>
+			<td>(126)</td>
+		</tr>
+		<tr>
+			<th scope="row">Hispanic</th>
+			<td>69.4</td>
+			<td>(122)</td>
+			<td>57.3</td>
+			<td>(56)</td>
+		</tr>
+	</tbody>
+</table>
+
+<br/>
+<h3>Travis County</h3>
+<table class="zebraBorder layout" summary="sorted chronologically by year, ascending with percentages first and numbers second" style="width:60%">
+	<caption>Immunizations Rates by Race/ethnicity for Travis County</caption>
+	<thead>
+		<tr>
+			<th scope="col">Population</th>
+			<th scope="col">1994 % </th>
+			<th scope="col">1994 (N) </th>
+			<th scope="col">1996 % </th>
+			<th scope="col">1996 (N) </th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<th scope="row">White</th>
+			<td>55.8</td>
+			<td>(167)</td>
+			<td>73.6</td>
+			<td>(162)</td>
+		</tr>
+		<tr>
+			<th scope="row">African American</th>
+			<td>46.0</td>
+			<td>(56)</td>
+			<td>--</td>
+			<td>--</td>
+		</tr>
+		<tr>
+			<th scope="row">Hispanic</th>
+			<td>67.9</td>
+			<td>(124)</td>
+			<td>72.4</td>
+			<td>(76)</td>
+		</tr>
+	</tbody>
+</table>
+
+<hr/>
+<h2>Texas Immunization Survey Publications</h2>
+<ol>
+	<li>Prislin R, Suarez L, Simpson D, Dyer J.<br/>
+		<a title="When  Acculturation Hurts: The Case of Immunization" href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Retrieve&amp;list_uids=10075238&amp;dopt=Abstract">When  Acculturation Hurts: The Case of Immunization</a>.<br/>Soc Sci Med. 1998; 47(12):  1947-56.  </li>
+	<li>Prislin R, Dyer J, Blakely C, Johnson C.<br/>
+		<a title="Immunization Status and Sociodemographic Characteristics: The Mediating Role of Beliefs, Attitudes, and Perceived Control" href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Retrieve&amp;list_uids=9842380&amp;dopt=Abstract">Immunization Status and Sociodemographic Characteristics: The Mediating Role of Beliefs, Attitudes, and Perceived Control</a>.<br/>Am J Pub Hlth. 1998; 88(12): 1821-26.</li>
+	<li>Simpson D, Suarez L, Smith D.<br/>
+		<a title="Immunization Rates Among Young Children in the Public and Private Health Care Sectors" href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Retrieve&amp;list_uids=9088443&amp;dopt=Abstract">Immunization Rates Among Young Children in the Public and Private Health Care Sectors</a>.<br/>Am J Prev Med. 1997; 13(2): 84-88. </li>
+	<li>Suarez L, Simpson D, Smith D.<br/>
+		<a title="Impact of Public Assistance Factors on the Immunization Levels of Children Younger than 2 Years" href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Retrieve&amp;list_uids=9184518&amp;dopt=Abstract">Impact of Public Assistance Factors on the Immunization Levels of Children Younger than 2 Years</a>.<br/>Am J Pub Hlth. 1997; 87(5): 845-48. </li>
+	<li>Suarez L, Simpson D, Smith D.<br/>
+		<a title="Errors and Correlates in Parental Recall of Child Immunizations: Effects on Vaccination Coverage Estimates" href="http://www.pediatrics.org/cgi/content/full/99/5/e3">Errors and Correlates in Parental Recall of Child Immunizations: Effects on Vaccination Coverage Estimates</a>.<br/>Ped 1997; 99(5): 1-5. </li>
+	<li>Simpson D, Suarez L.<br/>The Immunization Status of Texas Children Aged 3 to 24 Months: Results of the 1994 Texas Immunization Survey.<br/>TX Med. 1996; 92(3): 60-65. </li>
+</ol>
+
+<?php include '/home/codio/workspace/includes/footer.html' ?>

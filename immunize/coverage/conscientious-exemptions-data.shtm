@@ -1,0 +1,2836 @@
+<?php
+	$title= "Conscientious Exemptions Data - Vaccination Coverage Levels" ;
+	include '/home/codio/workspace/includes/header.html';
+	include '/home/codio/workspace/includes/menus/coverage_menu.html'; 
+?>
+<hr/>
+<h2>Table of Contents</h2>
+<ul>    
+    <li>    
+	<a title="Overview of Conscientious Exemptions"  href="#overview">Overview of Conscientious Exemptions</a>  </li>  
+    <li>    
+	<a title="Conscientious Exemptions by School District"  href="#district">Conscientious Exemptions by School District</a>  </li>  
+    <li>    
+	<a title="Conscientious Exemptions by County"  href="#county">Conscientious Exemptions by County</a>  </li>
+</ul>
+<hr/>
+<a id="overview"  title="overview"  data-ektron-placeholder="bookmark"></a>
+<h2>Overview of Conscientious Exemptions</h2>
+<p>In accordance with 
+<a title="Texas Administrative Code §97.62"  href="http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&ti=25&ch=97&rl=62">Texas Administrative Code §97.62</a>, Texas law allows for an exemption from immunizations for reasons of conscience, including a religious belief. To claim an exemption due to reasons of conscience, a student's parent or legal guardian must request, sign, and submit an official DSHS affidavit form to the child's school. The affidavit is valid for two years. </p>
+<p>  <strong>Note:</strong> Students who haven't received the required immunizations for reasons of conscience may be excluded from school in times of emergency or epidemic declared by the Texas Commissioner of Health.</p>
+<hr/>
+<a id="district"  title="district"  data-ektron-placeholder="bookmark"></a>
+<h2>Conscientious Exemptions by School District</h2>
+<ul>  
+    <li>    
+	<a title="2015–2016 Conscientious Exemptions by School District"  href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=12884902913">2015–2016 Conscientious Exemptions by School District (PDF)</a>  </li>  
+    <li>    
+	<a title="2014–2015 Conscientious Exemptions by School District"  href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8589998728">2014–2015 Conscientious Exemptions by School District (PDF)</a>  </li>  
+    <li>    
+	<a title="2013–2014 Conscientious Exemptions by School District"  href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8589995695">2013–2014 Conscientious Exemptions by School District (PDF)</a>  </li>  
+    <li>    
+	<a title="2012–2013 Conscientious Exemptions by Texas School District"  href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8589995696">2012–2013 Conscientious Exemptions by Texas School District (PDF)</a>  </li>
+</ul>
+<hr/>
+<a id="county"  title="county"  data-ektron-placeholder="bookmark"></a>
+<h2>Conscientious Exemptions by County</h2>
+<p style="text-align:right;">  
+    <a title="Conscientious Exemptions Data for Texas, 2010-2016"  href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8589998729">Printable Version of 2010-2016 Conscientious Exemptions Data for Texas (PDF)</a>
+</p>
+<p>The following data tables contain information on the percent of students with conscientious exemptions filed at the district level by county & school year, as derived from the Texas Annual Report of Immunization Status<sup>
+    <a title="footnote-1" href="#footnote-1">1</a>
+</sup>, All Grades.</p>
+<br/>
+<h3 style="font-weight:initial;margin-left:20px;">Jump to county:</h3>
+<p style="margin-left:20px;">  
+    <a title="Counties Beginning with A"  href="#A">A</a> |    
+    <a title="Counties Beginning with B"  href="#B">B</a> |    
+    <a title="Counties Beginning with C"  href="#C">C</a> |    
+    <a title="Counties Beginning with D"  href="#D">D</a> |    
+    <a title="Counties Beginning with E"  href="#E">E</a> |    
+    <a title="Counties Beginning with F"  href="#F">F</a> |    
+    <a title="Counties Beginning with G"  href="#G">G</a> |    
+    <a title="Counties Beginning with H"  href="#H">H</a> |    
+    <a title="Counties Beginning with I"  href="#I">I</a> |    
+    <a title="Counties Beginning with J"  href="#J">J</a> |    
+    <a title="Counties Beginning with K"  href="#K">K</a> |    
+    <a title="Counties Beginning with L"  href="#L">L</a> |    
+    <a title="Counties Beginning with M"  href="#M">M</a> |    
+    <a title="Counties Beginning with N"  href="#N">N</a> |    
+    <a title="Counties Beginning with O"  href="#O">O</a> |    
+    <a title="Counties Beginning with P"  href="#P">P</a> |    
+    <a title="Counties Beginning with Q"  href="#Q">Q</a> |    
+    <a title="Counties Beginning with R"  href="#R">R</a> |    
+    <a title="Counties Beginning with S"  href="#S">S</a> |    
+    <a title="Counties Beginning with T"  href="#T">T</a> |    
+    <a title="Counties Beginning with U"  href="#U">U</a> |    
+    <a title="Counties Beginning with V"  href="#V">V</a> |    
+    <a title="Counties Beginning with W"  href="#W">W</a> |    
+    <a title="Counties Beginning with X"  href="#X">X</a> |    
+    <a title="Counties Beginning with Y"  href="#Y">Y</a> |    
+    <a title="Counties Beginning with Z"  href="#Z">Z</a> |    
+    <a title="State Total"  href="#totals">State Totals</a> |    
+    <a title="Endnotes"  href="#endnotes">Endnotes</a>
+</p>
+<hr/>
+<a id="A"  title="NewBookmark"  data-ektron-placeholder="bookmark"></a>
+<h3 style="margin-left:20px;">A</h3>
+<table class="zebraBorder"  summary="Sorted alphabetically by county name"  style="width:95%;margin-left:20px;">
+    <caption>Percent of Students with Conscientious Exemptions Filed in Counties Beginning with A</caption>  
+    <thead>    
+        <tr>      
+            <th scope="col"  style="width:14.28%;">County</th>      
+            <th scope="col"  style="width:14.28%;">2010-2011</th>      
+            <th scope="col"  style="width:14.28%;">2011-2012</th>      
+            <th scope="col"  style="width:14.28%;">2012-2013</th>      
+            <th scope="col"  style="width:14.28%;">2013-2014</th>      
+            <th scope="col"  style="width:14.28%;">2014-2015</th>      
+            <th scope="col"  style="width:14.28%;">2015-2016</th>
+		</tr>
+	</thead>  
+    <tbody>    
+        <tr>      
+            <th scope="row">Anderson</th>      
+            <td>0.20%</td>      
+            <td>0.24%</td>      
+            <td>0.33%</td>      
+            <td>0.29%</td>      
+            <td>0.29%</td>      
+            <td>0.35%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Andrews</th>      
+            <td>0.36%</td>      
+            <td>0.52%</td>      
+            <td>0.63%</td>      
+            <td>0.66%</td>      
+            <td>0.82%</td>      
+            <td>0.75%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Angelina</th>      
+            <td>0.33%</td>      
+            <td>0.44%</td>      
+            <td>0.46%</td>      
+            <td>0.55%</td>      
+            <td>0.49%</td>      
+            <td>0.70%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Aransas</th>      
+            <td>0.25%</td>      
+            <td>0.46%</td>      
+            <td>0.52%</td>      
+            <td>0.98%</td>      
+            <td>1.20%</td>      
+            <td>1.22%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Archer</th>      
+            <td>0.60%</td>      
+            <td>0.49%</td>      
+            <td>0.61%</td>      
+            <td>0.33%</td>      
+            <td>0.56%</td>      
+            <td>0.61%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Armstrong</th>      
+            <td>0.59%</td>      
+            <td>1.43%</td>      
+            <td>1.44%</td>      
+            <td>1.98%</td>      
+            <td>2.06%</td>      
+            <td>0.59%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Atascosa</th>      
+            <td>0.18%</td>      
+            <td>0.23%</td>      
+            <td>0.23%</td>      
+            <td>0.26%</td>      
+            <td>0.30%</td>      
+            <td>0.16%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Austin</th>      
+            <td>0.46%</td>      
+            <td>0.28%</td>      
+            <td>0.56%</td>      
+            <td>0.27%</td>      
+            <td>0.53%</td>      
+            <td>0.74%</td>    
+		</tr>  
+	</tbody>
+</table>
+<a id="B"  title="NewBookmark"  data-ektron-placeholder="bookmark"></a>
+<h3 style="margin-left:20px;">B</h3>
+<table class="zebraBorder"  summary="Sorted alphabetically by county name"  style="width:95%;margin-left:20px;">  
+    <caption>Percent of Students with Conscientious Exemptions Filed in Counties Beginning with B</caption>  
+    <thead>    
+        <tr>      
+            <th scope="col"  style="width:14.28%;">County</th>      
+            <th scope="col"  style="width:14.28%;">2010-2011</th>      
+            <th scope="col"  style="width:14.28%;">2011-2012</th>      
+            <th scope="col"  style="width:14.28%;">2012-2013</th>      
+            <th scope="col"  style="width:14.28%;">2013-2014</th>      
+            <th scope="col"  style="width:14.28%;">2014-2015</th>      
+            <th scope="col"  style="width:14.28%;">2015-2016</th>
+		</tr>
+	</thead>  
+    <tbody>    
+        <tr>      
+            <th scope="row">Bailey</th>      
+            <td>0.59%</td>      
+            <td>0.57%</td>      
+            <td>0.58%</td>      
+            <td>0.75%</td>      
+            <td>0.68%</td>      
+            <td>0.67%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Bandera</th>      
+            <td>0.38%</td>      
+            <td>0.35%</td>      
+            <td>0.67%</td>      
+            <td>1.00%</td>      
+            <td>1.03%</td>      
+            <td>1.44%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Bastrop</th>      
+            <td>0.63%</td>      
+            <td>0.88%</td>      
+            <td>0.91%</td>      
+            <td>0.96%</td>      
+            <td>1.29%</td>      
+            <td>1.08%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Baylor</th>      
+            <td>0.92%</td>      
+            <td>1.28%</td>      
+            <td>1.43%</td>      
+            <td>1.52%</td>      
+            <td>3.36%</td>      
+            <td>1.23%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Bee</th>      
+            <td>0.19%</td>      
+            <td>0.27%</td>      
+            <td>0.23%</td>      
+            <td>0.46%</td>      
+            <td>0.52%</td>      
+            <td>0.24%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Bell</th>      
+            <td>0.21%</td>      
+            <td>0.37%</td>      
+            <td>0.37%</td>      
+            <td>0.49%</td>      
+            <td>0.58%</td>      
+            <td>0.71%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Bexar</th>      
+            <td>0.26%</td>      
+            <td>0.32%</td>      
+            <td>0.36%</td>      
+            <td>0.45%</td>      
+            <td>0.52%</td>      
+            <td>0.67%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Blanco</th>      
+            <td>1.83%</td>      
+            <td>2.08%</td>      
+            <td>2.89%</td>      
+            <td>3.61%</td>      
+            <td>4.57%</td>      
+            <td>3.06%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Borden</th>      
+            <td>0.00%</td>      
+            <td>0.95%</td>      
+            <td>0.84%</td>      
+            <td>1.17%</td>      
+            <td>1.63%</td>      
+            <td>2.04%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Bosque</th>      
+            <td>0.50%</td>      
+            <td>0.57%</td>      
+            <td>0.50%</td>      
+            <td>0.49%</td>      
+            <td>0.58%</td>      
+            <td>0.68%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Bowie</th>      
+            <td>0.75%</td>      
+            <td>0.66%</td>      
+            <td>0.97%</td>      
+            <td>1.12%</td>      
+            <td>1.17%</td>      
+            <td>1.17%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Brazoria</th>      
+            <td>0.30%</td>      
+            <td>0.43%</td>      
+            <td>0.46%</td>      
+            <td>0.60%</td>      
+            <td>0.70%</td>      
+            <td>0.80%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Brazos</th>      
+            <td>0.43%</td>      
+            <td>0.38%</td>      
+            <td>0.48%</td>      
+            <td>0.49%</td>      
+            <td>0.63%</td>      
+            <td>0.76%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Brewster</th>      
+            <td>0.83%</td>      
+            <td>0.49%</td>      
+            <td>1.68%</td>      
+            <td>1.46%</td>      
+            <td>0.54%</td>      
+            <td>1.36%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Briscoe</th>      
+            <td>3.23%</td>      
+            <td>4.12%</td>      
+            <td>2.56%</td>      
+            <td>2.86%</td>      
+            <td>2.16%</td>      
+            <td>3.55%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Brooks</th>      
+            <td>0.06%</td>      
+            <td>0.13%</td>      
+            <td>0.00%</td>      
+            <td>0.00%</td>      
+            <td>0.00%</td>      
+            <td>0.00%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Brown</th>      
+            <td>1.21%</td>      
+            <td>1.07%</td>      
+            <td>1.43%</td>      
+            <td>0.60%</td>      
+            <td>0.70%</td>      
+            <td>0.62%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Burleson</th>      
+            <td>0.18%</td>      
+            <td>0.22%</td>      
+            <td>0.19%</td>      
+            <td>0.11%</td>      
+            <td>0.19%</td>      
+            <td>0.19%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Burnet</th>      
+            <td>4.11%</td>      
+            <td>1.25%</td>      
+            <td>1.55%</td>      
+            <td>1.75%</td>      
+            <td>2.37%</td>      
+            <td>2.21%</td>    
+		</tr>  
+	</tbody>
+</table>
+<a id="C"  title="NewBookmark"  data-ektron-placeholder="bookmark"></a>
+<h3 style="margin-left:20px;">C</h3>
+<table class="zebraBorder"  summary="Sorted alphabetically by county name"  style="width:95%;margin-left:20px;">  
+    <caption>Percent of Students with Conscientious Exemptions Filed in Counties Beginning with C</caption>  
+    <thead>    
+        <tr>      
+            <th scope="col"  style="width:14.28%;">County</th>      
+            <th scope="col"  style="width:14.28%;">2010-2011</th>      
+            <th scope="col"  style="width:14.28%;">2011-2012</th>      
+            <th scope="col"  style="width:14.28%;">2012-2013</th>      
+            <th scope="col"  style="width:14.28%;">2013-2014</th>      
+            <th scope="col"  style="width:14.28%;">2014-2015</th>      
+            <th scope="col"  style="width:14.28%;">2015-2016</th>
+		</tr>
+	</thead>  
+    <tbody>    
+        <tr>      
+            <th scope="row">Caldwell</th>      
+            <td>0.35%</td>      
+            <td>0.35%</td>      
+            <td>0.49%</td>      
+            <td>0.66%</td>      
+            <td>0.76%</td>      
+            <td>1.07%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Calhoun</th>      
+            <td>0.47%</td>      
+            <td>0.46%</td>      
+            <td>0.56%</td>      
+            <td>0.51%</td>      
+            <td>0.47%</td>      
+            <td>0.39%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Callahan</th>      
+            <td>1.04%</td>      
+            <td>1.38%</td>      
+            <td>1.24%</td>      
+            <td>1.12%</td>      
+            <td>1.75%</td>      
+            <td>1.39%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Cameron</th>      
+            <td>0.05%</td>      
+            <td>0.08%</td>      
+            <td>0.10%</td>      
+            <td>0.54%</td>      
+            <td>0.10%</td>      
+            <td>0.12%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Camp</th>      
+            <td>0.04%</td>      
+            <td>0.04%</td>      
+            <td>0.13%</td>      
+            <td>0.08%</td>      
+            <td>0.04%</td>      
+            <td>0.00%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Carson</th>      
+            <td>0.45%</td>      
+            <td>0.48%</td>      
+            <td>0.77%</td>      
+            <td>0.95%</td>      
+            <td>1.20%</td>      
+            <td>1.26%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Cass</th>      
+            <td>0.33%</td>      
+            <td>0.32%</td>      
+            <td>0.23%</td>      
+            <td>0.32%</td>      
+            <td>0.23%</td>      
+            <td>0.57%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Castro</th>      
+            <td>0.00%</td>      
+            <td>0.00%</td>      
+            <td>0.00%</td>      
+            <td>0.22%</td>      
+            <td>0.07%</td>      
+            <td>0.00%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Chambers</th>      
+            <td>0.25%</td>      
+            <td>0.19%</td>      
+            <td>0.48%</td>      
+            <td>0.44%</td>      
+            <td>0.57%</td>      
+            <td>0.80%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Cherokee</th>      
+            <td>0.31%</td>      
+            <td>0.18%</td>      
+            <td>0.26%</td>      
+            <td>0.24%</td>      
+            <td>0.30%</td>      
+            <td>0.36%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Childress</th>      
+            <td>0.09%</td>      
+            <td>0.18%</td>      
+            <td>0.09%</td>      
+            <td>0.00%</td>      
+            <td>0.09%</td>      
+            <td>0.09%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Clay</th>      
+            <td>0.34%</td>      
+            <td>0.24%</td>      
+            <td>0.38%</td>      
+            <td>0.37%</td>      
+            <td>0.42%</td>      
+            <td>0.52%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Cochran</th>      
+            <td>0.28%</td>      
+            <td>0.44%</td>      
+            <td>0.90%</td>      
+            <td>0.38%</td>      
+            <td>0.39%</td>      
+            <td>0.29%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Coke</th>      
+            <td>0.00%</td>      
+            <td>0.00%</td>      
+            <td>0.41%</td>      
+            <td>1.24%</td>      
+            <td>1.37%</td>      
+            <td>0.79%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Coleman</th>      
+            <td>0.22%</td>      
+            <td>0.23%</td>      
+            <td>0.00%</td>      
+            <td>0.00%</td>      
+            <td>0.16%</td>      
+            <td>0.28%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Collin</th>      
+            <td>1.06%</td>      
+            <td>1.17%</td>      
+            <td>1.39%</td>      
+            <td>1.61%</td>      
+            <td>1.74%</td>      
+            <td>1.92%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Collingsworth</th>      
+            <td>1.77%</td>      
+            <td>2.05%</td>      
+            <td>2.02%</td>      
+            <td>2.31%</td>      
+            <td>2.89%</td>      
+            <td>1.16%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Colorado</th>      
+            <td>0.30%</td>      
+            <td>0.43%</td>      
+            <td>0.30%</td>      
+            <td>0.30%</td>      
+            <td>0.34%</td>      
+            <td>0.39%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Comal</th>      
+            <td>0.87%</td>      
+            <td>0.98%</td>      
+            <td>1.09%</td>      
+            <td>1.56%</td>      
+            <td>1.40%</td>      
+            <td>1.60%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Comanche</th>      
+            <td>0.38%</td>      
+            <td>0.40%</td>      
+            <td>0.57%</td>      
+            <td>1.28%</td>      
+            <td>1.03%</td>      
+            <td>0.73%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Concho</th>      
+            <td>0.51%</td>      
+            <td>0.00%</td>      
+            <td>0.00%</td>      
+            <td>0.00%</td>      
+            <td>0.51%</td>      
+            <td>0.00%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Cooke</th>      
+            <td>0.52%</td>      
+            <td>0.89%</td>      
+            <td>0.78%</td>      
+            <td>0.68%</td>      
+            <td>0.82%</td>      
+            <td>0.87%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Coryell</th>      
+            <td>0.36%</td>      
+            <td>0.36%</td>      
+            <td>0.41%</td>      
+            <td>1.21%</td>      
+            <td>0.96%</td>      
+            <td>0.74%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Cottle</th>      
+            <td>0.00%</td>      
+            <td>0.00%</td>      
+            <td>0.00%</td>      
+            <td>N/A <sup>
+				<a title="footnote-2" href="#footnote-2" draggable="false">2</a>
+			</sup>      </td>      
+            <td>0.00%</td>      
+            <td>0.00%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Crane</th>      
+            <td>0.10%</td>      
+            <td>0.10%</td>      
+            <td>0.09%</td>      
+            <td>0.35%</td>      
+            <td>0.52%</td>      
+            <td>0.44%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Crockett</th>      
+            <td>0.14%</td>      
+            <td>0.42%</td>      
+            <td>0.40%</td>      
+            <td>0.65%</td>      
+            <td>1.25%</td>      
+            <td>0.52%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Crosby</th>      
+            <td>0.56%</td>      
+            <td>0.69%</td>      
+            <td>0.70%</td>      
+            <td>0.60%</td>      
+            <td>1.07%</td>      
+            <td>0.99%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Culberson</th>      
+            <td>0.00%</td>      
+            <td>0.00%</td>      
+            <td>N/A <sup>
+				<a title="footnote-2" href="#footnote-2" draggable="false">2</a>
+			</sup>      </td>      
+            <td>0.00%</td>      
+            <td>N/A <sup>
+				<a title="footnote-2" href="#footnote-2" draggable="false">2</a>
+			</sup>      </td>      
+            <td>0.00%</td>    
+		</tr>  
+	</tbody>
+</table>
+<a id="D"  title="NewBookmark"  data-ektron-placeholder="bookmark"></a>
+<h3 style="margin-left:20px;">D</h3>
+<table class="zebraBorder"  summary="Sorted alphabetically by county name"  style="width:95%;margin-left:20px;">  
+    <caption>Percent of Students with Conscientious Exemptions Filed in Counties Beginning with D</caption>  
+    <thead>    
+        <tr>      
+            <th scope="col"  style="width:14.28%;">County</th>      
+            <th scope="col"  style="width:14.28%;">2010-2011</th>      
+            <th scope="col"  style="width:14.28%;">2011-2012</th>      
+            <th scope="col"  style="width:14.28%;">2012-2013</th>      
+            <th scope="col"  style="width:14.28%;">2013-2014</th>      
+            <th scope="col"  style="width:14.28%;">2014-2015</th>      
+            <th scope="col"  style="width:14.28%;">2015-2016</th>
+		</tr>
+	</thead>  
+    <tbody>    
+        <tr>      
+            <th scope="row">Dallam</th>      
+            <td>0.48%</td>      
+            <td>0.43%</td>      
+            <td>0.21%</td>      
+            <td>0.75%</td>      
+            <td>0.68%</td>      
+            <td>1.41%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Dallas</th>      
+            <td>0.32%</td>      
+            <td>0.35%</td>      
+            <td>0.41%</td>      
+            <td>0.45%</td>      
+            <td>0.53%</td>      
+            <td>0.60%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Dawson</th>      
+            <td>0.24%</td>      
+            <td>0.28%</td>      
+            <td>0.28%</td>      
+            <td>0.26%</td>      
+            <td>0.63%</td>      
+            <td>0.47%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Deaf Smith</th>      
+            <td>0.02%</td>      
+            <td>0.13%</td>      
+            <td>0.09%</td>      
+            <td>0.05%</td>      
+            <td>0.07%</td>      
+            <td>0.00%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Delta</th>      
+            <td>0.39%</td>      
+            <td>0.81%</td>      
+            <td>0.97%</td>      
+            <td>0.81%</td>      
+            <td>1.06%</td>      
+            <td>1.61%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Denton</th>      
+            <td>1.16%</td>      
+            <td>3.17%</td>      
+            <td>3.50%</td>      
+            <td>4.07%</td>      
+            <td>2.07%</td>      
+            <td>2.05%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">DeWitt</th>      
+            <td>0.07%</td>      
+            <td>0.42%</td>      
+            <td>0.29%</td>      
+            <td>0.36%</td>      
+            <td>0.30%</td>      
+            <td>0.48%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Dickens</th>      
+            <td>0.00%</td>      
+            <td>0.00%</td>      
+            <td>1.11%</td>      
+            <td>0.26%</td>      
+            <td>0.69%</td>      
+            <td>0.52%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Dimmit</th>      
+            <td>0.00%</td>      
+            <td>0.00%</td>      
+            <td>0.04%</td>      
+            <td>0.04%</td>      
+            <td>0.00%</td>      
+            <td>0.00%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Donley</th>      
+            <td>0.00%</td>      
+            <td>0.18%</td>      
+            <td>0.74%</td>      
+            <td>0.75%</td>      
+            <td>1.36%</td>      
+            <td>0.52%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Duval</th>      
+            <td>0.00%</td>      
+            <td>0.00%</td>      
+            <td>0.00%</td>      
+            <td>0.05%</td>      
+            <td>0.04%</td>      
+            <td>0.04%</td>    
+		</tr>  
+	</tbody>
+</table>
+<a id="E"  title="NewBookmark"  data-ektron-placeholder="bookmark"></a>
+<h3 style="margin-left:20px;">E</h3>
+<table class="zebraBorder"  summary="Sorted alphabetically by county name"  style="width:95%;margin-left:20px;">  
+    <caption>Percent of Students with Conscientious Exemptions Filed in Counties Beginning with E</caption>  
+    <thead>    
+        <tr>      
+            <th scope="col"  style="width:14.28%;">County</th>      
+            <th scope="col"  style="width:14.28%;">2010-2011</th>      
+            <th scope="col"  style="width:14.28%;">2011-2012</th>      
+            <th scope="col"  style="width:14.28%;">2012-2013</th>      
+            <th scope="col"  style="width:14.28%;">2013-2014</th>      
+            <th scope="col"  style="width:14.28%;">2014-2015</th>      
+            <th scope="col"  style="width:14.28%;">2015-2016</th>
+		</tr>
+	</thead>  
+    <tbody>    
+        <tr>      
+            <th scope="row">Eastland</th>      
+            <td>1.23%</td>      
+            <td>0.98%</td>      
+            <td>1.34%</td>      
+            <td>1.74%</td>      
+            <td>1.66%</td>      
+            <td>1.51%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Ector</th>      
+            <td>0.23%</td>      
+            <td>0.32%</td>      
+            <td>0.37%</td>      
+            <td>0.46%</td>      
+            <td>0.47%</td>      
+            <td>0.52%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Edwards</th>      
+            <td>0.35%</td>      
+            <td>0.35%</td>      
+            <td>0.19%</td>      
+            <td>0.19%</td>      
+            <td>0.19%</td>      
+            <td>0.00%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">El Paso</th>      
+            <td>0.34%</td>      
+            <td>0.15%</td>      
+            <td>0.14%</td>      
+            <td>0.22%</td>      
+            <td>0.21%</td>      
+            <td>0.24%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Ellis</th>      
+            <td>0.55%</td>      
+            <td>0.57%</td>      
+            <td>0.69%</td>      
+            <td>0.79%</td>      
+            <td>0.97%</td>      
+            <td>0.99%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Erath</th>      
+            <td>0.29%</td>      
+            <td>0.25%</td>      
+            <td>0.55%</td>      
+            <td>0.45%</td>      
+            <td>0.75%</td>      
+            <td>1.32%</td>    
+		</tr>  
+	</tbody>
+</table>
+<a id="F"  title="NewBookmark"  data-ektron-placeholder="bookmark"></a>
+<h3 style="margin-left:20px;">F</h3>
+<table class="zebraBorder"  summary="Sorted alphabetically by county name"  style="width:95%;margin-left:20px;">  
+    <caption>Percent of Students with Conscientious Exemptions Filed in Counties Beginning with F</caption>  
+    <thead>    
+        <tr>      
+            <th scope="col"  style="width:14.28%;">County</th>      
+            <th scope="col"  style="width:14.28%;">2010-2011</th>      
+            <th scope="col"  style="width:14.28%;">2011-2012</th>      
+            <th scope="col"  style="width:14.28%;">2012-2013</th>      
+            <th scope="col"  style="width:14.28%;">2013-2014</th>      
+            <th scope="col"  style="width:14.28%;">2014-2015</th>      
+            <th scope="col"  style="width:14.28%;">2015-2016</th>
+		</tr>
+	</thead>  
+    <tbody>    
+        <tr>      
+            <th scope="row">Falls</th>      
+            <td>0.08%</td>      
+            <td>0.09%</td>      
+            <td>0.09%</td>      
+            <td>0.00%</td>      
+            <td>0.14%</td>      
+            <td>0.23%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Fannin</th>      
+            <td>0.74%</td>      
+            <td>0.98%</td>      
+            <td>0.91%</td>      
+            <td>0.86%</td>      
+            <td>0.93%</td>      
+            <td>0.91%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Fayette</th>      
+            <td>0.50%</td>      
+            <td>0.69%</td>      
+            <td>0.68%</td>      
+            <td>0.94%</td>      
+            <td>1.05%</td>      
+            <td>0.92%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Fisher</th>      
+            <td>1.37%</td>      
+            <td>1.51%</td>      
+            <td>1.07%</td>      
+            <td>1.94%</td>      
+            <td>N/A <sup>
+				<a title="footnote-2" href="#footnote-2" draggable="false">2</a>
+			</sup>      </td>      
+            <td>0.57%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Floyd</th>      
+            <td>0.00%</td>      
+            <td>0.08%</td>      
+            <td>0.00%</td>      
+            <td>0.09%</td>      
+            <td>0.00%</td>      
+            <td>0.16%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Foard</th>      
+            <td>0.43%</td>      
+            <td>0.00%</td>      
+            <td>0.00%</td>      
+            <td>0.00%</td>      
+            <td>0.00%</td>      
+            <td>0.00%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Fort Bend</th>      
+            <td>0.32%</td>      
+            <td>0.39%</td>      
+            <td>0.45%</td>      
+            <td>0.57%</td>      
+            <td>0.50%</td>      
+            <td>0.45%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Franklin</th>      
+            <td>0.33%</td>      
+            <td>0.53%</td>      
+            <td>0.26%</td>      
+            <td>0.38%</td>      
+            <td>0.50%</td>      
+            <td>0.75%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Freestone</th>      
+            <td>0.56%</td>      
+            <td>0.54%</td>      
+            <td>0.65%</td>      
+            <td>0.70%</td>      
+            <td>0.87%</td>      
+            <td>0.76%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Frio</th>      
+            <td>0.17%</td>      
+            <td>0.10%</td>      
+            <td>0.07%</td>      
+            <td>0.10%</td>      
+            <td>0.19%</td>      
+            <td>0.06%</td>    
+		</tr>  
+	</tbody>
+</table>
+<a id="G"  title="NewBookmark"  data-ektron-placeholder="bookmark"></a>
+<h3 style="margin-left:20px;">G</h3>
+<table class="zebraBorder"  summary="Sorted alphabetically by county name"  style="width:95%;margin-left:20px;">  
+    <caption>Percent of Students with Conscientious Exemptions Filed in Counties Beginning with G</caption>  
+    <thead>    
+        <tr>      
+            <th scope="col"  style="width:14.28%;">County</th>      
+            <th scope="col"  style="width:14.28%;">2010-2011</th>      
+            <th scope="col"  style="width:14.28%;">2011-2012</th>      
+            <th scope="col"  style="width:14.28%;">2012-2013</th>      
+            <th scope="col"  style="width:14.28%;">2013-2014</th>      
+            <th scope="col"  style="width:14.28%;">2014-2015</th>      
+            <th scope="col"  style="width:14.28%;">2015-2016</th>
+		</tr>
+	</thead>  
+    <tbody>    
+        <tr>      
+            <th scope="row">Gaines</th>      
+            <td>2.63%</td>      
+            <td>2.94%</td>      
+            <td>3.72%</td>      
+            <td>4.32%</td>      
+            <td>4.35%</td>      
+            <td>4.83%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Galveston</th>      
+            <td>0.53%</td>      
+            <td>0.69%</td>      
+            <td>0.78%</td>      
+            <td>0.91%</td>      
+            <td>1.07%</td>      
+            <td>0.99%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Garza</th>      
+            <td>0.11%</td>      
+            <td>0.45%</td>      
+            <td>0.54%</td>      
+            <td>0.59%</td>      
+            <td>0.30%</td>      
+            <td>0.60%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Gillespie</th>      
+            <td>1.20%</td>      
+            <td>1.40%</td>      
+            <td>1.53%</td>      
+            <td>1.75%</td>      
+            <td>1.64%</td>      
+            <td>1.77%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Glasscock</th>      
+            <td>0.00%</td>      
+            <td>0.00%</td>      
+            <td>0.00%</td>      
+            <td>0.00%</td>      
+            <td>0.34%</td>      
+            <td>0.00%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Goliad</th>      
+            <td>0.23%</td>      
+            <td>0.16%</td>      
+            <td>0.23%</td>      
+            <td>0.38%</td>      
+            <td>0.49%</td>      
+            <td>0.46%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Gonzales</th>      
+            <td>0.21%</td>      
+            <td>0.19%</td>      
+            <td>0.16%</td>      
+            <td>0.26%</td>      
+            <td>0.20%</td>      
+            <td>0.22%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Gray</th>      
+            <td>0.23%</td>      
+            <td>0.29%</td>      
+            <td>0.21%</td>      
+            <td>0.28%</td>      
+            <td>0.28%</td>      
+            <td>0.12%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Grayson</th>      
+            <td>0.55%</td>      
+            <td>0.63%</td>      
+            <td>0.89%</td>      
+            <td>0.85%</td>      
+            <td>0.95%</td>      
+            <td>0.97%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Gregg</th>      
+            <td>1.07%</td>      
+            <td>0.69%</td>      
+            <td>1.28%</td>      
+            <td>0.61%</td>      
+            <td>0.63%</td>      
+            <td>0.95%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Grimes</th>      
+            <td>0.33%</td>      
+            <td>0.42%</td>      
+            <td>0.30%</td>      
+            <td>0.48%</td>      
+            <td>0.57%</td>      
+            <td>0.61%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Guadalupe</th>      
+            <td>0.29%</td>      
+            <td>0.49%</td>      
+            <td>0.56%</td>      
+            <td>0.73%</td>      
+            <td>0.55%</td>      
+            <td>0.68%</td>    
+		</tr>  
+	</tbody>
+</table>
+<a id="H"  title="NewBookmark"  data-ektron-placeholder="bookmark"></a>
+<h3 style="margin-left:20px;">H</h3>
+<table class="zebraBorder"  summary="Sorted alphabetically by county name"  style="width:95%;margin-left:20px;">  
+    <caption>Percent of Students with Conscientious Exemptions Filed in Counties Beginning with H</caption>  
+    <thead>    
+        <tr>      
+            <th scope="col"  style="width:14.28%;">County</th>      
+            <th scope="col"  style="width:14.28%;">2010-2011</th>      
+            <th scope="col"  style="width:14.28%;">2011-2012</th>      
+            <th scope="col"  style="width:14.28%;">2012-2013</th>      
+            <th scope="col"  style="width:14.28%;">2013-2014</th>      
+            <th scope="col"  style="width:14.28%;">2014-2015</th>      
+            <th scope="col"  style="width:14.28%;">2015-2016</th>
+		</tr>
+	</thead>  
+    <tbody>    
+        <tr>      
+            <th scope="row">Hale</th>      
+            <td>0.19%</td>      
+            <td>0.17%</td>      
+            <td>0.20%</td>      
+            <td>0.29%</td>      
+            <td>0.28%</td>      
+            <td>0.17%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Hall</th>      
+            <td>0.00%</td>      
+            <td>0.00%</td>      
+            <td>0.00%</td>      
+            <td>0.00%</td>      
+            <td>0.21%</td>      
+            <td>0.16%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Hamilton</th>      
+            <td>1.33%</td>      
+            <td>1.00%</td>      
+            <td>1.79%</td>      
+            <td>1.05%</td>      
+            <td>1.12%</td>      
+            <td>0.87%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Hansford</th>      
+            <td>0.46%</td>      
+            <td>1.09%</td>      
+            <td>1.04%</td>      
+            <td>0.97%</td>      
+            <td>1.19%</td>      
+            <td>1.33%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Hardeman</th>      
+            <td>0.13%</td>      
+            <td>0.43%</td>      
+            <td>0.44%</td>      
+            <td>0.86%</td>      
+            <td>1.37%</td>      
+            <td>1.68%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Hardin</th>      
+            <td>0.53%</td>      
+            <td>0.52%</td>      
+            <td>0.60%</td>      
+            <td>0.63%</td>      
+            <td>0.48%</td>      
+            <td>0.84%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Harris</th>      
+            <td>0.33%</td>      
+            <td>0.39%</td>      
+            <td>0.43%</td>      
+            <td>0.57%</td>      
+            <td>0.59%</td>      
+            <td>0.62%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Harrison</th>      
+            <td>0.27%</td>      
+            <td>0.40%</td>      
+            <td>0.42%</td>      
+            <td>0.49%</td>      
+            <td>0.66%</td>      
+            <td>0.49%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Hartley</th>      
+            <td>1.50%</td>      
+            <td>1.48%</td>      
+            <td>1.47%</td>      
+            <td>1.50%</td>      
+            <td>1.10%</td>      
+            <td>2.24%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Haskell</th>      
+            <td>0.11%</td>      
+            <td>0.00%</td>      
+            <td>0.12%</td>      
+            <td>0.25%</td>      
+            <td>0.24%</td>      
+            <td>0.40%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Hays</th>      
+            <td>1.17%</td>      
+            <td>0.83%</td>      
+            <td>1.39%</td>      
+            <td>1.57%</td>      
+            <td>1.75%</td>      
+            <td>1.96%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Hemphill</th>      
+            <td>0.71%</td>      
+            <td>1.47%</td>      
+            <td>1.00%</td>      
+            <td>0.62%</td>      
+            <td>0.86%</td>      
+            <td>1.03%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Henderson</th>      
+            <td>0.26%</td>      
+            <td>0.31%</td>      
+            <td>0.44%</td>      
+            <td>0.66%</td>      
+            <td>0.71%</td>      
+            <td>0.84%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Hidalgo</th>      
+            <td>0.05%</td>      
+            <td>0.05%</td>      
+            <td>0.07%</td>      
+            <td>0.10%</td>      
+            <td>0.05%</td>      
+            <td>0.10%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Hill</th>      
+            <td>0.33%</td>      
+            <td>0.43%</td>      
+            <td>0.71%</td>      
+            <td>0.48%</td>      
+            <td>0.47%</td>      
+            <td>0.54%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Hockley</th>      
+            <td>0.57%</td>      
+            <td>0.46%</td>      
+            <td>0.59%</td>      
+            <td>0.56%</td>      
+            <td>0.47%</td>      
+            <td>0.59%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Hood</th>      
+            <td>1.05%</td>      
+            <td>1.17%</td>      
+            <td>1.34%</td>      
+            <td>0.80%</td>      
+            <td>1.13%</td>      
+            <td>1.73%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Hopkins</th>      
+            <td>0.31%</td>      
+            <td>0.43%</td>      
+            <td>0.52%</td>      
+            <td>0.59%</td>      
+            <td>0.56%</td>      
+            <td>0.77%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Houston</th>      
+            <td>0.15%</td>      
+            <td>0.17%</td>      
+            <td>0.17%</td>      
+            <td>0.17%</td>      
+            <td>0.15%</td>      
+            <td>0.57%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Howard</th>      
+            <td>0.22%</td>      
+            <td>0.28%</td>      
+            <td>0.37%</td>      
+            <td>0.59%</td>      
+            <td>0.75%</td>      
+            <td>0.71%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Hudspeth</th>      
+            <td>0.00%</td>      
+            <td>0.00%</td>      
+            <td>0.00%</td>      
+            <td>0.00%</td>      
+            <td>0.00%</td>      
+            <td>0.00%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Hunt</th>      
+            <td>0.33%</td>      
+            <td>0.50%</td>      
+            <td>0.58%</td>      
+            <td>0.72%</td>      
+            <td>0.80%</td>      
+            <td>0.77%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Hutchinson</th>      
+            <td>0.40%</td>      
+            <td>0.52%</td>      
+            <td>0.42%</td>      
+            <td>0.67%</td>      
+            <td>0.81%</td>      
+            <td>0.89%</td>    
+		</tr>  
+	</tbody>
+</table>
+<a id="I"  title="NewBookmark"  data-ektron-placeholder="bookmark"></a>
+<h3 style="margin-left:20px;">I</h3>
+<table class="zebraBorder"  summary="Sorted alphabetically by county name"  style="width:95%;margin-left:20px;">  
+    <caption>Percent of Students with Conscientious Exemptions Filed in Counties Beginning with I</caption>  
+    <thead>    
+        <tr>      
+            <th scope="col"  style="width:14.28%;">County</th>      
+            <th scope="col"  style="width:14.28%;">2010-2011</th>      
+            <th scope="col"  style="width:14.28%;">2011-2012</th>      
+            <th scope="col"  style="width:14.28%;">2012-2013</th>      
+            <th scope="col"  style="width:14.28%;">2013-2014</th>      
+            <th scope="col"  style="width:14.28%;">2014-2015</th>      
+            <th scope="col"  style="width:14.28%;">2015-2016</th>
+		</tr>
+	</thead>  
+    <tbody>    
+        <tr>      
+            <th scope="row">Irion</th>      
+            <td>0.91%</td>      
+            <td>0.92%</td>      
+            <td>1.33%</td>      
+            <td>1.24%</td>      
+            <td>1.80%</td>      
+            <td>0.62%</td>    
+		</tr>  
+	</tbody>
+</table>
+<a id="J"  title="NewBookmark"  data-ektron-placeholder="bookmark"></a>
+<h3 style="margin-left:20px;">J</h3>
+<table class="zebraBorder"  summary="Sorted alphabetically by county name"  style="width:95%;margin-left:20px;">  
+    <caption>Percent of Students with Conscientious Exemptions Filed in Counties Beginning with J</caption>  
+    <thead>    
+        <tr>      
+            <th scope="col"  style="width:14.28%;">County</th>      
+            <th scope="col"  style="width:14.28%;">2010-2011</th>      
+            <th scope="col"  style="width:14.28%;">2011-2012</th>      
+            <th scope="col"  style="width:14.28%;">2012-2013</th>      
+            <th scope="col"  style="width:14.28%;">2013-2014</th>      
+            <th scope="col"  style="width:14.28%;">2014-2015</th>      
+            <th scope="col"  style="width:14.28%;">2015-2016</th>
+		</tr>
+	</thead>  
+    <tbody>    
+        <tr>      
+            <th scope="row">Jack</th>      
+            <td>0.07%</td>      
+            <td>0.07%</td>      
+            <td>0.65%</td>      
+            <td>0.26%</td>      
+            <td>0.39%</td>      
+            <td>0.78%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Jackson</th>      
+            <td>0.57%</td>      
+            <td>0.51%</td>      
+            <td>0.61%</td>      
+            <td>0.41%</td>      
+            <td>0.51%</td>      
+            <td>0.55%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Jasper</th>      
+            <td>0.27%</td>      
+            <td>0.51%</td>      
+            <td>0.50%</td>      
+            <td>0.47%</td>      
+            <td>0.52%</td>      
+            <td>0.64%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Jeff Davis</th>      
+            <td>3.17%</td>      
+            <td>2.03%</td>      
+            <td>2.17%</td>      
+            <td>3.07%</td>      
+            <td>2.03%</td>      
+            <td>0.30%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Jefferson</th>      
+            <td>0.16%</td>      
+            <td>0.19%</td>      
+            <td>0.30%</td>      
+            <td>0.37%</td>      
+            <td>0.41%</td>      
+            <td>0.53%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Jim Hogg</th>      
+            <td>0.00%</td>      
+            <td>0.00%</td>      
+            <td>0.28%</td>      
+            <td>0.29%</td>      
+            <td>0.18%</td>      
+            <td>0.09%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Jim Wells</th>      
+            <td>0.07%</td>      
+            <td>0.09%</td>      
+            <td>0.07%</td>      
+            <td>0.07%</td>      
+            <td>0.12%</td>      
+            <td>0.16%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Johnson</th>      
+            <td>0.52%</td>      
+            <td>0.70%</td>      
+            <td>0.74%</td>      
+            <td>0.89%</td>      
+            <td>0.95%</td>      
+            <td>1.26%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Jones</th>      
+            <td>0.04%</td>      
+            <td>0.20%</td>      
+            <td>0.30%</td>      
+            <td>0.22%</td>      
+            <td>0.43%</td>      
+            <td>0.59%</td>    
+		</tr>  
+	</tbody>
+</table>
+<a id="K"  title="NewBookmark"  data-ektron-placeholder="bookmark"></a>
+<h3 style="margin-left:20px;">K</h3>
+<table class="zebraBorder"  summary="Sorted alphabetically by county name"  style="width:95%;margin-left:20px;">  
+    <caption>Percent of Students with Conscientious Exemptions Filed in Counties Beginning with K</caption>  
+    <thead>    
+        <tr>      
+            <th scope="col"  style="width:14.28%;">County</th>      
+            <th scope="col"  style="width:14.28%;">2010-2011</th>      
+            <th scope="col"  style="width:14.28%;">2011-2012</th>      
+            <th scope="col"  style="width:14.28%;">2012-2013</th>      
+            <th scope="col"  style="width:14.28%;">2013-2014</th>      
+            <th scope="col"  style="width:14.28%;">2014-2015</th>      
+            <th scope="col"  style="width:14.28%;">2015-2016</th>
+		</tr>
+	</thead>  
+    <tbody>    
+        <tr>      
+            <th scope="row">Karnes</th>      
+            <td>0.46%</td>      
+            <td>0.10%</td>      
+            <td>0.48%</td>      
+            <td>0.47%</td>      
+            <td>0.58%</td>      
+            <td>0.38%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Kaufman</th>      
+            <td>0.40%</td>      
+            <td>0.41%</td>      
+            <td>0.49%</td>      
+            <td>0.49%</td>      
+            <td>0.63%</td>      
+            <td>0.67%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Kendall</th>      
+            <td>1.24%</td>      
+            <td>1.73%</td>      
+            <td>2.10%</td>      
+            <td>2.41%</td>      
+            <td>2.97%</td>      
+            <td>2.50%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Kenedy</th>      
+            <td>0.00%</td>      
+            <td>0.00%</td>      
+            <td>0.00%</td>      
+            <td>0.00%</td>      
+            <td>0.00%</td>      
+            <td>0.00%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Kent</th>      
+            <td>1.31%</td>      
+            <td>1.35%</td>      
+            <td>1.48%</td>      
+            <td>1.56%</td>      
+            <td>2.65%</td>      
+            <td>2.65%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Kerr</th>      
+            <td>0.93%</td>      
+            <td>1.00%</td>      
+            <td>1.36%</td>      
+            <td>1.33%</td>      
+            <td>1.44%</td>      
+            <td>1.58%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Kimble</th>      
+            <td>0.46%</td>      
+            <td>0.48%</td>      
+            <td>0.63%</td>      
+            <td>0.16%</td>      
+            <td>0.48%</td>      
+            <td>0.00%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">King</th>      
+            <td>1.75%</td>      
+            <td>1.96%</td>      
+            <td>0.00%</td>      
+            <td>0.00%</td>      
+            <td>0.89%</td>      
+            <td>0.87%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Kinney</th>      
+            <td>0.00%</td>      
+            <td>0.00%</td>      
+            <td>0.68%</td>      
+            <td>0.00%</td>      
+            <td>0.62%</td>      
+            <td>0.00%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Kleberg</th>      
+            <td>0.47%</td>      
+            <td>0.62%</td>      
+            <td>0.51%</td>      
+            <td>0.62%</td>      
+            <td>0.69%</td>      
+            <td>0.44%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Knox</th>      
+            <td>0.28%</td>      
+            <td>0.41%</td>      
+            <td>0.26%</td>      
+            <td>0.51%</td>      
+            <td>0.25%</td>      
+            <td>0.24%</td>    
+		</tr>  
+	</tbody>
+</table>
+<a id="L"  title="NewBookmark"  data-ektron-placeholder="bookmark"></a>
+<h3 style="margin-left:20px;">L</h3>
+<table class="zebraBorder"  summary="Sorted alphabetically by county name"  style="width:95%;margin-left:20px;">  
+    <caption>Percent of Students with Conscientious Exemptions Filed in Counties Beginning with L</caption>  
+    <thead>    
+        <tr>      
+            <th scope="col"  style="width:14.28%;">County</th>      
+            <th scope="col"  style="width:14.28%;">2010-2011</th>      
+            <th scope="col"  style="width:14.28%;">2011-2012</th>      
+            <th scope="col"  style="width:14.28%;">2012-2013</th>      
+            <th scope="col"  style="width:14.28%;">2013-2014</th>      
+            <th scope="col"  style="width:14.28%;">2014-2015</th>      
+            <th scope="col"  style="width:14.28%;">2015-2016</th>
+		</tr>
+	</thead>  
+    <tbody>    
+        <tr>      
+            <th scope="row">Lamar</th>      
+            <td>0.21%</td>      
+            <td>0.36%</td>      
+            <td>0.27%</td>      
+            <td>0.30%</td>      
+            <td>0.43%</td>      
+            <td>0.75%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Lamb</th>      
+            <td>0.00%</td>      
+            <td>0.03%</td>      
+            <td>0.07%</td>      
+            <td>0.00%</td>      
+            <td>0.05%</td>      
+            <td>0.07%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Lampasas</th>      
+            <td>0.92%</td>      
+            <td>0.77%</td>      
+            <td>0.83%</td>      
+            <td>5.02%</td>      
+            <td>1.19%</td>      
+            <td>1.46%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Lasalle</th>      
+            <td>0.33%</td>      
+            <td>0.00%</td>      
+            <td>0.34%</td>      
+            <td>0.22%</td>      
+            <td>N/A <sup>
+				<a title="footnote-2" href="#footnote-2" draggable="false">2</a>
+			</sup>      </td>      
+            <td>0.31%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Lavaca</th>      
+            <td>0.12%</td>      
+            <td>0.24%</td>      
+            <td>0.15%</td>      
+            <td>0.27%</td>      
+            <td>0.38%</td>      
+            <td>0.47%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Lee</th>      
+            <td>0.31%</td>      
+            <td>0.54%</td>      
+            <td>0.45%</td>      
+            <td>0.57%</td>      
+            <td>0.61%</td>      
+            <td>0.76%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Leon</th>      
+            <td>0.29%</td>      
+            <td>0.36%</td>      
+            <td>0.33%</td>      
+            <td>0.37%</td>      
+            <td>0.26%</td>      
+            <td>0.26%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Liberty</th>      
+            <td>0.25%</td>      
+            <td>0.34%</td>      
+            <td>0.29%</td>      
+            <td>0.39%</td>      
+            <td>0.35%</td>      
+            <td>0.52%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Limestone</th>      
+            <td>0.13%</td>      
+            <td>0.13%</td>      
+            <td>0.12%</td>      
+            <td>0.23%</td>      
+            <td>0.28%</td>      
+            <td>0.32%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Lipscomb</th>      
+            <td>0.26%</td>      
+            <td>0.00%</td>      
+            <td>0.00%</td>      
+            <td>0.65%</td>      
+            <td>0.43%</td>      
+            <td>0.15%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Live Oak</th>      
+            <td>0.29%</td>      
+            <td>0.36%</td>      
+            <td>0.52%</td>      
+            <td>0.40%</td>      
+            <td>0.49%</td>      
+            <td>0.34%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Llano</th>      
+            <td>1.04%</td>      
+            <td>0.86%</td>      
+            <td>1.21%</td>      
+            <td>1.19%</td>      
+            <td>1.39%</td>      
+            <td>1.38%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Lubbock</th>      
+            <td>0.45%</td>      
+            <td>0.59%</td>      
+            <td>0.64%</td>      
+            <td>0.85%</td>      
+            <td>1.01%</td>      
+            <td>1.11%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Lynn</th>      
+            <td>0.41%</td>      
+            <td>0.65%</td>      
+            <td>0.98%</td>      
+            <td>0.87%</td>      
+            <td>1.07%</td>      
+            <td>0.88%</td>    
+		</tr>  
+	</tbody>
+</table>
+<a id="M"  title="NewBookmark"  data-ektron-placeholder="bookmark"></a>
+<h3 style="margin-left:20px;">M</h3>
+<table class="zebraBorder"  summary="Sorted alphabetically by county name"  style="width:95%;margin-left:20px;">  
+    <caption>Percent of Students with Conscientious Exemptions Filed in Counties Beginning with M</caption>  
+    <thead>    
+        <tr>      
+            <th scope="col"  style="width:14.28%;">County</th>      
+            <th scope="col"  style="width:14.28%;">2010-2011</th>      
+            <th scope="col"  style="width:14.28%;">2011-2012</th>      
+            <th scope="col"  style="width:14.28%;">2012-2013</th>      
+            <th scope="col"  style="width:14.28%;">2013-2014</th>      
+            <th scope="col"  style="width:14.28%;">2014-2015</th>      
+            <th scope="col"  style="width:14.28%;">2015-2016</th>
+		</tr>
+	</thead>  
+    <tbody>    
+        <tr>      
+            <th scope="row">Madison</th>      
+            <td>0.16%</td>      
+            <td>0.33%</td>      
+            <td>0.39%</td>      
+            <td>0.46%</td>      
+            <td>0.48%</td>      
+            <td>0.40%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Marion</th>      
+            <td>0.24%</td>      
+            <td>0.17%</td>      
+            <td>0.17%</td>      
+            <td>0.18%</td>      
+            <td>0.17%</td>      
+            <td>0.42%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Martin</th>      
+            <td>0.51%</td>      
+            <td>1.01%</td>      
+            <td>0.47%</td>      
+            <td>0.74%</td>      
+            <td>3.23%</td>      
+            <td>0.75%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Mason</th>      
+            <td>0.48%</td>      
+            <td>0.80%</td>      
+            <td>0.92%</td>      
+            <td>1.36%</td>      
+            <td>1.90%</td>      
+            <td>1.89%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Matagorda</th>      
+            <td>1.49%</td>      
+            <td>0.27%</td>      
+            <td>0.46%</td>      
+            <td>0.59%</td>      
+            <td>0.51%</td>      
+            <td>0.67%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Maverick</th>      
+            <td>0.01%</td>      
+            <td>0.02%</td>      
+            <td>0.03%</td>      
+            <td>0.06%</td>      
+            <td>0.03%</td>      
+            <td>0.03%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Mcculloch</th>      
+            <td>0.13%</td>      
+            <td>0.28%</td>      
+            <td>0.47%</td>      
+            <td>0.32%</td>      
+            <td>0.54%</td>      
+            <td>0.47%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Mclennan</th>      
+            <td>0.22%</td>      
+            <td>0.27%</td>      
+            <td>0.26%</td>      
+            <td>0.31%</td>      
+            <td>0.33%</td>      
+            <td>0.35%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Mcmullen</th>      
+            <td>0.61%</td>      
+            <td>0.97%</td>      
+            <td>0.88%</td>      
+            <td>0.00%</td>      
+            <td>0.40%</td>      
+            <td>0.81%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Medina</th>      
+            <td>0.19%</td>      
+            <td>0.22%</td>      
+            <td>0.30%</td>      
+            <td>0.34%</td>      
+            <td>0.42%</td>      
+            <td>0.34%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Menard</th>      
+            <td>1.32%</td>      
+            <td>0.00%</td>      
+            <td>0.00%</td>      
+            <td>0.00%</td>      
+            <td>0.00%</td>      
+            <td>0.71%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Midland</th>      
+            <td>0.32%</td>      
+            <td>0.20%</td>      
+            <td>0.39%</td>      
+            <td>0.67%</td>      
+            <td>0.51%</td>      
+            <td>0.79%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Milam</th>      
+            <td>0.35%</td>      
+            <td>0.27%</td>      
+            <td>0.55%</td>      
+            <td>0.46%</td>      
+            <td>0.89%</td>      
+            <td>0.73%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Mills</th>      
+            <td>0.70%</td>      
+            <td>0.98%</td>      
+            <td>1.09%</td>      
+            <td>0.86%</td>      
+            <td>1.08%</td>      
+            <td>1.65%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Mitchell</th>      
+            <td>0.07%</td>      
+            <td>0.30%</td>      
+            <td>0.42%</td>      
+            <td>0.67%</td>      
+            <td>0.62%</td>      
+            <td>0.21%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Montague</th>      
+            <td>0.53%</td>      
+            <td>0.64%</td>      
+            <td>3.94%</td>      
+            <td>0.49%</td>      
+            <td>0.73%</td>      
+            <td>0.78%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Montgomery</th>      
+            <td>0.88%</td>      
+            <td>1.06%</td>      
+            <td>1.17%</td>      
+            <td>0.72%</td>      
+            <td>1.74%</td>      
+            <td>1.73%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Moore</th>      
+            <td>0.14%</td>      
+            <td>0.12%</td>      
+            <td>0.16%</td>      
+            <td>0.18%</td>      
+            <td>0.17%</td>      
+            <td>0.19%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Morris</th>      
+            <td>0.00%</td>      
+            <td>0.08%</td>      
+            <td>0.05%</td>      
+            <td>0.07%</td>      
+            <td>0.10%</td>      
+            <td>0.11%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Motley</th>      
+            <td>0.00%</td>      
+            <td>0.55%</td>      
+            <td>0.00%</td>      
+            <td>0.00%</td>      
+            <td>N/A <sup>
+				<a title="footnote-2" href="#footnote-2" draggable="false">2</a>
+			</sup>      </td>      
+            <td>0.00%</td>    
+		</tr>  
+	</tbody>
+</table>
+<a id="N"  title="NewBookmark"  data-ektron-placeholder="bookmark"></a>
+<h3 style="margin-left:20px;">N</h3>
+<table class="zebraBorder"  summary="Sorted alphabetically by county name"  style="width:95%;margin-left:20px;">  
+    <caption>Percent of Students with Conscientious Exemptions Filed in Counties Beginning with N</caption>  
+    <thead>    
+        <tr>      
+            <th scope="col"  style="width:14.28%;">County</th>      
+            <th scope="col"  style="width:14.28%;">2010-2011</th>      
+            <th scope="col"  style="width:14.28%;">2011-2012</th>      
+            <th scope="col"  style="width:14.28%;">2012-2013</th>      
+            <th scope="col"  style="width:14.28%;">2013-2014</th>      
+            <th scope="col"  style="width:14.28%;">2014-2015</th>      
+            <th scope="col"  style="width:14.28%;">2015-2016</th>
+		</tr>
+	</thead>  
+    <tbody>    
+        <tr>      
+            <th scope="row">Nacogdoches</th>      
+            <td>0.29%</td>      
+            <td>0.43%</td>      
+            <td>0.60%</td>      
+            <td>0.66%</td>      
+            <td>0.54%</td>      
+            <td>1.25%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Navarro</th>      
+            <td>0.21%</td>      
+            <td>0.25%</td>      
+            <td>0.24%</td>      
+            <td>0.35%</td>      
+            <td>0.35%</td>      
+            <td>0.35%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Newton</th>      
+            <td>0.45%</td>      
+            <td>0.49%</td>      
+            <td>0.46%</td>      
+            <td>0.72%</td>      
+            <td>0.22%</td>      
+            <td>1.35%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Nolan</th>      
+            <td>0.13%</td>      
+            <td>0.25%</td>      
+            <td>0.46%</td>      
+            <td>0.45%</td>      
+            <td>0.32%</td>      
+            <td>0.54%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Nueces</th>      
+            <td>0.21%</td>      
+            <td>0.25%</td>      
+            <td>0.35%</td>      
+            <td>0.35%</td>      
+            <td>0.47%</td>      
+            <td>0.52%</td>    
+		</tr>  
+	</tbody>
+</table>
+<a id="O"  title="NewBookmark"  data-ektron-placeholder="bookmark"></a>
+<h3 style="margin-left:20px;">O</h3>
+<table class="zebraBorder"  summary="Sorted alphabetically by county name"  style="width:95%;margin-left:20px;">  
+    <caption>Percent of Students with Conscientious Exemptions Filed in Counties Beginning with O</caption>  
+    <thead>    
+        <tr>      
+            <th scope="col"  style="width:14.28%;">County</th>      
+            <th scope="col"  style="width:14.28%;">2010-2011</th>      
+            <th scope="col"  style="width:14.28%;">2011-2012</th>      
+            <th scope="col"  style="width:14.28%;">2012-2013</th>      
+            <th scope="col"  style="width:14.28%;">2013-2014</th>      
+            <th scope="col"  style="width:14.28%;">2014-2015</th>      
+            <th scope="col"  style="width:14.28%;">2015-2016</th>
+		</tr>
+	</thead>  
+    <tbody>    
+        <tr>      
+            <th scope="row">Ochiltree</th>      
+            <td>0.27%</td>      
+            <td>0.22%</td>      
+            <td>0.35%</td>      
+            <td>0.43%</td>      
+            <td>0.21%</td>      
+            <td>0.13%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Oldham</th>      
+            <td>0.34%</td>      
+            <td>0.55%</td>      
+            <td>1.45%</td>      
+            <td>0.94%</td>      
+            <td>1.45%</td>      
+            <td>1.28%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Orange</th>      
+            <td>0.73%</td>      
+            <td>0.81%</td>      
+            <td>0.45%</td>      
+            <td>0.29%</td>      
+            <td>0.75%</td>      
+            <td>0.66%</td>    
+		</tr>  
+	</tbody>
+</table>
+<a id="P"  title="NewBookmark"  data-ektron-placeholder="bookmark"></a>
+<h3 style="margin-left:20px;">P</h3>
+<table class="zebraBorder"  summary="Sorted alphabetically by county name"  style="width:95%;margin-left:20px;">  
+    <caption>Percent of Students with Conscientious Exemptions Filed in Counties Beginning with P</caption>  
+    <thead>    
+        <tr>      
+            <th scope="col"  style="width:14.28%;">County</th>      
+            <th scope="col"  style="width:14.28%;">2010-2011</th>      
+            <th scope="col"  style="width:14.28%;">2011-2012</th>      
+            <th scope="col"  style="width:14.28%;">2012-2013</th>      
+            <th scope="col"  style="width:14.28%;">2013-2014</th>      
+            <th scope="col"  style="width:14.28%;">2014-2015</th>      
+            <th scope="col"  style="width:14.28%;">2015-2016</th>
+		</tr>
+	</thead>  
+    <tbody>    
+        <tr>      
+            <th scope="row">Palo Pinto</th>      
+            <td>0.78%</td>      
+            <td>0.79%</td>      
+            <td>1.07%</td>      
+            <td>0.95%</td>      
+            <td>0.92%</td>      
+            <td>0.96%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Panola</th>      
+            <td>0.25%</td>      
+            <td>0.20%</td>      
+            <td>0.41%</td>      
+            <td>0.32%</td>      
+            <td>0.25%</td>      
+            <td>0.49%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Parker</th>      
+            <td>0.60%</td>      
+            <td>0.75%</td>      
+            <td>0.80%</td>      
+            <td>1.14%</td>      
+            <td>1.40%</td>      
+            <td>1.30%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Parmer</th>      
+            <td>0.22%</td>      
+            <td>0.43%</td>      
+            <td>0.59%</td>      
+            <td>0.63%</td>      
+            <td>0.53%</td>      
+            <td>0.95%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Pecos</th>      
+            <td>0.00%</td>      
+            <td>0.18%</td>      
+            <td>0.15%</td>      
+            <td>0.31%</td>      
+            <td>0.20%</td>      
+            <td>0.23%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Polk</th>      
+            <td>0.40%</td>      
+            <td>0.31%</td>      
+            <td>0.32%</td>      
+            <td>0.48%</td>      
+            <td>0.55%</td>      
+            <td>0.54%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Potter</th>      
+            <td>0.81%</td>      
+            <td>0.80%</td>      
+            <td>0.92%</td>      
+            <td>0.94%</td>      
+            <td>0.95%</td>      
+            <td>0.90%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Presidio</th>      
+            <td>0.22%</td>      
+            <td>0.11%</td>      
+            <td>0.06%</td>      
+            <td>0.06%</td>      
+            <td>0.12%</td>      
+            <td>0.17%</td>    
+		</tr>  
+	</tbody>
+</table>
+<a id="Q"  title="NewBookmark"  data-ektron-placeholder="bookmark"></a>
+<a id="R"  title="NewBookmark"  data-ektron-placeholder="bookmark"></a>
+<h3 style="margin-left:20px;">R</h3>
+<table class="zebraBorder"  summary="Sorted alphabetically by county name"  style="width:95%;margin-left:20px;">  
+    <caption>Percent of Students with Conscientious Exemptions Filed in Counties Beginning with R</caption>  
+    <thead>    
+        <tr>      
+            <th scope="col"  style="width:14.28%;">County</th>      
+            <th scope="col"  style="width:14.28%;">2010-2011</th>      
+            <th scope="col"  style="width:14.28%;">2011-2012</th>      
+            <th scope="col"  style="width:14.28%;">2012-2013</th>      
+            <th scope="col"  style="width:14.28%;">2013-2014</th>      
+            <th scope="col"  style="width:14.28%;">2014-2015</th>      
+            <th scope="col"  style="width:14.28%;">2015-2016</th>
+		</tr>
+	</thead>  
+    <tbody>    
+        <tr>      
+            <th scope="row">Rains</th>      
+            <td>0.06%</td>      
+            <td>0.06%</td>      
+            <td>0.31%</td>      
+            <td>0.45%</td>      
+            <td>1.16%</td>      
+            <td>2.85%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Randall</th>      
+            <td>1.21%</td>      
+            <td>1.27%</td>      
+            <td>1.30%</td>      
+            <td>1.47%</td>      
+            <td>1.67%</td>      
+            <td>1.66%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Reagan</th>      
+            <td>0.00%</td>      
+            <td>0.00%</td>      
+            <td>0.00%</td>      
+            <td>0.12%</td>      
+            <td>0.00%</td>      
+            <td>0.00%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Real</th>      
+            <td>1.01%</td>      
+            <td>0.75%</td>      
+            <td>0.92%</td>      
+            <td>1.05%</td>      
+            <td>1.07%</td>      
+            <td>1.55%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Red River</th>      
+            <td>0.57%</td>      
+            <td>0.80%</td>      
+            <td>1.06%</td>      
+            <td>1.19%</td>      
+            <td>1.16%</td>      
+            <td>1.21%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Reeves</th>      
+            <td>0.35%</td>      
+            <td>0.18%</td>      
+            <td>0.34%</td>      
+            <td>0.38%</td>      
+            <td>0.36%</td>      
+            <td>0.31%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Refugio</th>      
+            <td>0.50%</td>      
+            <td>0.75%</td>      
+            <td>0.76%</td>      
+            <td>0.89%</td>      
+            <td>0.91%</td>      
+            <td>0.81%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Roberts</th>      
+            <td>0.52%</td>      
+            <td>0.00%</td>      
+            <td>1.46%</td>      
+            <td>0.00%</td>      
+            <td>0.00%</td>      
+            <td>0.00%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Robertson</th>      
+            <td>0.26%</td>      
+            <td>0.30%</td>      
+            <td>0.34%</td>      
+            <td>4.14%</td>      
+            <td>0.11%</td>      
+            <td>0.26%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Rockwall</th>      
+            <td>0.94%</td>      
+            <td>1.16%</td>      
+            <td>1.33%</td>      
+            <td>1.44%</td>      
+            <td>1.41%</td>      
+            <td>1.49%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Runnels</th>      
+            <td>0.20%</td>      
+            <td>0.41%</td>      
+            <td>0.98%</td>      
+            <td>0.91%</td>      
+            <td>0.88%</td>      
+            <td>1.06%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Rusk</th>      
+            <td>0.10%</td>      
+            <td>0.25%</td>      
+            <td>0.14%</td>      
+            <td>0.16%</td>      
+            <td>0.22%</td>      
+            <td>0.27%</td>    
+		</tr>  
+	</tbody>
+</table>
+<a id="S"  title="NewBookmark"  data-ektron-placeholder="bookmark"></a>
+<h3 style="margin-left:20px;">S</h3>
+<table class="zebraBorder"  summary="Sorted alphabetically by county name"  style="width:95%;margin-left:20px;">  
+    <caption>Percent of Students with Conscientious Exemptions Filed in Counties Beginning with S</caption>  
+    <thead>    
+        <tr>      
+            <th scope="col"  style="width:14.28%;">County</th>      
+            <th scope="col"  style="width:14.28%;">2010-2011</th>      
+            <th scope="col"  style="width:14.28%;">2011-2012</th>      
+            <th scope="col"  style="width:14.28%;">2012-2013</th>      
+            <th scope="col"  style="width:14.28%;">2013-2014</th>      
+            <th scope="col"  style="width:14.28%;">2014-2015</th>      
+            <th scope="col"  style="width:14.28%;">2015-2016</th>
+		</tr>
+	</thead>  
+    <tbody>    
+        <tr>      
+            <th scope="row">Sabine</th>      
+            <td>0.21%</td>      
+            <td>0.05%</td>      
+            <td>0.32%</td>      
+            <td>0.31%</td>      
+            <td>0.32%</td>      
+            <td>0.67%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">San Augustine</th>      
+            <td>0.46%</td>      
+            <td>0.38%</td>      
+            <td>0.43%</td>      
+            <td>0.71%</td>      
+            <td>0.45%</td>      
+            <td>0.49%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">San Jacinto</th>      
+            <td>0.14%</td>      
+            <td>0.68%</td>      
+            <td>0.53%</td>      
+            <td>0.33%</td>      
+            <td>0.50%</td>      
+            <td>0.58%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">San Patricio</th>      
+            <td>0.26%</td>      
+            <td>0.33%</td>      
+            <td>0.57%</td>      
+            <td>0.62%</td>      
+            <td>0.41%</td>      
+            <td>0.45%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">San Saba</th>      
+            <td>0.45%</td>      
+            <td>0.67%</td>      
+            <td>1.21%</td>      
+            <td>0.89%</td>      
+            <td>0.68%</td>      
+            <td>0.67%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Schleicher</th>      
+            <td>0.18%</td>      
+            <td>0.36%</td>      
+            <td>0.18%</td>      
+            <td>0.18%</td>      
+            <td>0.35%</td>      
+            <td>0.18%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Scurry</th>      
+            <td>0.18%</td>      
+            <td>0.25%</td>      
+            <td>0.00%</td>      
+            <td>0.13%</td>      
+            <td>0.21%</td>      
+            <td>0.25%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Shackelford</th>      
+            <td>0.64%</td>      
+            <td>1.82%</td>      
+            <td>1.86%</td>      
+            <td>0.60%</td>      
+            <td>1.42%</td>      
+            <td>1.61%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Shelby</th>      
+            <td>0.11%</td>      
+            <td>0.20%</td>      
+            <td>0.08%</td>      
+            <td>0.11%</td>      
+            <td>0.15%</td>      
+            <td>0.17%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Sherman</th>      
+            <td>0.85%</td>      
+            <td>0.86%</td>      
+            <td>0.85%</td>      
+            <td>1.07%</td>      
+            <td>0.29%</td>      
+            <td>0.43%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Smith</th>      
+            <td>0.47%</td>      
+            <td>0.61%</td>      
+            <td>0.64%</td>      
+            <td>0.76%</td>      
+            <td>0.89%</td>      
+            <td>0.92%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Somervell</th>      
+            <td>0.39%</td>      
+            <td>0.66%</td>      
+            <td>0.82%</td>      
+            <td>0.97%</td>      
+            <td>1.42%</td>      
+            <td>1.66%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Starr</th>      
+            <td>0.01%</td>      
+            <td>0.01%</td>      
+            <td>0.00%</td>      
+            <td>0.00%</td>      
+            <td>0.00%</td>      
+            <td>0.01%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Stephens</th>      
+            <td>0.06%</td>      
+            <td>0.07%</td>      
+            <td>0.27%</td>      
+            <td>0.35%</td>      
+            <td>0.29%</td>      
+            <td>0.35%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Sterling</th>      
+            <td>0.00%</td>      
+            <td>0.00%</td>      
+            <td>0.00%</td>      
+            <td>0.33%</td>      
+            <td>0.31%</td>      
+            <td>0.00%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Stonewall</th>      
+            <td>0.00%</td>      
+            <td>N/A <sup>
+				<a title="footnote-2" href="#footnote-2" draggable="false">2</a>
+			</sup>      </td>      
+            <td>0.43%</td>      
+            <td>0.00%</td>      
+            <td>1.87%</td>      
+            <td>0.00%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Sutton</th>      
+            <td>0.00%</td>      
+            <td>0.00%</td>      
+            <td>0.00%</td>      
+            <td>0.00%</td>      
+            <td>0.00%</td>      
+            <td>0.00%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Swisher</th>      
+            <td>0.32%</td>      
+            <td>0.46%</td>      
+            <td>0.40%</td>      
+            <td>0.58%</td>      
+            <td>0.52%</td>      
+            <td>0.07%</td>    
+		</tr>  
+	</tbody>
+</table>
+<a id="T"  title="NewBookmark"  data-ektron-placeholder="bookmark"></a>
+<h3 style="margin-left:20px;">T</h3>
+<table class="zebraBorder"  summary="Sorted alphabetically by county name"  style="width:95%;margin-left:20px;">  
+    <caption>Percent of Students with Conscientious Exemptions Filed in Counties Beginning with T</caption>  
+    <thead>    
+        <tr>      
+            <th scope="col"  style="width:14.28%;">County</th>      
+            <th scope="col"  style="width:14.28%;">2010-2011</th>      
+            <th scope="col"  style="width:14.28%;">2011-2012</th>      
+            <th scope="col"  style="width:14.28%;">2012-2013</th>      
+            <th scope="col"  style="width:14.28%;">2013-2014</th>      
+            <th scope="col"  style="width:14.28%;">2014-2015</th>      
+            <th scope="col"  style="width:14.28%;">2015-2016</th>
+		</tr>
+	</thead>  
+    <tbody>    
+        <tr>      
+            <th scope="row">Tarrant</th>      
+            <td>0.58%</td>      
+            <td>0.79%</td>      
+            <td>0.80%</td>      
+            <td>0.78%</td>      
+            <td>1.11%</td>      
+            <td>1.10%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Taylor</th>      
+            <td>0.18%</td>      
+            <td>0.42%</td>      
+            <td>0.33%</td>      
+            <td>0.65%</td>      
+            <td>0.76%</td>      
+            <td>0.65%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Terrell</th>      
+            <td>0.00%</td>      
+            <td>0.00%</td>      
+            <td>0.00%</td>      
+            <td>1.67%</td>      
+            <td>1.54%</td>      
+            <td>1.33%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Terry</th>      
+            <td>0.09%</td>      
+            <td>0.15%</td>      
+            <td>0.04%</td>      
+            <td>0.05%</td>      
+            <td>0.04%</td>      
+            <td>0.00%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Throckmorton</th>      
+            <td>0.32%</td>      
+            <td>0.00%</td>      
+            <td>0.67%</td>      
+            <td>1.40%</td>      
+            <td>0.00%</td>      
+            <td>0.66%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Titus</th>      
+            <td>0.26%</td>      
+            <td>0.28%</td>      
+            <td>0.25%</td>      
+            <td>0.28%</td>      
+            <td>0.37%</td>      
+            <td>0.50%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Tom Green</th>      
+            <td>0.17%</td>      
+            <td>0.27%</td>      
+            <td>0.23%</td>      
+            <td>0.39%</td>      
+            <td>0.51%</td>      
+            <td>0.68%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Travis</th>      
+            <td>1.13%</td>      
+            <td>1.53%</td>      
+            <td>1.74%</td>      
+            <td>1.75%</td>      
+            <td>2.08%</td>      
+            <td>2.30%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Trinity</th>      
+            <td>0.27%</td>      
+            <td>0.57%</td>      
+            <td>0.41%</td>      
+            <td>0.61%</td>      
+            <td>0.47%</td>      
+            <td>0.45%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Tyler</th>      
+            <td>0.53%</td>      
+            <td>0.32%</td>      
+            <td>0.76%</td>      
+            <td>0.79%</td>      
+            <td>0.72%</td>      
+            <td>0.65%</td>    
+		</tr>  
+	</tbody>
+</table>
+<a id="U"  title="NewBookmark"  data-ektron-placeholder="bookmark"></a>
+<h3 style="margin-left:20px;">U</h3>
+<table class="zebraBorder"  summary="Sorted alphabetically by county name"  style="width:95%;margin-left:20px;">  
+    <caption>Percent of Students with Conscientious Exemptions Filed in Counties Beginning with U</caption>  
+    <thead>    
+        <tr>      
+            <th scope="col"  style="width:14.28%;">County</th>      
+            <th scope="col"  style="width:14.28%;">2010-2011</th>      
+            <th scope="col"  style="width:14.28%;">2011-2012</th>      
+            <th scope="col"  style="width:14.28%;">2012-2013</th>      
+            <th scope="col"  style="width:14.28%;">2013-2014</th>      
+            <th scope="col"  style="width:14.28%;">2014-2015</th>      
+            <th scope="col"  style="width:14.28%;">2015-2016</th>
+		</tr>
+	</thead>  
+    <tbody>    
+        <tr>      
+            <th scope="row">Upshur</th>      
+            <td>2.13%</td>      
+            <td>2.20%</td>      
+            <td>1.92%</td>      
+            <td>0.91%</td>      
+            <td>1.01%</td>      
+            <td>0.91%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Upton</th>      
+            <td>0.00%</td>      
+            <td>0.00%</td>      
+            <td>0.00%</td>      
+            <td>0.62%</td>      
+            <td>0.49%</td>      
+            <td>0.37%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Uvalde</th>      
+            <td>0.13%</td>      
+            <td>0.20%</td>      
+            <td>0.21%</td>      
+            <td>0.23%</td>      
+            <td>0.34%</td>      
+            <td>0.48%</td>    
+		</tr>  
+	</tbody>
+</table>
+<a id="V"  title="NewBookmark"  data-ektron-placeholder="bookmark"></a>
+<h3 style="margin-left:20px;">V</h3>
+<table class="zebraBorder"  summary="Sorted alphabetically by county name"  style="width:95%;margin-left:20px;">  
+    <caption>Percent of Students with Conscientious Exemptions Filed in Counties Beginning with V</caption>  
+    <thead>    
+        <tr>      
+            <th scope="col"  style="width:14.28%;">County</th>      
+            <th scope="col"  style="width:14.28%;">2010-2011</th>      
+            <th scope="col"  style="width:14.28%;">2011-2012</th>      
+            <th scope="col"  style="width:14.28%;">2012-2013</th>      
+            <th scope="col"  style="width:14.28%;">2013-2014</th>      
+            <th scope="col"  style="width:14.28%;">2014-2015</th>      
+            <th scope="col"  style="width:14.28%;">2015-2016</th>
+		</tr>
+	</thead>  
+    <tbody>    
+        <tr>      
+            <th scope="row">Val Verde</th>      
+            <td>0.08%</td>      
+            <td>0.11%</td>      
+            <td>0.08%</td>      
+            <td>0.14%</td>      
+            <td>0.16%</td>      
+            <td>0.18%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Van Zandt</th>      
+            <td>0.75%</td>      
+            <td>0.86%</td>      
+            <td>0.99%</td>      
+            <td>1.09%</td>      
+            <td>1.59%</td>      
+            <td>1.22%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Victoria</th>      
+            <td>0.15%</td>      
+            <td>0.21%</td>      
+            <td>0.08%</td>      
+            <td>0.07%</td>      
+            <td>0.21%</td>      
+            <td>0.27%</td>    
+		</tr>  
+	</tbody>
+</table>
+<a id="W"  title="NewBookmark"  data-ektron-placeholder="bookmark"></a>
+<h3 style="margin-left:20px;">W</h3>
+<table class="zebraBorder"  summary="Sorted alphabetically by county name"  style="width:95%;margin-left:20px;">  
+    <caption>Percent of Students with Conscientious Exemptions Filed in Counties Beginning with W</caption>  
+    <thead>    
+        <tr>      
+            <th scope="col"  style="width:14.28%;">County</th>      
+            <th scope="col"  style="width:14.28%;">2010-2011</th>      
+            <th scope="col"  style="width:14.28%;">2011-2012</th>      
+            <th scope="col"  style="width:14.28%;">2012-2013</th>      
+            <th scope="col"  style="width:14.28%;">2013-2014</th>      
+            <th scope="col"  style="width:14.28%;">2014-2015</th>      
+            <th scope="col"  style="width:14.28%;">2015-2016</th>
+		</tr>
+	</thead>  
+    <tbody>    
+        <tr>      
+            <th scope="row">Walker</th>      
+            <td>0.20%</td>      
+            <td>0.16%</td>      
+            <td>0.24%</td>      
+            <td>0.50%</td>      
+            <td>0.52%</td>      
+            <td>1.00%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Waller</th>      
+            <td>0.07%</td>      
+            <td>0.30%</td>      
+            <td>0.33%</td>      
+            <td>0.55%</td>      
+            <td>0.98%</td>      
+            <td>0.71%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Ward</th>      
+            <td>0.19%</td>      
+            <td>0.14%</td>      
+            <td>0.22%</td>      
+            <td>0.34%</td>      
+            <td>0.17%</td>      
+            <td>0.17%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Washington</th>      
+            <td>0.20%</td>      
+            <td>0.09%</td>      
+            <td>0.27%</td>      
+            <td>0.30%</td>      
+            <td>0.66%</td>      
+            <td>0.79%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Webb</th>      
+            <td>0.05%</td>      
+            <td>0.04%</td>      
+            <td>0.05%</td>      
+            <td>0.06%</td>      
+            <td>0.05%</td>      
+            <td>0.08%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Wharton</th>      
+            <td>0.14%</td>      
+            <td>0.16%</td>      
+            <td>0.17%</td>      
+            <td>0.19%</td>      
+            <td>0.21%</td>      
+            <td>0.20%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Wheeler</th>      
+            <td>0.57%</td>      
+            <td>0.75%</td>      
+            <td>0.82%</td>      
+            <td>1.09%</td>      
+            <td>2.39%</td>      
+            <td>1.87%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Wichita</th>      
+            <td>0.41%</td>      
+            <td>0.37%</td>      
+            <td>0.46%</td>      
+            <td>0.49%</td>      
+            <td>0.55%</td>      
+            <td>0.53%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Wilbarger</th>      
+            <td>0.00%</td>      
+            <td>0.00%</td>      
+            <td>0.08%</td>      
+            <td>0.00%</td>      
+            <td>2.07%</td>      
+            <td>0.22%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Willacy</th>      
+            <td>0.05%</td>      
+            <td>0.05%</td>      
+            <td>0.11%</td>      
+            <td>0.13%</td>      
+            <td>0.18%</td>      
+            <td>0.02%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Williamson</th>      
+            <td>1.20%</td>      
+            <td>1.55%</td>      
+            <td>1.79%</td>      
+            <td>2.11%</td>      
+            <td>2.12%</td>      
+            <td>1.83%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Wilson</th>      
+            <td>0.60%</td>      
+            <td>0.52%</td>      
+            <td>0.48%</td>      
+            <td>0.48%</td>      
+            <td>0.66%</td>      
+            <td>0.82%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Winkler</th>      
+            <td>0.00%</td>      
+            <td>0.06%</td>      
+            <td>0.08%</td>      
+            <td>0.76%</td>      
+            <td>0.45%</td>      
+            <td>0.06%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Wise</th>      
+            <td>0.57%</td>      
+            <td>0.58%</td>      
+            <td>0.73%</td>      
+            <td>0.82%</td>      
+            <td>1.02%</td>      
+            <td>0.86%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Wood</th>      
+            <td>1.40%</td>      
+            <td>0.79%</td>      
+            <td>0.90%</td>      
+            <td>0.68%</td>      
+            <td>1.16%</td>      
+            <td>1.08%</td>    
+		</tr>  
+	</tbody>
+</table>
+<a id="X"  title="NewBookmark"  data-ektron-placeholder="bookmark"></a>
+<a id="Y"  title="NewBookmark"  data-ektron-placeholder="bookmark"></a>
+<h3 style="margin-left:20px;">Y</h3>
+<table class="zebraBorder"  summary="Sorted alphabetically by county name"  style="width:95%;margin-left:20px;">  
+    <caption>Percent of Students with Conscientious Exemptions Filed in Counties Beginning with Y</caption>  
+    <thead>    
+        <tr>      
+            <th scope="col"  style="width:14.28%;">County</th>      
+            <th scope="col"  style="width:14.28%;">2010-2011</th>      
+            <th scope="col"  style="width:14.28%;">2011-2012</th>      
+            <th scope="col"  style="width:14.28%;">2012-2013</th>      
+            <th scope="col"  style="width:14.28%;">2013-2014</th>      
+            <th scope="col"  style="width:14.28%;">2014-2015</th>      
+            <th scope="col"  style="width:14.28%;">2015-2016</th>
+		</tr>
+	</thead>  
+    <tbody>    
+        <tr>      
+            <th scope="row">Yoakum</th>      
+            <td>0.52%</td>      
+            <td>0.57%</td>      
+            <td>0.38%</td>      
+            <td>0.74%</td>      
+            <td>0.64%</td>      
+            <td>1.03%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Young</th>      
+            <td>0.18%</td>      
+            <td>0.06%</td>      
+            <td>0.35%</td>      
+            <td>0.41%</td>      
+            <td>0.62%</td>      
+            <td>0.77%</td>    
+		</tr>  
+	</tbody>
+</table>
+<a id="Z"  title="NewBookmark"  data-ektron-placeholder="bookmark"></a>
+<h3 style="margin-left:20px;">Z</h3>
+<table class="zebraBorder"  summary="Sorted alphabetically by county name"  style="width:95%;margin-left:20px;">  
+    <caption>Percent of Students with Conscientious Exemptions Filed in Counties Beginning with Z</caption>  
+    <thead>    
+        <tr>      
+            <th scope="col"  style="width:14.28%;">County</th>      
+            <th scope="col"  style="width:14.28%;">2010-2011</th>      
+            <th scope="col"  style="width:14.28%;">2011-2012</th>      
+            <th scope="col"  style="width:14.28%;">2012-2013</th>      
+            <th scope="col"  style="width:14.28%;">2013-2014</th>      
+            <th scope="col"  style="width:14.28%;">2014-2015</th>      
+            <th scope="col"  style="width:14.28%;">2015-2016</th>
+		</tr>
+	</thead>  
+    <tbody>    
+        <tr>      
+            <th scope="row">Zapata</th>      
+            <td>0.00%</td>      
+            <td>0.00%</td>      
+            <td>0.00%</td>      
+            <td>0.00%</td>      
+            <td>0.00%</td>      
+            <td>0.00%</td>    
+		</tr>    
+        <tr>      
+            <th scope="row">Zavala</th>      
+            <td>0.04%</td>      
+            <td>0.17%</td>      
+            <td>0.04%</td>      
+            <td>0.00%</td>      
+            <td>0.00%</td>      
+            <td>0.09%</td>    
+		</tr>  
+	</tbody>
+</table>
+<a id="State-Totals"  title="NewBookmark"  data-ektron-placeholder="bookmark"></a>
+<h3 style="margin-left:20px;">State Totals</h3>
+<table class="zebraBorder"  summary="Sorted alphabetically by county name"  style="width:95%;margin-left:20px;">  
+    <caption>Percent of Students with Conscientious Exemptions - Statewide</caption>  
+    <thead>    
+        <tr>      
+            <th scope="col"  style="width:14.28%;">County</th>      
+            <th scope="col"  style="width:14.28%;">2010-2011</th>      
+            <th scope="col"  style="width:14.28%;">2011-2012</th>      
+            <th scope="col"  style="width:14.28%;">2012-2013</th>      
+            <th scope="col"  style="width:14.28%;">2013-2014</th>      
+            <th scope="col"  style="width:14.28%;">2014-2015</th>      
+            <th scope="col"  style="width:14.28%;">2015-2016</th>
+		</tr>
+	</thead>  
+    <tbody>    
+        <tr>      
+            <th scope="row">State Total</th>      
+            <td>0.45%</td>      
+            <td>0.57%</td>      
+            <td>0.64%</td>      
+            <td>0.76%</td>      
+            <td>0.79%</td>      
+            <td>0.84%</td>    
+		</tr>  
+	</tbody>
+</table>
+<hr/>
+<a title="endnotes"  class="bookmark"  name="endnotes"></a>
+<h3 style="margin-left:20px;">Endnotes</h3>
+<p style="margin-left:20px;"><sup><a id="footnote-1" title="footnote 1"></a>1</sup> This data is from the Annual Survey of Immunization Status; it is mailed to approximately 1,300 independent school districts (ISD) and 800 accredited private schools in Texas to collect the immunization status of children and the number of conscientious exemption affidavit forms filed at the private school and ISD level. The total district conscientious exemption data from the annual report is only reported at the district level so it includes all students from kindergarten through 12th grade. </p>
+<p style="margin-left:20px;"><sup><a id="#footnote-2" title="footnote 2"></a>2</sup> The data is self reported and although the Annual Report of Immunization Status is mandated by law not all schools participate each year.</p>
+
+
+<?php include '/home/codio/workspace/includes/footer.html' ?>

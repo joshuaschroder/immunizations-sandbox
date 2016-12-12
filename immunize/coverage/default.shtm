@@ -1,0 +1,51 @@
+<?php
+	$title= "Texas Vaccination Coverage Level Statistics - Immunization Unit" ;
+	include '/home/codio/workspace/includes/header.html';
+    include '/home/codio/workspace/includes/menus/coverage_menu.html'; 
+?>
+
+<p>The DSHS Immunization Unit monitors vaccination coverage levels across the state of Texas. Coverage levels are derived from national data collected by the U.S. Centers for Disease Control and statewide surveys conducted in schools and child-care facilities. Please use the navigation menu on the left side of this page to see the latest results from various surveys, described below.</p>
+
+<hr/>
+<h2>Immunization Surveys</h2>
+
+<br/>
+<h3>National Immunization Survey (NIS)</h3>
+<p>The NIS is a national survey conducted annually by the Centers for Disease Control and Prevention to assess immunization levels among pre-school children 19 through 35 months old. The NIS is the only population-based survey to provide national, state, local area, and territorial estimates of vaccination coverage among children aged 19-35 months in the United States. The NIS-Teen is a national survey conducted annually by the CDC to assess immunization levels for adolescents 13-17 years of age. </p>
+<p><a title="Read More about the National Immunization Survey" href="/immunize/coverage/NIS/">Read More about the National Immunization Survey</a></p>
+
+<br/>
+<h3>Texas County Retrospective Immunization School Survey (TCRISS)</h3>
+<p>The Texas County Retrospective Immunization School Survey (TCRISS) methodology was developed to fulfill a need for county specific vaccination coverage level estimates. This survey was designed to retrospectively assess the vaccination coverage levels of public school kindergarteners when they were 24 months of age (approximately three years prior to the survey date). The survey design is dependent on the population size of kindergartners in the county and the number of kindergarten schools. For counties with smaller populations, it may be necessary to include all kindergarten students in the survey. For medium and large counties, a sample of kindergarten students is taken.</p>
+<p><a title="Read More about the Texas County Retrospective Immunization School Survey (TCRISS)" href="/immunize/coverage/TCRISS/">Read More about the Texas County Retrospective Immunization School Survey (TCRISS)</a></p>
+
+<br/>
+<h3>School Coverage</h3>
+<p>The School Coverage webpage includes data from the DSHS Annual Report of Immunization Status. The coverage levels reported here represent the vaccination levels among children who attend public and private schools in Texas. Because children attending home schools are not included in this report, these levels do not represent vaccination rates for the state of Texas or its public health regions.</p>
+<p><a title="Read More about Vaccine Coverage in Texas Schools" href="/immunize/coverage/schools/">Read More about Vaccine Coverage in Texas Schools</a></p>
+
+<br/>
+<h3>Childcare Facility Coverage</h3>
+<p>This survey is conducted triennially to assess vaccination coverage levels of children attending a childcare facility and to monitor compliance with new and existing vaccine requirements at licensed child care centers (LCCC) and registered child care homes (RCCH) in Texas. A random sample of childcare facilities is selected for the survey every other year. Local health departments and DSHS staff review a random sample of immunization records from each selected childcare facility. Statewide and regional vaccination coverage levels are available for children ages 19–59 months of age attending childcare facilities in Texas.</p>
+<p><a title="Read More about Vaccine Coverage in Texas Childcare Facilities" href="/immunize/coverage/childcare.shtm">Read More about Vaccine Coverage in Texas Childcare Facilities</a></p>
+
+<br/>
+<h3>Validation Survey</h3>
+<p>This survey is conducted annually to validate the results of the DSHS Annual Report of Immunization Status in Texas Schools. A random sample of public schools is selected for the survey each year. Local health department and DSHS staff review a random sample of immunization records from each selected school. Statewide vaccination coverage levels are available for Kindergarten and 7th grade students attending public school in Texas.</p>
+<p><a title="Read More about the Texas School Immunization Validation Survey" href="/immunize/coverage/validation.shtm">Read More about the Texas School Immunization Validation Survey</a></p>
+
+<br/>
+<h3>Conscientious Exemptions</h3>
+<p>In accordance with Texas Administrative Code §97.62, Texas law allows for an exemption from immunizations for reasons of conscience, including a religious belief. To claim an exemption due to reasons of conscience, a student's parent or legal guardian must request, sign, and submit an official DSHS affidavit form to the child's school. The affidavit is valid for two years. This webpage contains data on the percentage of K-12 students by school district/accredited private school and by county that have an exemption on file with their school.</p>
+<p><a title="Read More about Conscientious Exemptions Data" href="/immunize/coverage/conscientious-exemptions-data.shtm">Read More about Conscientious Exemptions Data</a></p>
+
+<hr/>
+<a id="contact" title="contact" data-ektron-placeholder="bookmark"></a>
+<h2>Contact Information</h2>
+<p>
+	Email: <a title="Imm.Epi@dshs.texas.gov" href="mailto:Imm.Epi@dshs.texas.gov">Imm.Epi@dshs.texas.gov</a><br/>
+	Phone: (800) 252-9152<br/>
+	Fax: (512) 776-7544<br/>
+</p>
+
+<?php include '/home/codio/workspace/includes/footer.html' ?>

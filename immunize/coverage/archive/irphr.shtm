@@ -1,0 +1,172 @@
+<?php
+	$title= "Texas Immunization Rates by Public Health Region" ;
+	include '/home/codio/workspace/includes/header.html';
+	include '/home/codio/workspace/includes/menus/coverage_menu.html'; 
+?>
+
+<hr/>
+<h2>1999 Texas Retrospective Immunization Survey (TRIS)</h2>
+<p>Immunization rates at two years of age (for children born in 1992-1993) by public health region (PHR) and vaccine category are <a title="shown in the table below" href="#table">shown in the table below</a>:</p>
+
+<div class="Section" id="Region-Map">
+	<img height="327" width="350" border="0" style="width: 350px; height: 327px;" title="region map" usemap="#vhsreg" src="/uploadedImages/Content/Prevention_and_Preparedness/immunize/images/regtex2.gif" alt="region map">
+	<map name="vhsreg"><area coords="95,2,170,2,170,64,158,66,158,81,170,81,170,94,145,94,145,106,95,106,95,2" target="_self" alt="Region 1 link" shape="poly" href="/immunize/coverage/archive/TRIS/phrsum1.shtm"><area coords="162,69 162,82 173,82 173,96 148,96 148,109 146,109 146,133 169,133 169,148 183,148 183,153 198,153 205,146 214,145 221,140 216,136 211,129 213,122 209,122 209,108 214,104 224,104 224,91 236,91 236,77 195,69 188,64 177,64 172,68 162,69 " target="_self" alt="Region 2 link" shape="poly" href="/immunize/coverage/archive/TRIS/phrsum2.shtm"><area coords="239,78 277,78 277,103 273,109 273,120 263,120 274,132 265,138 248,126 220,136 214,129 214,120 211,120 211,110 216,107 227,107 227,94 238,94 239,78" target="_self" alt="Region 3 link" shape="poly" href="/immunize/coverage/archive/TRIS/phrsum3.shtm"><area coords="280,79 296,74 318,84 326,84 326,129 315,129 315,134 303,134 303,144 287,146 273,124 275,110 280,110 280,79 " target="_self" alt="Region 4 link" shape="poly" href="/immunize/coverage/archive/TRIS/phrsum4.shtm"><area coords="288,148 307,144 307,136 319,136 319,131 331,131 345,160 340,194 330,200 315,173 309,173 302,179 298,174 300,164 287,156 288,148 " target="_self" alt="Region 5 link" shape="poly" href="/immunize/coverage/archive/TRIS/phrsum5.shtm"><area coords="277,237 277,223 268,214 262,205 267,192 278,192 278,186 287,186 285,167 296,167 296,178 303,183 313,176 326,200 277,237" target="_self" alt="Region 6 link" shape="poly" href="/immunize/coverage/archive/TRIS/phrsum6.shtm"><area coords="203,180 203,168 200,168 200,154 209,147 215,148 225,140 225,135 247,129 264,142 275,134 286,148 284,159 290,164 282,166 285,185 277,187 265,191 259,204 247,200 238,204 220,194 214,192 214,182 203,180" target="_self" alt="Region 7 link" shape="poly" href="/immunize/coverage/archive/TRIS/phrsum7.shtm"><area coords="130,202 130,191 194,191 194,183 212,183 212,193 217,198 222,197 238,208 247,202 259,207 266,213 266,218 274,224 275,239 264,247 261,237 252,235 246,241 231,230 226,230 222,235 206,235 206,252 193,252 193,248 169,248 136,204 130,202" target="_self" alt="Region 8 link" shape="poly" href="/immunize/coverage/archive/TRIS/phrsum8.shtm"><area coords="96,109 144,109 144,135 167,135 167,150 181,150 188,155 196,153 197,170 200,170 200,181 192,181 192,188 128,188 128,203 116,203 70,163 72,137 96,137 96,109" target="_self" alt="Region 9 link" shape="poly" href="/immunize/coverage/archive/TRIS/phrsum9.shtm"><area coords="4,136 70,136 68,163 113,203 103,206 98,217 92,226 56,208 47,178 4,136 " target="_self" alt="Region 10 link" shape="poly" href="/immunize/coverage/archive/TRIS/phrsum10.shtm"><area coords="170,251 191,251 191,255 209,255 209,237 222,237 228,233 236,236 246,244 252,237 260,238 264,248 249,272 250,293 257,315 248,320 203,305 188,278 190,271 170,251 " target="_self" alt="Region 11 link" shape="poly" href="/immunize/coverage/archive/TRIS/phrsum11.shtm"></map>
+</div>
+
+<hr/>
+<h2>HTML Version of Regional Rates</h2>
+<ul>
+	<li><a title="Region 1 - 1999 Texas Retrospective Immunization Survey (HTML)" href="/immunize/coverage/archive/TRIS/phrsum1.shtm">Region 1 - 1999 Texas Retrospective Immunization Survey (HTML)</a></li>
+	<li><a title="Region 2 - 1999 Texas Retrospective Immunization Survey (HTML)" href="/immunize/coverage/archive/TRIS/phrsum2.shtm">Region 2 - 1999 Texas Retrospective Immunization Survey (HTML)</a> </li>
+	<li><a title="Region 3 - 1999 Texas Retrospective Immunization Survey (HTML)" href="/immunize/coverage/archive/TRIS/phrsum3.shtm">Region 3 - 1999 Texas Retrospective Immunization Survey (HTML)</a> </li>
+	<li><a title="Region 4 - 1999 Texas Retrospective Immunization Survey (HTML)" href="/immunize/coverage/archive/TRIS/phrsum4.shtm">Region 4 - 1999 Texas Retrospective Immunization Survey (HTML)</a> </li>
+	<li><a title="Region 5 - 1999 Texas Retrospective Immunization Survey (HTML)" href="/immunize/coverage/archive/TRIS/phrsum5.shtm">Region 5 - 1999 Texas Retrospective Immunization Survey (HTML)</a> </li>
+	<li><a title="Region 6 - 1999 Texas Retrospective Immunization Survey (HTML)" href="/immunize/coverage/archive/TRIS/phrsum6.shtm">Region 6 - 1999 Texas Retrospective Immunization Survey (HTML)</a></li>
+	<li><a title="Region 7 - 1999 Texas Retrospective Immunization Survey (HTML)" href="/immunize/coverage/archive/TRIS/phrsum7.shtm">Region 7 - 1999 Texas Retrospective Immunization Survey (HTML)</a> </li>
+	<li><a title="Region 8 - 1999 Texas Retrospective Immunization Survey (HTML)" href="/immunize/coverage/archive/TRIS/phrsum8.shtm">Region 8 - 1999 Texas Retrospective Immunization Survey (HTML)</a> </li>
+	<li><a title="Region 9 - 1999 Texas Retrospective Immunization Survey (HTML)" href="/immunize/coverage/archive/TRIS/phrsum9.shtm">Region 9 - 1999 Texas Retrospective Immunization Survey (HTML)</a> </li>
+	<li><a title="Region 10 - 1999 Texas Retrospective Immunization Survey (HTML)" href="/immunize/coverage/archive/TRIS/phrsum10.shtm">Region 10 - 1999 Texas Retrospective Immunization Survey (HTML)</a> </li>
+	<li><a title="Region 11 - 1999 Texas Retrospective Immunization Survey (HTML)" href="/immunize/coverage/archive/TRIS/phrsum11.shtm">Region 11 - 1999 Texas Retrospective Immunization Survey (HTML)</a></li>
+</ul>
+
+<hr/>
+<h2>PDF Version of Regional Rates</h2>
+<ul>
+	<li><a title="Region 1 - 1999 Texas Retrospective Immunization Survey (PDF)" href="/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=24797">Region 1 - 1999 Texas Retrospective Immunization Survey (PDF, 59KB)</a></li>
+	<li><a title="Region 2 - 1999 Texas Retrospective Immunization Survey (PDF)" href="/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=24800">Region 2 - 1999 Texas Retrospective Immunization Survey (PDF, 56KB)</a> </li>
+	<li><a title="Region 3 - 1999 Texas Retrospective Immunization Survey (PDF)" href="/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=24801">Region 3 - 1999 Texas Retrospective Immunization Survey (PDF, 36KB)</a> </li>
+	<li><a title="Region 4 - 1999 Texas Retrospective Immunization Survey (PDF)" href="/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=24802">Region 4 - 1999 Texas Retrospective Immunization Survey (PDF, 56KB)</a> </li>
+	<li><a title="Region 5 - 1999 Texas Retrospective Immunization Survey (PDF)" href="/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=24803">Region 5 - 1999 Texas Retrospective Immunization Survey (PDF, 36KB)</a> </li>
+	<li><a title="Region 6 - 1999 Texas Retrospective Immunization Survey (PDF)" href="/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=24804">Region 6 - 1999 Texas Retrospective Immunization Survey (PDF, 36KB)</a></li>
+	<li><a title="Region 7 - 1999 Texas Retrospective Immunization Survey (PDF)" href="/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=24805">Region 7 - 1999 Texas Retrospective Immunization Survey (PDF, 38KB)</a> </li>
+	<li><a title="Region 8 - 1999 Texas Retrospective Immunization Survey (PDF)" href="/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=24806">Region 8 - 1999 Texas Retrospective Immunization Survey (PDF, 56KB)</a> </li>
+	<li><a title="Region 9 - 1999 Texas Retrospective Immunization Survey (PDF)" href="/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=24807">Region 9 - 1999 Texas Retrospective Immunization Survey (PDF, 36KB)</a> </li>
+	<li><a title="Region 10 - 1999 Texas Retrospective Immunization Survey (PDF)" href="/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=24798">Region 10 - 1999 Texas Retrospective Immunization Survey (PDF, 38KB)</a> </li>
+	<li><a title="Region 11 - 1999 Texas Retrospective Immunization Survey (PDF)" href="/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=24799">Region 11 - 1999 Texas Retrospective Immunization Survey (PDF, 56KB)</a></li>
+</ul>
+
+<table class="zebraBorder" summary="sorted by public health region (PHR), ascending" style="width:100%;">
+	<caption>1999 Texas Retrospective Immunization Survey (TRIS), Immunization Rates by Public Health Region</caption>
+	<thead>
+		<tr>
+			<th scope="col">PHR</th>
+			<th scope="col">4-3-1<sup>(i)</sup></th>
+			<th scope="col">4-3-1-3<sup>(ii)</sup></th>
+			<th scope="col">DTP4<sup>(iii)</sup></th>
+			<th scope="col">POLIO3<sup>(iv)</sup></th>
+			<th scope="col">HIB3<sup>(v)</sup></th>
+			<th scope="col">MMR1<sup>(vi)</sup></th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<th scope="row">Region 1</th>
+			<td>63.8</td>
+			<td>56.2%</td>
+			<td>65.6%</td>
+			<td>82.7%</td>
+			<td>75.8%</td>
+			<td>83.1%</td>
+		</tr>
+		<tr>
+			<th scope="row">Region 2</th>
+			<td>66.4</td>
+			<td>63.3</td>
+			<td>69.6</td>
+			<td>86.6</td>
+			<td>86.9</td>
+			<td>86.9</td>
+		</tr>
+		<tr>
+			<th scope="row">Region 3</th>
+			<td>63.8</td>
+			<td>59.0</td>
+			<td>67.4</td>
+			<td>83.5</td>
+			<td>78.7</td>
+			<td>83.2</td>
+		</tr>
+		<tr>
+			<th scope="row">Region 4</th>
+			<td>61.7</td>
+			<td>51.7</td>
+			<td>64.0</td>
+			<td>81.7</td>
+			<td>69.8</td>
+			<td>84.2</td>
+		</tr>
+		<tr>
+			<th scope="row">Region 5</th>
+			<td>54.7</td>
+			<td>50.4</td>
+			<td>58.0</td>
+			<td>78.2</td>
+			<td>73.5</td>
+			<td>81.7</td>
+		</tr>
+		<tr>
+			<th scope="row">Region 6</th>
+			<td>64.0</td>
+			<td>57.6</td>
+			<td>67.5</td>
+			<td>82.4</td>
+			<td>75.7</td>
+			<td>82.5</td>
+		</tr>
+		<tr>
+			<th scope="row">Region 7</th>
+			<td>60.6</td>
+			<td>56.3</td>
+			<td>63.6</td>
+			<td>81.2</td>
+			<td>78.1</td>
+			<td>83.2</td>
+		</tr>
+		<tr>
+			<th scope="row">Region 8</th>
+			<td>64.6</td>
+			<td>60.9</td>
+			<td>67.2</td>
+			<td>86.8</td>
+			<td>81.0</td>
+			<td>83.1</td>
+		</tr>
+		<tr>
+			<th scope="row">Region 9</th>
+			<td>59.3</td>
+			<td>54.9</td>
+			<td>61.9</td>
+			<td>80.1</td>
+			<td>78.5</td>
+			<td>83.8</td>
+		</tr>
+		<tr>
+			<th scope="row">Region 10</th>
+			<td>75.1</td>
+			<td>73.3</td>
+			<td>78.4</td>
+			<td>94.9</td>
+			<td>91.2</td>
+			<td>86.5</td>
+		</tr>
+		<tr>
+			<th scope="row">Region 11</th>
+			<td>64.9</td>
+			<td>61.8</td>
+			<td>67.3</td>
+			<td>87.9</td>
+			<td>82.2</td>
+			<td>83.8</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>(i) Completion of 4 doses of diphtheria-tetanus-pertussis vaccine (DTP), 3 doses of polio vaccine, 1 dose of measles-mumps-rubella vaccine (MMR) by two years of age</p>
+<p>(ii) Completion of the 4-3-1 series plus 3 doses of Haemophilus influenzae type b (HIB) vaccine by two years of age</p>
+<p>(iii) Completion of 4 doses of DTP by two years of age</p>
+<p>(iv) Completion of 3 doses of polio vaccine by two years of age</p>
+<p>(v) Completion of 3 doses of HIB vaccine by two years of age</p>
+<p>(vi) Completion of 1 dose of MMR by two years of age</p>
+
+
+<?php include '/home/codio/workspace/includes/footer.html' ?>

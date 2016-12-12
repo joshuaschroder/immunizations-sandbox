@@ -1,0 +1,48 @@
+<?php
+	$title= "Issues of Interest - Vaccine Safety" ;
+	include '/home/codio/workspace/includes/header.html';
+    include '/home/codio/workspace/includes/menus/vacsafe_menu.html'; 
+?>
+
+<p>It is important to keep in mind that although immunization involves a small risk that an adverse event may occur, not immunizing involves an even greater risk. According to the federal Centers for Disease Control and Prevention (CDC), &#8220;Immunizations, like any medication, can cause side effects. However, a decision not to immunize a child also involves risk. It is a decision to put the child and others who come into contact with him or her at risk of contracting a disease that could be dangerous or deadly.&#8221;</p>
+
+<hr/>
+<h2>MMR Vaccine and Autism</h2>
+<p>The weight of current scientific evidence does not support a link between MMR vaccine and autism. Learn more through these resources.</p>
+<p style="margin-left:20px;"><a title="American Academy of Pediatrics: Family Vaccination Information" href="http://www.cispimmunize.org/fam/fam_main.html">American Academy of Pediatrics: Family Vaccination Information</a><br/>
+This information may be accessed by clicking on the &#8220;Vaccine Safety&#8221; link located on the &#8220;Important Information for Families&#8221; page.</p>
+<p style="margin-left:20px;"><a title="CDC: Vaccines and Autism theory" href="http://www.cdc.gov/od/science/iso/mmr_autism.htm">CDC: Vaccines and Autism theory</a></p>
+
+<hr/>
+<h2>Thimerosal</h2>
+<p>Vaccines routinely recommended today to all infants and young children do not contain thimerosal as a preservative. Preservative free versions of the flu vaccine are also available. Thimerosal is a preservative that was a component of some vaccines to prevent bacterial contamination of multi-dose vaccine vials. Thimerosal contains ethylmercury, a form of organic mercury.</p>
+<p>In May 2004, the Institute of Medicine (IOM) released a report that concluded that the body of current scientific evidence does not support a link between thimerosal-containing vaccines and autism. Included in their review were studies involving hundreds of thousands of children across a number of countries that failed to find an association between exposure to thimerosal in vaccines and autism. Some groups had hypothesized that exposure to ethylmercury in thimerosal could cause autism.</p>
+<p>In 1999, the U.S. Public Health Service and the American Academy of Pediatrics issued a joint statement calling for the removal of thimerosal from recommended childhood vaccines as a precautionary measure to reduce total exposure to mercury.</p>
+<p>Learn more through these resources.</p>
+<p style="margin-left:20px;"><a title="Institute for Vaccine Safety at Johns Hopkins University: Thimerosal in Vaccines" href="http://www.vaccinesafety.edu/thi-table.htm">Institute for Vaccine Safety at Johns Hopkins University: Thimerosal in Vaccines</a><br/>
+Contains a table with thimerosal content of U.S. licensed vaccines.</p>
+<p style="margin-left:20px;"><a title="National Network for Immunization Information: Immunization Issues &#8211; Thimerosal/Mercury" href="http://www.immunizationinfo.org/thimerosal_mercury_issues.cfm">National Network for Immunization Information: Immunization Issues &#8211; Thimerosal/Mercury</a></p>
+<p style="margin-left:20px;"><a title="Immunization Action Coalition: Thimerosal Information Journal Articles" href="http://www.immunize.org/safety/thimerosal.htm">Immunization Action Coalition: Thimerosal Information Journal Articles</a></p>
+<p style="margin-left:20px;"><a title="U.S. Food and Drug Administration (FDA) Center for Biologics Evaluation and Research (CBER): Thimerosal in Vaccines" href="http://www.fda.gov/cber/vaccine/thimerosal.htm">U.S. Food and Drug Administration (FDA) Center for Biologics Evaluation and Research (CBER): Thimerosal in Vaccines</a></p>
+<p style="margin-left:20px;"><a title="CDC: Mercury and Vaccines (Thimerosal)" href="http://www.cdc.gov/od/science/iso/concerns/thimerosal.htm">CDC: Mercury and Vaccines (Thimerosal)</a></p>
+
+<hr/>
+<h2>Safety of Aluminum-Containing Vaccines</h2>
+<p>Aluminum salts have been used as adjuvants, substances that enhance the immune response, for over 70 years in vaccines. Learn more about their safety through the National Network for Immunization Information.</p>
+<p style="margin-left:20px;"><a title="National Network for Immunization Information: Immunization Issues &#8211; Vaccine Components &#8211; Aluminum Adjuvants in Vaccines" href="http://www.immunizationinfo.org/vaccine_components_detail.cfv?id=61">National Network for Immunization Information: Immunization Issues &#8211; Vaccine Components &#8211; Aluminum Adjuvants in Vaccines</a></p>
+
+<hr/>
+<h2>Other Vaccine Safety Issue of Interest</h2>
+<p>Information on a variety of other current vaccine safety issues of interest may be found through the following links below.</p>
+<p style="margin-left:20px;">
+	<a title="Vaccine Education Center: Vaccine Safety Hot Topics" href="http://www.chop.edu/service/vaccine-education-center/home.html">Vaccine Education Center: Vaccine Safety Hot Topics</a><br/>
+	This site provides information on a variety of hot topics in vaccine safety receiving widespread public interest. From the Vaccine Education Center at The Children's Hospital of Philadelphia.
+</p>
+<p style="margin-left:20px;">
+	<a title="CDC: Vaccine Safety Issues of Interest" href="http://www.cdc.gov/od/science/iso/concerns.htm">CDC: Vaccine Safety Issues of Interest</a><br/>
+	Current vaccine safety issues of interest from the Centers for Disease Control and Prevention (CDC) Immunization Safety Office.
+</p>
+
+
+
+<?php include '/home/codio/workspace/includes/footer.html' ?>
