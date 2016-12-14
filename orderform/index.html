@@ -8,7 +8,7 @@
 		<meta name="description" content="Online order form for requesting printed copies of immunization related publications and documents from the Texas Department of State Health Services.">
 		<!-- Javascript: jQuery 3.x -->
 		<script src="http://code.jquery.com/jquery-3.1.1.min.js"></script>
-		<!-- Javascript: DataTables Plugin for jQuery -->
+		<!-- Javascript: DataTables Plugin for jQuery (https://datatables.net/) -->
 		<script type="text/javascript" src="js/datatables.min.js"></script>
 		<!-- CSS: DataTables Plugin for jQuery  -->
 		<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/bs/dt-1.10.12/fh-3.1.2/datatables.min.css"/>
@@ -1489,7 +1489,7 @@
 										<a title="Additional Information Regarding Registry Benefits - Bilingual" href="http://www.dshs.texas.gov/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=12884903011">Additional Information Regarding Registry Benefits - Bilingual (PDF)</a>
 										<!--/label-->
 									</td>
-									<td data-title="Revision">05/2016</td>
+									<td data-title="Revision">10/2016</td>
 									<td data-title="Notes">N/A</td>
 									<td data-title="Quantity">
 										<div class="form-group">
@@ -2567,7 +2567,7 @@
 											<a title="&#8220;Important ImmTrac Reminder!&#8221; ImmTrac Adult Consent Reminder Flyer - Bilingual" href="http://www.dshs.texas.gov/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=8590005895">&#8220;Important ImmTrac Reminder!&#8221; ImmTrac Adult Consent Reminder Flyer - Bilingual (PDF)</a>
 										</label>
 									</td>
-									<td data-title="Revision">10/2015</td>
+									<td data-title="Revision">12/2015</td>
 									<td data-title="Notes">N/A</td>
 									<td data-title="Quantity">
 										<div class="form-group">
@@ -4888,18 +4888,20 @@
 		</div>
 		
 		<div class="Section" id="Javascripts">
-			<!-- Javascript: Order Date -->
+			<!-- Javascript: Order Date. Requires humanDate.js, which is called in the document head -->
 			<script>
 				document.getElementById("Order_Date").value = today;
 				document.getElementById("Request_Date").value = today;
 			</script>
 			<!-- Javascript: Bootstrap 3.x -->
 			<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+			<!-- Javascript: Configuration file for jQuery DataTables plugin -->
 			<script src="js/datatablesConfig.js"></script>
 			<!-- Javascript: Bootstrap Form Validator -->
 			<script src="https://cdnjs.cloudflare.com/ajax/libs/1000hz-bootstrap-validator/0.11.5/validator.min.js"></script>
 			<!-- Javascript: Enables the account number field and makes it required when standard shipping is NOT selected-->
 			<script src="js/shippingMethod.js"></script>
+			<!-- Javascript: Adds "aria-invalid" attribute to input fields if the validator detects an error-->
 			<script src="js/addARIA.js"></script>
 			
 		</div>
