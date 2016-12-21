@@ -1,7 +1,7 @@
 <?php
 	$title= "Vaccine Information Statements (VIS)  - Immunizations Unit" ;
 	include '/home/codio/workspace/includes/header.html';
-    include '/home/codio/workspace/includes/menus/imm_old_menu.html'; 
+    include '/home/codio/workspace/includes/menus/imm_old_menu.html';
 ?>
 
 <p>Vaccine Information Statements (VIS) are information sheets produced by the Centers for Disease Control and Prevention (CDC) that explain to vaccine recipients, their parents, or their legal representatives both the benefits and risks of a vaccine.</p>
@@ -264,16 +264,16 @@
 			<tr>
 				<td>EC-95A</td>
 				<td>
-					<a title="Hepatitis A VIS - Spanish"  href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8589972925"  draggable="false">Hepatitis A VIS - Spanish (PDF)</a>
+					<a title="Hepatitis A VIS - Spanish"  href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=12884905278"  draggable="false">Hepatitis A VIS - Spanish (PDF)</a>
 				</td>
-				<td>10/2011</td>
+				<td>07/2016</td>
 			</tr>
 			<tr>
 				<td>EC-95A-sup</td>
 				<td>
-					<a title="Hepatitis A VIS Addendum - Spanish"  href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8589972926"  draggable="false">Hepatitis A VIS Addendum - Spanish (PDF)</a>
+					<a title="Hepatitis A VIS Addendum - Spanish"  href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=12884905279"  draggable="false">Hepatitis A VIS Addendum - Spanish (PDF)</a>
 				</td>
-				<td>10/2011</td>
+				<td>08/2016</td>
 			</tr>
 		</tbody>
 	</table>
@@ -308,16 +308,16 @@
 			<tr>
 				<td>EC-106A</td>
 				<td>
-					<a title="Hepatitis B VIS - Spanish"  href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=60107"  draggable="false">Hepatitis B VIS - Spanish (PDF)</a>
+					<a title="Hepatitis B VIS - Spanish"  href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=12884905269"  draggable="false">Hepatitis B VIS - Spanish (PDF)</a>
 				</td>
-				<td>02/2012</td>
+				<td>07/2016</td>
 			</tr>
 			<tr>
 				<td>EC-106A-sup</td>
 				<td>
 					<a title="Hepatitis B VIS Addendum - Spanish"  href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=12884903583"  draggable="false">Hepatitis B VIS Addendum - Spanish (PDF)</a>
 				</td>
-				<td>02/2012</td>
+				<td>08/2016</td>
 			</tr>
 		</tbody>
 	</table>
