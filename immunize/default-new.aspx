@@ -3,32 +3,33 @@
 	include '/home/codio/workspace/includes/header.html';
 	include '/home/codio/workspace/includes/menus/imm_menu.html'; 
 ?>
+<p>The goal of the DSHS Immunization Unit is to increase the number of persons vaccinated within the State of Texas, raise awareness of the diseases that vaccines prevent, and educate the public about vaccine safety. We do this through administration of the Texas immunization registry (ImmTrac), which provides access to immunization records, establishment of school immunization rules, and administration of the Texas Vaccines for Children and Adult Safety Net programs, which provide low-cost vaccines to eligible children and adults.</p>
 
 <hr/>
-<h2>Immunization News and Updates</h2>
-<br/>
+<h2>Program News and Updates</h2>
+<hr/>
 <h3>ACIP Recommends Against Use of Live Attenuated Influenza Vaccine (FluMist Quadrivalent Vaccine)</h3>
-<p><em>November 30, 2016</em></p>
-<p>On August 26, 2016, the U.S. Centers for Disease Control and Prevention (CDC) published the annual recommendations of the Advisory Committee on Immunization Practices (ACIP) on the prevention and control of influenza with vaccines. As per the updated recommendations, <strong><em>Live Attenuated Influenza Vaccine (LAIV) is not recommended for use in the 2016-17 influenza season.</em></strong> This was due to the demonstrated low effectiveness against influenza A(H1N1)pdm09 in the United States during the 2013-14 and 2015-16 seasons. 
+<p style="margin-left:20px;"><em>November 30, 2016</em></p>
+<p style="margin-left:20px;">On August 26, 2016, the U.S. Centers for Disease Control and Prevention (CDC) published the annual recommendations of the Advisory Committee on Immunization Practices (ACIP) on the prevention and control of influenza with vaccines. As per the updated recommendations, <strong>Live Attenuated Influenza Vaccine (LAIV) is not recommended for use in the 2016-17 influenza season.</strong> This was due to the demonstrated low effectiveness against influenza A(H1N1)pdm09 in the United States during the 2013-14 and 2015-16 seasons. 
     <a title="Continue Reading Article: ACIP Recommends Against Use of Live Attenuated Influenza Vaccine (FluMist Quadrivalent Vaccine)"
 	href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=12884907347">Continue Reading</a>
 </p>
 
-<br/>
+<hr/>
 <h3>National Influenza Vaccination Week</h3>
-<p><em>November 15, 2016</em></p>
-<p>National Influenza Vaccination Week is an annual observance from December 5-9 promoting the protection the flu vaccine provides. Using tools from           
+<p style="margin-left:20px;"><em>November 15, 2016</em></p>
+<p style="margin-left:20px;">National Influenza Vaccination Week is an annual observance from December 5-9 promoting the protection the flu vaccine provides. Using tools from           
     <a title="Influenza Information from DSHS Immunization Unit"  href="http://www.dshs.texas.gov/immunize/flu.shtm">DSHS Immunization Unit</a>,           
     <a title="Texas DSHS Flu Website"  href="http://www.texasflu.org/">TexasFlu.org</a>, and      
 <a title="CDC National Influenza Vaccination Week Page"  href="http://www.cdc.gov/flu/nivw/">the CDC</a> you can promote healthy flu-prevention strategies like the flu vaccine.</p>
 
-<br/>
+<hr/>
 <h3>Pentacel&#174; Vaccine Delay</h3>
-<p><em>December 1, 2015</em></p>
-<p>The Texas Vaccines for Children (TVFC) Program was notified on November 30, 2015, by the Centers for Disease Control and Prevention regarding a temporary manufacturing delay of Sanofi Pastuer's Pentacel&#174; vaccine (Diphtheria and Tetanus Toxoids and Acellular Pertussis Adsorbed, Inactivated Poliovirus and Haemophilus b Conjugate Vaccine). The vaccine delay will result in immediate vaccine allocation of this project to all VFC programs nationwide. The vaccine delay is anticipated to last through the summer of 2016.</p>
-<p>In order to ensure that all TVFC providers have access to this vaccine over the next few months, TVFC provider Maximum Stock Levels (MSLs) for Pentacel&#174; will be reduced immediately. However, further vaccine allocation reductions could be implemented based on manufacture and CDC guidance. </p>
-<p>Options to reduce the use of Pentacel&#174; include the use of single vaccines for some populations and the use of alternative combination vaccines. Providers should continue to follow the recommended immunization schedule and ensure that patients receive all recommended doses of DTaP, Hib, and polio vaccines. </p>
-<p>For additional information, please see the following documents:</p>
+<p style="margin-left:20px;"><em>December 1, 2015December 1, 2015</em></p>
+<p style="margin-left:20px;">The Texas Vaccines for Children (TVFC) Program was notified on November 30, 2015, by the Centers for Disease Control and Prevention regarding a temporary manufacturing delay of Sanofi Pastuer's Pentacel&#174; vaccine (Diphtheria and Tetanus Toxoids and Acellular Pertussis Adsorbed, Inactivated Poliovirus and Haemophilus b Conjugate Vaccine). The vaccine delay will result in immediate vaccine allocation of this project to all VFC programs nationwide. The vaccine delay is anticipated to last through the summer of 2016.</p>
+<p style="margin-left:20px;">In order to ensure that all TVFC providers have access to this vaccine over the next few months, TVFC provider Maximum Stock Levels (MSLs) for Pentacel&#174; will be reduced immediately. However, further vaccine allocation reductions could be implemented based on manufacture and CDC guidance. </p>
+<p style="margin-left:20px;">Options to reduce the use of Pentacel&#174; include the use of single vaccines for some populations and the use of alternative combination vaccines. Providers should continue to follow the recommended immunization schedule and ensure that patients receive all recommended doses of DTaP, Hib, and polio vaccines. </p>
+<p style="margin-left:20px;">For additional information, please see the following documents:</p>
 <ul>            
     <li>                 
 		<a title="Texas Vaccines for Children Program: Pentacel&#174; Supply Limited"  href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=8590003620">Texas Vaccines for Children Program: Pentacel&#174; Supply Limited (PDF)</a>
@@ -39,6 +40,7 @@
 
 <hr/>
 <h2>Informational Microsites</h2>
+<hr/>
 <p>            
     <a title="CollegeVaccineRequirements.com - Your source for information on MCV4 vaccine requirements"  href="http://CollegeVaccineRequirements.com"  target="_blank">                 
 	<img title="CollegeVaccineRequirements"  alt="CollegeVaccineRequirements"  src="/uploadedImages/Content/Prevention_and_Preparedness/immunize/images/collegevaccines.jpg"  border="0" />  </a>            
@@ -94,28 +96,6 @@
 		</tr>
 	</tbody>
 </table>
-<style type="text/css">
-    .imm-nav-item {
-	background-color:#39598A;
-	display: inline-block;
-	margin-bottom:20px;
-	margin-right:2%;
-	min-width:85px;
-	padding:2% 2%;
-	text-align:center;
-	width: 13%;
-	}
-	.imm-nav-item:hover {
-	background-color:#496FAB;
-	box-shadow: 0px 0px 7px grey;
-	}
-	.imm-nav-item p {
-	color:#ffffff;
-	display: table-cell;
-	font-size:14px;
-	text-decoration:none;
-	vertical-align: middle;
-	}
-</style>
+<hr/>
 
 <?php include '/home/codio/workspace/includes/footer.html' ?>
