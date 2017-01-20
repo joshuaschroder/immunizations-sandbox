@@ -1,7 +1,7 @@
 <?php
 	$title= "Advisory No. 24: Updated Recommendations for Use of Pneumococcal Vaccines in Adults Aged &#8805; 65 Years" ;
 	include '/home/codio/workspace/includes/header.html';
-    include '/home/codio/workspace/includes/menus/imm_old_menu.html'; 
+    include '/home/codio/workspace/includes/menus/imm_menu.html'; 
 ?>
 
 <hr/>

@@ -1,5 +1,5 @@
 <?php
-	$title= "A Sample Progam Homepage with a News Item Layout" ;
+	$title= "News Item Layout - Sample Program Homepage" ;
 	include '/home/codio/workspace/includes/header.html';
     include '/home/codio/workspace/includes/menus/sample_menu.html'; 
 ?>

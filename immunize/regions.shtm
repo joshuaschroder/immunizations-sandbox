@@ -4,112 +4,137 @@
     include '/home/codio/workspace/includes/menus/imm_menu.html'; 
 ?>
 
-<table class="border" style="width:100%; margin-top:25px;">
-	<tr>
-		<td style="width:50%; padding: 10px;">
-			<h2><a title="HSR 1-Lubbock" href="http://www.dshs.texas.gov/region1/default.shtm">HSR 1-Lubbock</a></h2>
-			<p>
-				<strong>Leigh Johnston</strong><br/>
-				Department of State Health Services<br/>
-				Immunizations - Health Service Region 1 <br/>
-				6302 Iola Avenue<br/>
-				Lubbock, Texas 79424 | <a title="Map to Health Service Region 1" href="https://goo.gl/maps/9ZFgcxuMpPJ2">map</a> <br/>
-				Phone: (806) 744-3577<br/>
-				Fax: (806) 783-6435
-			</p>
-		</td>
-		<td style="width:50%; padding: 10px;">
-			<h2><a title="HSR 2/3-Arlington" href="/region2-3/default.shtm">HSR 2/3-Arlington</a></h2>
-			<p>
-				<strong>Cheryl Millican</strong><br/>
-				Department of State Health Services<br/>
-				Health Service Region 2/3 <br/>
-				1301 S. Bowen St., Ste. 200<br/>
-				Arlington, TX 76013 | <a title="Map to Health Service Region 2/3" href="https://goo.gl/maps/Xy33ydh46aC2">map</a><br/>
-				Phone: (817) 264-4795<br/>
-				Fax: (817) 264-4800
-			</p>
-		</td>
-	</tr>
-	<tr>
-		<td style="width:50%; padding: 10px;">
-			<h2><a title="HSR 4/5N-Tyler" href="/region4-5/default.shtm">HSR 4/5N-Tyler</a></h2>
-			<p>
-				<strong>Tammi Little</strong><br/>
-				Department of State Health Services<br/>
-				Health Service Region 4/5N<br/>
-				1517 W Front Street<br/>
-				Tyler, TX 75702 | <a title="Map to Health Service Region 4/5N" href="https://goo.gl/maps/PgGFC29b6XM2">map</a><br/>
-				Phone: (903) 533-5266<br/>
-				Fax: (903) 533-9502
-			</p>
-		</td>
-		<td style="width:50%; padding: 10px;">
-			<h2><a title="HSR 6/5S-Houston" href="/region6-5/default.shtm">HSR 6/5S-Houston</a></h2>
-			<p>
-				<strong>Stephanie P. Martin</strong><br/>
-				Department of State Health Services<br/>
-				Health Service Region 6/5S <br/>
-				5425 Polk Street, Ste. J<br/>
-				Houston, TX 77023 | <a title="Map to Health Service Region 6/5S" href="https://goo.gl/maps/4AezNvxrV6F2">map</a><br/>
-				Phone: (713) 767-3411<br/>
-				Fax: (713) 767-3889
-			</p>
-		</td>
-	</tr>
-	<tr>
-		<td style="width:50%; padding: 10px;">
-			<h2><a title="HSR 7-Temple" href="/region7/default.shtm">HSR 7-Temple</a></h2>
-			<p>
-				<strong>Diane Romnes </strong><br/>
-				Department of State Health Services<br/>
-				Health Service Region 7 <br/>
-				2408 S. 37th Street<br/>
-				Temple, TX 76504 | <a title="Map to Health Service Region 7" href="https://goo.gl/maps/JxRD3BFqVj82">map</a><br/>
-				Phone: (254) 778-6744<br/>
-				Fax: (254) 771-2612
-			</p>
-		</td>
-		<td style="width:50%; padding: 10px;">
-			<h2><a title="HSR 8-Uvalde" href="/region8/default.shtm">HSR 8-Uvalde</a></h2>
-			<p>
-				<strong>Laurie Henefey</strong><br/>
-				Department of State Health Services<br/>
-				Immunizations - Health Service Region 8<br/>
-				2201 East Main, Suite A<br/>
-				Uvalde, Texas 78801 | <a title="Map to Health Service Region 8" href="https://goo.gl/maps/yMDwsS9SUc72">map</a><br/>
-				Phone: (830) 591-4386<br/>
-				Fax: (830) 278-1831 
-			</p>
-		</td>
-	</tr>
-	<tr>
-		<td style="width:50%; padding: 10px;">
-			<h2><a title="HSR 9/10-El Paso" href="/region9-10/default.shtm">HSR 9/10-El Paso</a></h2>
-			<p>
-				<strong>Donna Anders</strong><br/>
-				Department of State Health Services<br/>
-				Health Service Region 9/10 <br/>
-				2301 N. Big Spring, Ste. 300<br/>
-				Midland, TX 79705 | <a title="Map to Health Service Region 9/10" href="https://goo.gl/maps/cuiK93c4a2m">map</a><br/>
-				Office: (432) 571-4133<br/>
-				Fax: (432) 571-4153
-			</p>
-		</td>
-		<td style="width:50%; padding: 10px;">
-			<h2><a title="HSR 11-Harlingen" href="/region11/default.shtm">HSR 11-Harlingen</a></h2>
-			<p>
-				<strong>Roman Abeyta</strong><br/>
-				Department of State Health Services<br/>
-				Health Service Region 11<br/>
-				601 W Sesame Drive<br/>
-				Harlingen, TX 78550 | <a title="Health Service Region 11" href="https://goo.gl/maps/CztqGCpJQvp">map</a><br/>
-				Phone: (956) 421-5546<br/>
-				Fax: (956) 443-3216
-			</p>
-		</td>
-	</tr>
+<table class="border"  style="width:100%; margin-top:25px;"  dropzone="copy">    
+    <tbody>    
+        <tr>      
+            <td style="width: 50%; padding: 10px; cursor: default;">        
+                <h2><a title="HSR 1-Lubbock" href="http://www.dshs.texas.gov/region1/default.shtm" draggable="false">HSR 1-Lubbock</a></h2>        
+                <p>
+					<strong>Leigh Johnston</strong>
+                    <br/>Department of State Health Services
+                    <br/>Immunizations - Health Service Region 1 
+                    <br/>6302 Iola Avenue
+                    <br/>Lubbock, Texas 79424 |           
+					<a title="Map to Health Service Region 1"  href="https://goo.gl/maps/9ZFgcxuMpPJ2"  draggable="false">map</a>
+				</p>        
+                <p>
+					Phone: (806) 744-3577
+					<br/>Fax: (806) 783-6435
+				</p>
+			</td>      
+			<td style="width: 50%; padding: 10px; cursor: default;">        
+				<h2><a title="HSR 2/3-Arlington" href="/region2-3/default.shtm" draggable="false">HSR 2/3-Arlington</a></h2>        
+				<p>
+					<strong>Cheryl Millican</strong>
+					<br/>Department of State Health Services
+					<br/>Health Service Region 2/3 
+					<br/>1301 S. Bowen St., Ste. 200
+					<br/>Arlington, TX 76013 |           
+					<a title="Map to Health Service Region 2/3"  href="https://goo.gl/maps/Xy33ydh46aC2"  draggable="false">map</a>
+				</p>        
+				<p>
+					Phone: (817) 264-4795
+					<br/>Fax: (817) 264-4800
+				</p>
+			</td>
+		</tr>    
+		<tr>      
+			<td style="width: 50%; padding: 10px; cursor: default;">        
+				<h2><a title="HSR 4/5N-Tyler" href="/region4-5/default.shtm" draggable="false">HSR 4/5N-Tyler</a></h2>        
+				<p>
+					<strong>Tammi Little</strong>
+					<br/>Department of State Health Services
+					<br/>Health Service Region 4/5N
+					<br/>1517 W Front Street
+					<br/>Tyler, TX 75702 |           
+					<a title="Map to Health Service Region 4/5N"  href="https://goo.gl/maps/PgGFC29b6XM2"  draggable="false">map</a>
+				</p>        
+				<p>
+					Phone: (903) 533-5266
+					<br/>Fax: (903) 533-9502
+				</p>
+			</td>      
+			<td style="width: 50%; padding: 10px; cursor: default;">        
+				<h2><a title="HSR 6/5S-Houston" href="/region6-5/default.shtm" draggable="false">HSR 6/5S-Houston</a></h2>        
+				<p>
+					<strong>Stephanie P. Martin</strong>
+					<br/>Department of State Health Services
+					<br/>Health Service Region 6/5S 
+					<br/>5425 Polk Street, Ste. J
+					<br/>Houston, TX 77023 |           
+					<a title="Map to Health Service Region 6/5S"  href="https://goo.gl/maps/4AezNvxrV6F2"  draggable="false">map</a>
+				</p>        
+				<p>
+					Phone: (713) 767-3410
+					<br/>Fax: (713) 767-3889
+				</p>
+			</td>
+		</tr>    
+		<tr>      
+			<td style="width: 50%; padding: 10px; cursor: default;">        
+				<h2><a title="HSR 7-Temple" href="/region7/default.shtm" draggable="false">HSR 7-Temple</a></h2>        
+				<p>
+					<strong>Diane Romnes </strong>
+					<br/>Department of State Health Services
+					<br/>Health Service Region 7 
+					<br/>2408 S. 37th Street
+					<br/>Temple, TX 76504 |           
+					<a title="Map to Health Service Region 7"  href="https://goo.gl/maps/JxRD3BFqVj82"  draggable="false">map</a>
+				</p>        
+				<p>
+					Phone: (254) 778-6744
+					<br/>Fax: (254) 771-2612
+				</p>
+			</td>      
+			<td style="width: 50%; padding: 10px; cursor: default;">        
+				<h2><a title="HSR 8-Uvalde" href="/region8/default.shtm" draggable="false">HSR 8-Uvalde</a></h2>        
+				<p>
+					<strong>Laurie Henefey</strong>
+					<br/>Department of State Health Services
+					<br/>Immunizations - Health Service Region 8
+					<br/>2201 East Main, Suite A
+					<br/>Uvalde, Texas 78801 |           
+					<a title="Map to Health Service Region 8"  href="https://goo.gl/maps/yMDwsS9SUc72"  draggable="false">map</a>
+				</p>        
+				<p>
+					Phone: (830) 591-4386
+					<br/>Fax: (830) 278-1831
+				</p>
+			</td>
+		</tr>    
+		<tr>      
+			<td style="width: 50%; padding: 10px; cursor: default;">        
+				<h2><a title="HSR 9/10-El Paso" href="/region9-10/default.shtm" draggable="false">HSR 9/10-El Paso</a></h2>        
+				<p>
+					<strong>Donna Anders</strong>
+					<br/>Department of State Health Services
+					<br/>Health Service Region 9/10 
+					<br/>2301 N. Big Spring, Ste. 300
+					<br/>Midland, TX 79705 |           
+					<a title="Map to Health Service Region 9/10"  href="https://goo.gl/maps/cuiK93c4a2m"  draggable="false">map</a>
+				</p>        
+				<p>
+					Phone: (432) 571-4133
+					<br/>Fax: (432) 571-4153
+				</p>
+			</td>      
+			<td style="width: 50%; padding: 10px; cursor: default;">        
+				<h2><a title="HSR 11-Harlingen" href="/region11/default.shtm" draggable="false">HSR 11-Harlingen</a></h2>        
+				<p>
+					<strong>Rebecca Lopez</strong>
+					<br/>Department of State Health Services
+					<br/>Health Service Region 11
+					<br/>601 W Sesame Drive
+					<br/>Harlingen, TX 78550 |           
+					<a title="Health Service Region 11"  href="https://goo.gl/maps/CztqGCpJQvp"  draggable="false">map</a>
+				</p>        
+				<p>
+					Phone: (956) 421-5546
+					<br/>Fax: (956) 443-3216
+				</p>
+			</td>
+		</tr>
+	</tbody>
 </table>
-
 
 <?php include '/home/codio/workspace/includes/footer.html' ?>

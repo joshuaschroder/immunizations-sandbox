@@ -1,7 +1,7 @@
 <?php
 	$title= "Vaccine Information Statements (VIS)  - Immunizations Unit" ;
 	include '/home/codio/workspace/includes/header.html';
-    include '/home/codio/workspace/includes/menus/imm_old_menu.html'; 
+    include '/home/codio/workspace/includes/menus/imm_menu.html'; 
 ?>
 
 <p>Vaccine Information Statements (VIS) are information sheets produced by the Centers for Disease Control and Prevention (CDC) that explain to vaccine recipients, their parents, or their legal representatives both the benefits and risks of a vaccine.</p>

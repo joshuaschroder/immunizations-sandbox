@@ -1,7 +1,7 @@
 <?php
 	$title= "Advisory No. 14. Updated Recommendations for the Use of HPV Vaccine" ;
 	include '/home/codio/workspace/includes/header.html';
-	include '/home/codio/workspace/includes/menus/imm_old_menu.html'; 
+	include '/home/codio/workspace/includes/menus/imm_menu.html'; 
 ?>
 <hr/>
 <p style="text-align:right;"><a title="Print Version of Vaccine Advisory 14"  href="/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=60062">Print Version of Vaccine Advisory 14 (PDF)</a></p>

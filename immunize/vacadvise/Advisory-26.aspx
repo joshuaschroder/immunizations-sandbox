@@ -1,7 +1,7 @@
 <?php
 	$title= "Advisory No. 26 - Updated Recommendations for Use of Serogroup B Meningococcal Vaccines" ;
 	include '/home/codio/workspace/includes/header.html';
-	include '/home/codio/workspace/includes/menus/imm_old_menu.html'; 
+	include '/home/codio/workspace/includes/menus/imm_menu.html'; 
 ?>
 
 <hr/>

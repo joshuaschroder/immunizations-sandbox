@@ -1,7 +1,7 @@
 <?php
 	$title= "Advisory No. 22: New Recommendations on the Use of Quadrivalent Human Papillomavirus Vaccine in Males" ;
 	include '/home/codio/workspace/includes/header.html';
-    include '/home/codio/workspace/includes/menus/imm_old_menu.html'; 
+    include '/home/codio/workspace/includes/menus/imm_menu.html'; 
 ?>
 
 <hr/>

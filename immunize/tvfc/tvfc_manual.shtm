@@ -1,0 +1,178 @@
+<?php
+	$title= "Texas Vaccines for Children (TVFC) 2009 Operations Manual" ;
+	include '/home/codio/workspace/includes/header.html';
+    include '/home/codio/workspace/includes/menus/tvfc_menu.html'; 
+?>
+
+<hr/>
+<h2>Table of Contents</h2>
+<ul>
+	<li><a title="Operations Manual, by Chapter" href="#manual">Operations Manual, by Chapter</a></li>
+	<li><a title="Operations Manual Appendices" href="#appendices">Operations Manual Appendices</a></li>
+	<li><a title="Related Publications" href="#pubs">Related Publications</a></li>
+	<li><a title="Recommended Immunization Schedules" href="#schedules">Recommended Immunization Schedules</a></li>
+</ul>
+
+<a class="bookmark" title="manual" name="manual"></a>
+<hr/>
+<h2>Operations Manual, by Chapter</h2>
+<table class="zebraBorder layout" summary="sorted by section number, ascending" style="width:75%;">
+	<caption>Texas Vaccines for Children Operations Manual, by Chapter</caption>
+	<thead>
+		<tr>
+			<th scope="col" style="width:20%;">Section</th>
+			<th scope="col" style="width:60%;">Title</th>
+			<th scope="col" style="width:20%;">Revision</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>1</td>
+			<td><a title="Section One: General Information" href="/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=25038">General Information (PDF)</a></td>
+			<td>12/2017</td>
+		</tr>
+		<tr>
+			<td>2</td>
+			<td><a title="Section Two: Standards and Policies" href="/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=25041">Standards and Policies (PDF)</a></td>
+			<td>02/2009</td>
+		</tr>
+		<tr>
+			<td>3</td>
+			<td><a title="Section Three: Program Evaluation" href="/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=25044">Program Evaluation (PDF)</a></td>
+			<td>02/2009</td>
+		</tr>
+		<tr>
+			<td>4</td>
+			<td><a title="Section Four: Data Reporting" href="/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=25047">Data Reporting (PDF)</a></td>
+			<td>02/2009</td>
+		</tr>
+		<tr>
+			<td>5</td>
+			<td><a title="Section Five: Miscellaneous References" href="/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=25049">Miscellaneous References (PDF)</a></td>
+			<td>02/2009</td>
+		</tr>
+	</tbody>
+</table>
+
+
+<a class="bookmark" title="appendices" name="appendices"></a>
+<hr/>
+<h2>Operations Manual Appendices</h2>
+<table class="zebraBorder layout" summary="sorted alphabetically by appendix section, ascending" style="width:75%;">
+	<caption>Texas Vaccines for Children Operations Manual Appendices</caption>
+	<thead>
+		<tr>
+			<th scope="col" style="width:20%;">Appendix</th>
+			<th scope="col" style="width:80%;">Publication Title</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Appendix A</td>
+			<td><a title="Vaccine Ordering Instructions (PDF)" href="/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=25025">Vaccine Ordering Instructions (PDF)</a></td>
+		</tr>
+		<tr>
+			<td>Appendix K</td>
+			<td><a title="TVFC Abbreviations (PDF)" href="/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=25027">TVFC Abbreviations (PDF)</a></td>
+		</tr>
+		<tr>
+			<td>Appendix L</td>
+			<td><a title="Vaccine Storage Contingency Plan" href="/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=25028">Vaccine Storage Contingency Plan</a></td>
+		</tr>
+		<tr>
+			<td>Appendix M</td>
+			<td><a title="Quality Assurance Checklist [for EC-68 & EC-33] (PDF)" href="/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=25029">Quality Assurance Checklist [for EC-68 & EC-33] (PDF)</a></td>
+		</tr>
+		<tr>
+			<td>Appendix N</td>
+			<td><a title="VFC Vaccine Borrowing Report (PDF)" href="/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=25030">VFC Vaccine Borrowing Report (PDF)</a></td>
+		</tr>		
+		<tr>
+			<td>Appendix P</td>
+			<td><a title="Provider Compliance (PDF)" href="/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=25031">Provider Compliance (PDF)</a></td>
+		</tr>
+	</tbody>
+</table>
+
+
+<a class="bookmark" title="pubs" name="pubs"></a>
+<hr/>
+<h2>Related Publications</h2>
+<table class="zebraBorder layout" summary="sorted alphabetically by appendix section, ascending" style="width:75%;">
+	<caption>Publications Related to Texas Vaccines for Children Operations</caption>
+	<thead>
+		<tr>
+			<th scope="col" style="width:20%;">Stock Number</th>
+			<th scope="col" style="width:80%;">Publication Title</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>E6-102</td>
+			<td><a title="TVFC Provider Enrollment Form" href="/immunize/tvfc/publications.aspx#provider-enrollment">TVFC Provider Enrollment Form</a></td>
+		</tr>
+		<tr>
+			<td>C-10</td>
+			<td><a title="Patient Eligibility Screening Form" href="/immunize/tvfc/publications.aspx#patient-eligibility">Patient Eligibility Screening Form</a></td>
+		</tr>
+		<tr>
+			<td>F11-12842</td>
+			<td><a title="Adult Eligibility Screening Record" href="/immunize/tvfc/publications.aspx#patient-eligibility">Adult Eligibility Screening Record</a></td>
+		</tr>
+		<!--tr>
+			<td>EC-33</td>
+			<td><a title="Monthly Biological Report" href="/immunize/tvfc/publications.aspx#C-33">Monthly Biological Report</a></td>
+		</tr-->
+		<tr>
+			<td>EC-105-FC</td>
+			<td><a title="Temperature Recording Form (Freezer-Celsius)" href="/immunize/tvfc/publications.aspx#vaccine-inventory">Temperature Recording Form (Freezer-Celsius)</a></td>
+		</tr>
+		<tr>
+			<td>EC-105-FF</td>
+			<td><a title="Temperature Recording Form (Freezer - Fahrenheit)" href="/immunize/tvfc/publications.aspx#vaccine-inventory">Temperature Recording Form (Freezer - Fahrenheit)</a></td>
+		</tr>
+		<tr>
+			<td>EC-105-RC</td>
+			<td><a title="Temperature Recording Form" href="/immunize/tvfc/publications.aspx#vaccine-inventory">Temperature Recording Form</a></td>
+		</tr>
+		<tr>
+			<td>EC-105-RF</td>
+			<td><a title="Temperature Recording Form" href="/immunize/tvfc/publications.aspx#vaccine-inventory">Temperature Recording Form</a></td>
+		</tr>
+		<tr>
+			<td>C-76</td>
+			<td><a title="VAERS Reporting Form" href="/immunize/tvfc/publications.aspx#vaccine-inventory">VAERS Reporting Form</a></td>
+		</tr>
+		<tr>
+			<td>C-88</td>
+			<td><a title="Daily Tally Sheet for Immunizations" href="/immunize/tvfc/publications.aspx#vaccine-inventory">Daily Tally Sheet for Immunizations</a></td>
+		</tr>
+		<tr>
+			<td>EC-68</td>
+			<td><a title="Biological Order Form" href="/immunize/tvfc/publications.aspx#vaccine-inventory">Biological Order Form</a></td>
+		</tr>
+		<!--tr>
+			<td>EC-69</td>
+			<td><a title="Vaccine Loss Report" href="/immunize/tvfc/publications.aspx#EC-69">Vaccine Loss Report</a></td>
+		</tr-->
+		<tr>
+			<td>F11-11443</td>
+			<td><a title="Provider Withdrawal Form" href="/immunize/tvfc/publications.aspx#provider-enrollment">Provider Withdrawal Form</a></td>
+		</tr>
+	</tbody>
+</table>
+
+<a class="bookmark" title="schedules" name="schedules"></a>
+<hr/>
+<h2>Recommended Immunization Schedules</h2>
+<ul>
+	<li><a title="Childhood Immunization Schedule for Persons 0&#8211;18 years" href="https://www.cdc.gov/vaccines/schedules/hcp/imz/child-adolescent-shell.html">Childhood Immunization Schedule for Persons 0&#8211;18 years</a></li>
+	<li><a title=" Catch-up Immunizations Schedule" href="https://www.cdc.gov/vaccines/schedules/hcp/imz/catchup-shell.html"> Catch-up Immunizations Schedule</a></li>
+	<li><a title="Recommended Adult Immunization Schedule" href="https://www.cdc.gov/vaccines/schedules/hcp/imz/adult-shell.html">Recommended Adult Immunization Schedule</a></li>
+</ul>
+
+
+
+
+
+<?php include '/home/codio/workspace/includes/footer.html' ?>

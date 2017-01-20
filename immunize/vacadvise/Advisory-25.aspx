@@ -1,7 +1,7 @@
 <?php
 	$title= "Advisory No. 25 - Updated Recommendations for Use of Human Papillomavirus (HPV) 9-Valent Vaccine, Recombinant" ;
 	include '/home/codio/workspace/includes/header.html';
-    include '/home/codio/workspace/includes/menus/imm_old_menu.html'; 
+    include '/home/codio/workspace/includes/menus/imm_menu.html'; 
 ?>
 
 <hr/>

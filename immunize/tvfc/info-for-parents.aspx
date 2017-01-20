@@ -24,6 +24,9 @@
 <p><sup>1.</sup> Though children whose insurance pays for vaccines do not qualify for TVFC vaccine, CHIP children do qualify by special arrangement.</p>
 <p><sup>2. </sup> Underinsured children must be seen by a FQHC or deputized clinic.</p>
 
+<div style="width: 95%; padding: 15px; margin-bottom:25px; background-color:#EEE;">
+	<strong><em>For information on low-cost adult immunizations, please see the <a title="Adult Safety Net Program" href="/immunize/ASN/">Adult Safety Net Program</a></em></strong>.
+</div>
 
 <hr/>
 <a class="bookmark" title="providers" name="providers"></a>
@@ -32,50 +35,52 @@
 <p>The following map provides information on local health departments, federally qualified health centers, and rural health clinics enrolled in the TVFC program.</p>
 <p>For information on additional provider locations, please call the DSHS Immunizations Unit at <strong>(800) 252-9152</strong> and inquire about how to locate private providers near you who participate in the TVFC program.</p>
 
-<div class='tableauPlaceholder' id='viz1480716328406' style='position: relative'>
-	<noscript>
-		<a href='#'><img alt='Dashboard 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;TV&#47;TVFC-Public-Providers&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a>
-	</noscript>
-	<object class='tableauViz'  style='display:none;'>
-		<param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> 
-		<param name='site_root' value='' />
-		<param name='name' value='TVFC-Public-Providers&#47;Dashboard1' />
-		<param name='tabs' value='no' />
-		<param name='toolbar' value='yes' />
-		<param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;TV&#47;TVFC-Public-Providers&#47;Dashboard1&#47;1.png' /> 
-		<param name='animate_transition' value='yes' />
-		<param name='display_static_image' value='yes' />
-		<param name='display_spinner' value='yes' />
-		<param name='display_overlay' value='yes' />
-		<param name='display_count' value='no' />
-	</object>
-</div>                
-<script type='text/javascript'>
-	var divElement = document.getElementById('viz1480716328406');
-	var vizElement = divElement.getElementsByTagName('object')[0];
-	vizElement.style.width='779px';vizElement.style.height='619px';
-	var scriptElement = document.createElement('script');
-	scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
-	vizElement.parentNode.insertBefore(scriptElement, vizElement);
-</script>
+<div style="width:765px; height:540px; overflow:hidden;">
+	<div class='tableauPlaceholder' id='viz1480716328406' style='position: relative;'>
+		<noscript>
+			<a href='#'><img alt='Dashboard 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;TV&#47;TVFC-Public-Providers&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a>
+		</noscript>
+		<object class='tableauViz'  style='display:none;'>
+			<param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> 
+			<param name='site_root' value='' />
+			<param name='name' value='TVFC-Public-Providers&#47;Dashboard1' />
+			<param name='tabs' value='no' />
+			<param name='toolbar' value='yes' />
+			<param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;TV&#47;TVFC-Public-Providers&#47;Dashboard1&#47;1.png' /> 
+			<param name='animate_transition' value='yes' />
+			<param name='display_static_image' value='yes' />
+			<param name='display_spinner' value='yes' />
+			<param name='display_overlay' value='yes' />
+			<param name='display_count' value='no' />
+		</object>
+	</div>                
+	<script type='text/javascript'>
+		var divElement = document.getElementById('viz1480716328406');
+		var vizElement = divElement.getElementsByTagName('object')[0];
+		vizElement.style.width='779px';vizElement.style.height='619px';
+		var scriptElement = document.createElement('script');
+		scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
+		vizElement.parentNode.insertBefore(scriptElement, vizElement);
+	</script>
+</div>
 <p><a title="Spreadsheet of TVFC Providers" href="http://www.dshs.texas.gov/immunize/tvfc/docs/TVFC-Public-Providers_06-08-2016.xls">Download Spreadsheet of TVFC Providers (XLS)</a></p>
 <p style="text-align:right" class="small">Geocoding provided by <a title="Texas A&amp;M Geoservices" href="http://geoservices.tamu.edu">Texas A&amp;M Geoservices</a>.</p>
 
 <!--hr/>
-<h2>Who is Eligible?</h2>
-<p>Children 0-18 years of age are eligible if they meet one or more of the following criteria:</p>
-<ul>
+	<h2>Who is Eligible?</h2>
+	<p>Children 0-18 years of age are eligible if they meet one or more of the following criteria:</p>
+	<ul>
 	<li>Eligible for participation in the <a title="Medicaid program" href="https://yourtexasbenefits.hhsc.texas.gov/programs/health/child/childrens-medicaid">Medicaid program</a></li>
 	<li>Enrolled in the <a title="Children's Health Insurance Program (CHIP)" href="https://yourtexasbenefits.hhsc.texas.gov/programs/health/child/chip">Children's Health Insurance Program (CHIP)</a> <sup>1</sup></li>
 	<li>American Indians or Alaskan natives</li>
 	<li>Uninsured Children: Children who do not have health insurance</li>
 	<li>Underinsured Children: Children with private insurance but coverage <sup>2</sup>:
-		<ul>
-			<li>Does not include vaccines</li>
-			<li>Only includes select vaccines</li>
-			<li>Caps vaccine coverage at a certain amount</li>
-		</ul>
-	</li>
+<ul>
+<li>Does not include vaccines</li>
+<li>Only includes select vaccines</li>
+<li>Caps vaccine coverage at a certain amount</li>
+</ul>
+</li>
 </ul>
 <p><sup>1.</sup> Though children whose insurance pays for vaccines do not qualify for TVFC vaccine, CHIP children do qualify by special arrangement.</p>
 <p><sup>2. </sup> Underinsured children must be seen by a FQHC or deputized clinic.</p-->

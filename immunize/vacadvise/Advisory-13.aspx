@@ -1,7 +1,7 @@
 <?php
 $title= "Advisory No. 13. Licensure of a New Haemophilus Influenzae Type b (Hib) Vaccine (Hiberix&#174;)" ;
 include '/home/codio/workspace/includes/header.html';
-include '/home/codio/workspace/includes/menus/imm_old_menu.html'; 
+include '/home/codio/workspace/includes/menus/imm_menu.html'; 
 ?>
 
 <hr/>

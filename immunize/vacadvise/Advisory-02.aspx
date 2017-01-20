@@ -1,7 +1,7 @@
 <?php
 	$title= "Advisory No. 2. The 2006-2007 Influenza Season" ;
 	include '/home/codio/workspace/includes/header.html';
-    include '/home/codio/workspace/includes/menus/imm_old_menu.html'; 
+    include '/home/codio/workspace/includes/menus/imm_menu.html'; 
 ?>
 
 <hr/>

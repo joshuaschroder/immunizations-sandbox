@@ -1,7 +1,7 @@
 <?php
 	$title= "Vaccine Advisories" ;
 	include '/home/codio/workspace/includes/header.html';
-    include '/home/codio/workspace/includes/menus/imm_old_menu.html'; 
+    include '/home/codio/workspace/includes/menus/imm_menu.html'; 
 ?>
 
 <p>The Immunizations Unit of the Texas Department of State Health Services is unveiling a new kind of communiqu&#233; to inform our public and private collaborators of the latest vaccine information: <em>The Vaccine Advisory</em>. The goal is to disseminate, in a timely manner, practical information related to vaccines, vaccine-preventable diseases, and the vaccine programs managed by the Immunizations Unit. The Vaccine Advisory will also help clarify how information arising at the national level can impact immunization programs at the state level. Finally, it will provide links to other resources for providers and the public associated with the topic addressed.</p>
@@ -17,6 +17,11 @@
 		</tr>
 	</thead>
 	<tbody>
+		<tr>
+			<td style="padding: 10px 5px;">2016-12-23</td>
+			<td style="padding: 10px 5px;"><a title="Advisory No. 28. CDC Recommends Two HPV Shots for Younger Adolescents - HTML" href="/immunize/vacadvise/Advisory-28.aspx">Advisory No. 28. CDC Recommends Two HPV Shots for Younger Adolescents</a></td>
+			<td style="padding: 10px 5px;"><a title="Advisory No. 28. CDC Recommends Two HPV Shots for Younger Adolescents - PDF" href="/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=12884907973">PDF</a> <span class="small">(466KB)</span></td>
+		</tr>
 		<tr>
 			<td style="padding: 10px 5px;">2016-07-25</td>
 			<td style="padding: 10px 5px;"><a title="Advisory No. 27. Updated Recommendations for Use of Serogroup B Meningococcal Vaccines - HTML" href="/immunize/vacadvise/Advisory-27.aspx">Advisory No. 27. Updated Recommendations for Use of Serogroup B Meningococcal Vaccines</a></td>

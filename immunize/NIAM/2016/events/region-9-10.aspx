@@ -1,7 +1,7 @@
 <?php
 	$title= "2016 National Immunization Awareness Month (NIAM) in Region 9/10" ;
 	include '/home/codio/workspace/includes/header.html';
-    include '/home/codio/workspace/includes/menus/imm_old_menu.html'; 
+    include '/home/codio/workspace/includes/menus/imm_menu.html'; 
 ?>
 
 <p><em>There are currently no NIAM events scheduled in Region 9/10.</em></p>

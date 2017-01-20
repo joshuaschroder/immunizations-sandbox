@@ -1,0 +1,16 @@
+# created by LinkChecker at 2017-01-11 22:50:14+000
+# Get the newest version at http://wummel.github.io/linkchecker/
+# Write comments and bugs to https://github.com/wummel/linkchecker/issues
+# Support this project at http://wummel.github.io/linkchecker/donations.html
+urlname;parentname;baseref;result;warningstring;infostring;valid;url;line;column;name;dltime;dlsize;checktime;cached;level;modified
+http://dshs/mod/resource/view.php?id=90;http://www.vaccineeducationonline.org/mod/page/view.php?id=91;;Hostname not found;;;False;http://dshs/mod/resource/view.php?id=90;91;111;Minimum of 1024 by 768;-1;-1;0.0319449901581;0;2;
+http://dshs/mod/resource/view.php?id=56;http://www.vaccineeducationonline.org/mod/page/view.php?id=91;;Hostname not found;;;False;http://dshs/mod/resource/view.php?id=56;91;287;Must be disabled;-1;-1;0.0196089744568;0;2;
+http://www.dshs.state.tx.us/policy.shtm;http://www.vaccineeducationonline.org/mod/url/view.php?id=37;;200 OK;HTTP 301 (moved permanent) encountered: you should update this link.;Redirected to `http://www.dshs.texas.gov/policy.shtm'.;True;http://www.dshs.texas.gov/policy.shtm;7;206;Continue;0.290615081787;31419;1.03678917885;0;2;2017-01-11 22:50:07.000000Z
+http://www.vaccineeducationonline.org/mod/glossary/view.php?id=19&mode=cat&hook=4;http://www.vaccineeducationonline.org;;404 Not Found;;;False;http://www.vaccineeducationonline.org/mod/glossary/view.php?id=19&mode=cat&hook=4;89;143;Courses Available;-1;-1;2.39728593826;0;1;
+http://www.vaccineeducationonline.org/mod/forum/search.php;http://www.vaccineeducationonline.org/mod/forum/view.php?id=551;;404 Not Found;;;False;http://www.vaccineeducationonline.org/mod/forum/search.php;74;81;;-1;-1;1.09913802147;0;2;
+http://www.vaccineeducationonline.org/mod/page/view.php?id=90;http://www.vaccineeducationonline.org/mod/resource/view.php?id=90;;404 Not Found;;;False;http://www.vaccineeducationonline.org/mod/page/view.php?id=90;7;206;Continue;-1;-1;1.46905517578;0;3;
+javascript:Recaptcha.reload();http://www.vaccineeducationonline.org/login/signup.php;;;Javascript URL ignored.;;True;javascript:Recaptcha.reload();526;6;Get another CAPTCHA;-1;-1;0;0;3;
+javascript:Recaptcha.switch_type('audio');http://www.vaccineeducationonline.org/login/signup.php;;;Javascript URL ignored.;;True;javascript:Recaptcha.switch_type(%27audio%27);527;38;Get an audio CAPTCHA;-1;-1;0;0;3;
+javascript:Recaptcha.switch_type('image');http://www.vaccineeducationonline.org/login/signup.php;;;Javascript URL ignored.;;True;javascript:Recaptcha.switch_type(%27image%27);528;38;Get an image CAPTCHA;-1;-1;0;0;3;
+http://www.google.com/recaptcha/api/image?c=03AHJ_VuspsWldOjSc_p6k1jdf_VUIwW1gwHTcVoEBP5Nql3kaE80IWraw9kwsPw9Qbc8n0MRn6mHPoyzYsauBe3wUQj1s-uVhLY3EdoZUkvnqN_YIWV1ZK-D3ybdvfHuANg1u-I8EaACqI9gg_3YAKTcaDYbxo8XF-1aR7wdsiZDafbSLdy4YxCpWp9_4VsggnGxTzwtpKapWqCfi1WffA8rGizRzsJHSYg;http://www.vaccineeducationonline.org/login/signup.php;;200 OK;URL length 272 is longer than 255.;;True;http://www.google.com/recaptcha/api/image?c=03AHJ_VuspsWldOjSc_p6k1jdf_VUIwW1gwHTcVoEBP5Nql3kaE80IWraw9kwsPw9Qbc8n0MRn6mHPoyzYsauBe3wUQj1s-uVhLY3EdoZUkvnqN_YIWV1ZK-D3ybdvfHuANg1u-I8EaACqI9gg_3YAKTcaDYbxo8XF-1aR7wdsiZDafbSLdy4YxCpWp9_4VsggnGxTzwtpKapWqCfi1WffA8rGizRzsJHSYg;532;44;reCAPTCHA;-1;5007;0.312082052231;0;3;
+# Stopped checking at 2017-01-11 22:50:25+000 (10 seconds)

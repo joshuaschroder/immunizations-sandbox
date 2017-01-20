@@ -7,7 +7,7 @@
 <hr/>
 <h2>Take A Stand! Use Standing Orders to Vaccinate Adults - Free Workshops</h2>
 <p><em>January 15, 2016</em></p>
-<p>One of the strategies for increasing adult immunization rates, both nationally and in Texas, is to have standing orders implemented with your medical practice.  In February, the Immunization Action Coalition will be hosting three four-hour workshops in Texas.  The workshops will provide information on the benefits of having standing orders implemented and how they can be implemented in a healthcare provider's office.  The DSHS Immunization Branch encourages healthcare providers (clinicians, nurses, and clinical managers) serving adult clients to attend the free workshops. </p>
+<p>One of the strategies for increasing adult immunization rates, both nationally and in Texas, is to have standing orders implemented with your medical practice.  In February, the Immunization Action Coalition will be hosting three four-hour workshops in Texas.  The workshops will provide information on the benefits of having standing orders implemented and how they can be implemented in a healthcare provider's office.  The DSHS Immunization Unit encourages healthcare providers (clinicians, nurses, and clinical managers) serving adult clients to attend the free workshops. </p>
 <p>The workshops will provide a great opportunity to meet and interact with nationally recognized speakers in adult immunizations:</p>
 <ul>
 	<li>L.J. Tan, MS, PhD, Chief Strategy Officer, Immunization Action Coalition</li>

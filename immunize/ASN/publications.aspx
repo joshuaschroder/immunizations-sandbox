@@ -3,6 +3,7 @@
 	include '/home/codio/workspace/includes/header.html';
     include '/home/codio/workspace/includes/menus/asn_menu.html'; 
 ?>
+
 <br/>
 <div class="suggResults" style="width:95%; padding: 10px;">
 	<p>You can now order printed copies of Adult Safety Net publications and have them shipped to your location via the <a title="Immunization Unit Online Order Form" href="https://secure.immunizetexasorderform.com/default.asp">Immunization Unit Online Order Form</a>.</p>
@@ -46,6 +47,8 @@
 		</tr>
 	</tbody>
 </table>
+
+<p>Also see the <a title="Texas Vaccines for Children Program Forms and Publications page" href="/immunize/tvfc/publications.aspx">Texas Vaccines for Children Program Forms and Publications page</a> for other documents related to the Adult Safety Net Program.</p>
 
 <br/>
 <h2>Adult Immunization Standards, Schedules, &amp; Recommendations</h2>

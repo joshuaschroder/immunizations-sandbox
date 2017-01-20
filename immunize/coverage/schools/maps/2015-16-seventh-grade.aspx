@@ -4,10 +4,16 @@
     include '/home/codio/workspace/includes/menus/no_menu.html'; 
 ?>
 
-<br/>
-<p>Download this data in an Excel spreadsheet: <a title="2015-2016 School Vaccination Coverage Levels - Seventh Grade Sample" href="/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=12884905304">2015-2016 School Vaccination Coverage Levels - Seventh Grade Sample (XLS)</a></p>
-<br/>
-
+<p>All public schools and accredited private schools in Texas are required to report immunization coverage levels through the DSHS Annual Report of Immunization Status. Immunization coverage levels for seventh grade students are available at the public school district level or at the individual accredited private school level. </p>
+<p>To download an Excel spreadsheet with a list of all schools/districts that reported seventh grade coverage levels, please click the link below:                    
+    <br/>                   
+    <a title="2015-2016 School Vaccination Coverage Levels - Seventh Grade Sample" href="/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=12884905304">2015-2016 School Vaccination Coverage Levels - Seventh Grade Sample (XLS)</a>.
+</p>
+<p>Please note that any values labeled #N/A were not reported.</p>
+<p></p>
+<hr/>
+<h2>Interactive Map Usage</h2>
+<p>In the right-hand column drop-down menu below, select the name of the school/district to view seventh grade coverage levels. Once the school/district is selected, click on the blue dot on the map to view coverage levels. </p>
 <div class='tableauPlaceholder' id='viz1480718171356' style='position: relative'>
 	<noscript>
 		<a href='#'><img alt='Dashboard 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;20&#47;2015-2016-School-Vaccination-Coverage-Levels-Seventh-Grade&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a>
