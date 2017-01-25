@@ -84,7 +84,7 @@
 	<hr/>
 	<h2>Which Vaccines do I Need?</h2>
 	<p style="clear:both;">To learn which vaccines you need, see the <a title="Recommended Adult Immunization Schedule" href="https://www.cdc.gov/vaccines/schedules/easy-to-read/adult-shell-easyread.html">Recommended Adult Immunization Schedule</a>.</p>
-	<p><a title="Recommended Adult Immunization Schedule" href="/immunize/ASN/adult-immunization-schedule.aspx"><img src="/uploadedImages/Content/Prevention_and_Preparedness/immunize/ASN/2016-adult-schedule-ez.png" alt="2016 Recommended Adult Immunization Schedule" title="2016 Recommended Adult Immunization Schedule" style="width:750px; height:auto;"></a></p>
+	<p><a title="Recommended Adult Immunization Schedule" href="https://www.cdc.gov/vaccines/schedules/easy-to-read/adult-shell-easyread.html"><img src="/uploadedImages/Content/Prevention_and_Preparedness/immunize/ASN/2016-adult-schedule-ez.png" alt="2016 Recommended Adult Immunization Schedule" title="2016 Recommended Adult Immunization Schedule" style="width:750px; height:auto;"></a></p>
 	<p>If you are an <a title="ImmTrac" href="http://www.dshs.texas.gov/immunize/immtrac/">ImmTrac</a> participant, you may also request your vaccination history by completing and submitting a <em>Authorization to Release ImmTrac History Form (Publication F11-11406)</em> from the <a title="Immtrac Forms and Publications" href="https://www.dshs.texas.gov/immunize/immtrac/forms.shtm">Immtrac Forms and Publications</a> page.</p>
 </div>
 

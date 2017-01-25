@@ -37,6 +37,6 @@
 	Fax: (512) 776-7288
 </p>
 
-<p>See the <a title="TVFC@dshs.state.tx.us" href="/immunize/tvfc/contact.aspx">TVFC contact page</a> for additional contact information.</p>
+<p>See the <a title="TVFC@dshs.texas.gov" href="/immunize/tvfc/contact.aspx">TVFC contact page</a> for additional contact information.</p>
 
 <?php include '/home/codio/workspace/includes/footer.html' ?>
