@@ -22,7 +22,7 @@
 	</li>
 </ul>
 <p><sup>1.</sup> Though children whose insurance pays for vaccines do not qualify for TVFC vaccine, CHIP children do qualify by special arrangement.</p>
-<p><sup>2. </sup> Underinsured children must be seen by a FQHC or deputized clinic.</p>
+<p><sup>2. </sup> Underinsured children must be seen by a Federally Qualified Health Center (FQHC), Regional Health Clinic (RHC), or deputized clinic.</p>
 
 <div style="width: 95%; padding: 15px; margin-bottom:25px; background-color:#EEE;">
 	<strong><em>For information on low-cost adult immunizations, please see the <a title="Adult Safety Net Program" href="/immunize/ASN/">Adult Safety Net Program</a></em></strong>.

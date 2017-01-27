@@ -43,8 +43,9 @@
 <h2>Where to get the HPV Vaccine in Texas</h2>
 <ul>
 	<li>City or county health department</li>
+	<li>Call your <a title="Regional DSHS Field Offices" href="https://www.dshs.texas.gov/regions/">Regional DSHS Field Office</a></li>
 	<li>Call <a title="2-1-1 Texas" href="http://www.211texas.org/">2-1-1 Texas</a></li>
-	<li>Call 1.800.252.9152 </li>
+	<li>Call the DSHS Immunization Unit at: (800) 252-9152 </li>
 	<li>For email: please provide your zip code and city </li>
 	<li>Ask your doctor or nurse </li>
 </ul>
@@ -57,11 +58,15 @@
 <h3>DSHS Vaccine Advisories</h3>
 <ul>
 	<li>
-		<a title="Advisory No. 25. Updated Recommendations for Use of Human Papillomavirus (HPV) 9-Valent Vaccine, Recombinant" href="/immunize/vacadvise/Advisory-25.aspx">Advisory 25. Updated Recommendations for Use of Human Papillomavirus 9-Valent Vaccine, Recombinant (PDF)</a><br/>
+		<a title="Advisory No. 28. CDC Recommends Two HPV Shots for Younger Adolescents" href="/immunize/vacadvise/Advisory-28.aspx">Advisory 28. CDC Recommends Two HPV Shots for Younger Adolescents</a><br/>
 		Issued June 15, 2015<br/><br/>
 	</li>
 	<li>
-		<a title="Advisory No. 14. Updated Recommendations for the Use of Human Papillomavirus (HPV) Vaccine, Including Use in Males" href="/immunize/vacadvise/Advisory-14.aspx">Advisory 14. Updated Recommendations for the Use of Human Papillomavirus Vaccine, Including Use in Males (PDF)</a><br/>
+		<a title="Advisory No. 25. Updated Recommendations for Use of Human Papillomavirus (HPV) 9-Valent Vaccine, Recombinant" href="/immunize/vacadvise/Advisory-25.aspx">Advisory 25. Updated Recommendations for Use of Human Papillomavirus 9-Valent Vaccine, Recombinant</a><br/>
+		Issued June 15, 2015<br/><br/>
+	</li>
+	<li>
+		<a title="Advisory No. 14. Updated Recommendations for the Use of Human Papillomavirus (HPV) Vaccine, Including Use in Males" href="/immunize/vacadvise/Advisory-14.aspx">Advisory 14. Updated Recommendations for the Use of Human Papillomavirus Vaccine, Including Use in Males</a><br/>
 		Issued April 1, 2010
 	</li>
 </ul>

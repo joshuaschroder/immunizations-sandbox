@@ -8,7 +8,7 @@
 
 <div style="width:30%; margin-right:3%; float:left;">
 	<hr/>
-	<h2>School Immunization Requirements</h2>
+	<h2>School &amp; Child-Care Immunization Requirements</h2>
 	<p>Learn about which vaccines students are required to have in order to attend schools, colleges, and universities in Texas.<a style="border:1px solid #42649B;display:block;margin:10px 0;padding:10px;text-align:center;text-decoration:none;width:125px; " title="School Immunizations Homepage" href="/immunize/school/school-requirements.aspx">Continue Reading</a></p>
 	<br/>
 </div>

@@ -6,7 +6,7 @@
 
 <hr/>
 <h2>About the Program</h2>
-<p>Currently, there are significant numbers of adults in Texas who are not immunized for recommended vaccinations, meaning that they are at an increased risk of developing vaccine-preventable diseases. Your participation in the ASN Program would help to address this important public health issue by providing access to vaccines for uninsured adults. Also, since ASN Program vaccines are of no cost to your facility, and you may charge an administration fee of up to $25 per vaccine, joining the ASN Program is both beneficial to your business, as well as to the health of Texans.</p>
+<p>Currently, there are significant numbers of adults in Texas who are not immunized for recommended vaccinations, meaning that they are at an increased risk of developing vaccine-preventable diseases. Your participation in the ASN Program would help to address this important public health issue by providing access to vaccines for uninsured adults. Also, since the vaccines offered in the ASN Program are provided at no cost to your facility, you may charge an administration fee of up to $25 per dose of vaccine. Joining the ASN Program is beneficial to both your business and to the health of uninsured adults in Texas.</p>
 
 <hr/>
 <h2>Provider Eligibility</h2>
