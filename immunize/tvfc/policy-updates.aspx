@@ -9,6 +9,40 @@
 	<tbody>
 		<tr>
 			<td style="width: 10%; cursor: default;">Title:</td>
+			<td><b><a title="2017 Texas Vaccines for Children Program Provider Re-Enrollment Reminder" href="/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=12884909069" draggable="false">2017 Texas Vaccines for Children Program Provider Re-Enrollment Reminder (PDF)</a></b></td>
+		</tr>
+		<tr>
+			<td style="width: 10%; cursor: default;">Date:</td>
+			<td style="cursor: default;">January 31, 2017</td> 
+		</tr>
+		<tr>
+			<td style="width: 10%; cursor: default;">Summary:</td>
+			<td style="cursor: default;">The Texas Vaccines for Children (TVFC) Program would like to remind providers of the 2017 annual re-enrollment period that is now open. The re-enrollment period opened on 01/09/2017 and will close on 02/03/2017.</td>
+		</tr>
+	</tbody>
+</table>
+<hr/>
+<table class="layout"  style="width: 100%;"  dropzone="copy">
+	<tbody>
+		<tr>
+			<td style="width: 10%; cursor: default;">Title:</td>
+			<td><b><a title="Updated Process for Determining Provider Maximum Stock Levels" href="/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=12884908971" draggable="false">Updated Process for Determining Provider Maximum Stock Levels (PDF)</a></b></td>
+		</tr>
+		<tr>
+			<td style="width: 10%; cursor: default;">Date:</td>
+			<td style="cursor: default;">January 31, 2017</td> 
+		</tr>
+		<tr>
+			<td style="width: 10%; cursor: default;">Summary:</td>
+			<td style="cursor: default;">The Centers for Disease Control and Prevention (CDC) now recommends smaller, more frequent orders rather than larger orders to minimize the amount of vaccines lost if an incident occurs.</td>
+		</tr>
+	</tbody>
+</table>
+<hr/>
+<table class="layout"  style="width: 100%;"  dropzone="copy">
+	<tbody>
+		<tr>
+			<td style="width: 10%; cursor: default;">Title:</td>
 			<td><b><a title="ACIP Recommendations for Use of a 2-Dose Schedule for Human Papillomavirus Vaccination" href="/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=12884907899" draggable="false">ACIP Recommendations for Use of a 2-Dose Schedule for Human Papillomavirus Vaccination (PDF)</a></b></td>
 		</tr>
 		<tr>

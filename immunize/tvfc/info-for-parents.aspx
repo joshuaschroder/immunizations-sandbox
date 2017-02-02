@@ -4,14 +4,11 @@
     include '/home/codio/workspace/includes/menus/tvfc_menu.html'; 
 ?>
 
-<!--p>Your child may be eligible for low-cost vaccines through the Texas Vaccines for Children (TVFC) program. TVFC is a state-operated program funded with federal and state money to provide low-cost vaccines to eligible children from birth through 18 years of age.</p>
-<p>Infants are particularly vulnerable to infectious diseases; that is why it is critical to protect them through immunization. Completing the full series of vaccines for your child or children is important to ensure they have the best protection against serious childhood diseases and dangerous complications. Getting all of the suggested vaccines in their first year is a great start. Immunization is one of the most important things a parents can do to protect their children’s health. Failure to vaccinate may mean putting children at risk for serious diseases.</p-->
-
 <p>The Texas Vaccines for Children (TVFC) program provides low-cost vaccines to eligible children from birth through 18 years of age who meet one or more of the following criteria:</p>
 <ul>
 	<li>Eligible for participation in the <a title="Medicaid program" href="https://yourtexasbenefits.hhsc.texas.gov/programs/health/child/childrens-medicaid">Medicaid program</a></li>
 	<li>Enrolled in the <a title="Children's Health Insurance Program (CHIP)" href="https://yourtexasbenefits.hhsc.texas.gov/programs/health/child/chip">Children's Health Insurance Program (CHIP)</a> <sup>1</sup></li>
-	<li>American Indians or Alaskan natives</li>
+	<li>American Indian or Alaska Native (As defined by <a title="25 U.S.C. 1603 - Definitions" href="https://www.gpo.gov/fdsys/granule/USCODE-2011-title25/USCODE-2011-title25-chap18-other-sec1603/content-detail.html">25 U.S.C. 1603</a>)</li>
 	<li>Uninsured Children: Children who do not have health insurance</li>
 	<li>Underinsured Children: Children with private insurance but coverage <sup>2</sup>:
 		<ul>

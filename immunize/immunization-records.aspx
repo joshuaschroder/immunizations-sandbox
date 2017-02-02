@@ -10,7 +10,7 @@
 
 <hr/>
 <h2>Obtaining Records from Your School</h2>
-<p>If you need proof of immunization for your child or yourself, contact the last school that was attended. Schools are required to keep records for a minimum number of years so this may be an option to obtain shot records for your child or yourself..</p>
+<p>If you need proof of immunization for your child or yourself, contact the last school that was attended. Schools are required to keep records for a minimum number of years.</p>
 
 <hr/>
 <h2>ImmTrac Registry</h2>

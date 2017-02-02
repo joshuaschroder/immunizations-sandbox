@@ -18,7 +18,7 @@
 <a class="bookmark" title="what" name="what"></a>
 <hr/>
 <h2>What is HPV?</h2>
-<p>HPV is a common virus that is passed on through sexual contact. Most of the time, HPV has no symptoms; so people do not know they have it. There are many different strains or types of HPV. Some types can cause cervical cancer in women and can also cause other kinds of cancer in both men and women. Other types of HPV can cause genital warts in both males and females. Information from the <a title="Centers for Disease Control and Prevention HPV page" href="http://www.cdc.gov/hpv/">Centers for Disease Control and Prevention HPV page</a>.</p>
+<p>HPV is a common virus that is passed on through sexual contact. Most of the time, HPV has no symptoms, so people do not know they have it. There are many different strains or types of HPV. Some types can cause cervical cancer in women and can also cause other kinds of cancer in both men and women. Other types of HPV can cause genital warts in both men and women. Information from the <a title="Centers for Disease Control and Prevention HPV page" href="http://www.cdc.gov/hpv/">Centers for Disease Control and Prevention HPV page</a>.</p>
 
 <a class="bookmark" title="available" name="available"></a>
 <hr/>

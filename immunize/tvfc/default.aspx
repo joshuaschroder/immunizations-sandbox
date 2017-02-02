@@ -6,7 +6,7 @@
 
 <p>Since its inception in 1994, Texas has participated in the Federal <a title="Vaccines for Children Program (VFC)" href="http://www.cdc.gov/vaccines/programs/vfc/index.html">Vaccines for Children Program (VFC)</a>. Our version is called the Texas Vaccines for Children Program (TVFC). The Program was initiated by the passage of the Omnibus Budget Reconciliation Act of 1993. This legislation guaranteed vaccines would be available at no cost to providers, in order to immunize children (birth - 18 years of age) who meet the eligibility requirements.</p>
 
-<p>Today there are more than 9,900 Texas providers enrolled in TVFC. Texas leads the nation in the number of uninsured and underinsured children. We also have over 3 million Texas children on Medicaid (Federal Fiscal Year 2009 data). Many of these children are not receiving the complete series of immunizations required to protect them from vaccine-preventable diseases.</p>
+<p>Today there are approximately 3,200 Texas providers enrolled in TVFC. Texas leads the nation in the number of uninsured and underinsured children. We also have approximately 3 million Texas children on Medicaid (Federal Fiscal Year 2016 data). Many of these children are not receiving the complete series of immunizations required to protect them from vaccine-preventable diseases.</p>
 
 <hr/>
 <div style="width:46%; margin-right:2%; float:left;">
@@ -21,7 +21,7 @@
 	<h2>For Healthcare Providers</h2>
 	<p>
 		By enrolling in TVFC, eligible providers can provide innumerable benefits to the families in your practice, and to the people of Texas.<br/>
-		<a title="Find an ASN Provider" href="/immunize/tvfc/provider-enrollment.aspx" style="background-color:#496FAB; color:#FFF; display:block; text-align:center; text-decoration:none; padding:10px; margin:20px 0; width:155px;">Become a TVFC Provider</a>		
+		<a title="Find an ASN Provider" href="/immunize/tvfc/info-for-providers.aspx" style="background-color:#496FAB; color:#FFF; display:block; text-align:center; text-decoration:none; padding:10px; margin:20px 0; width:155px;">Become a TVFC Provider</a>		
 	</p>
 	<hr/>
 </div>

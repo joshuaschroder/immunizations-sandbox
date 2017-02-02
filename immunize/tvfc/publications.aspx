@@ -10,6 +10,7 @@
 <p><strong>TVFC Forms</strong>
 </p>
 <ul>  
+    <li><a title="Vaccine Inventory, Storage, and Reporting"  href="#provider-manual">Texas Vaccines for Children Provider Manual</a></li>  
     <li><a title="Vaccine Inventory, Storage, and Reporting"  href="#vaccine-inventory">Vaccine Inventory, Storage, and Reporting</a></li>  
     <li><a title="Patient Eligibility / Referral"  href="#patient-eligibility">Patient Eligibility / Referral</a></li>  
     <li><a title="Provider Enrollment and Withdrawal"  href="#provider-enrollment">Provider Enrollment and Withdrawal</a></li>  
@@ -27,8 +28,90 @@
 <div class="Section"  id="Manuals-Forms">  
     <h2>Manuals and Forms</h2>  
     <a class="bookmark"  title="provider-manual"  name="provider-manual"></a>  
-    <!--h3 style="margin-left:20px;">Provider Manual</h3><table class="zebraBorder layout"  summary="sorted by chapter number, ascending"  style="width:95%; margin-left:20px;"  dropzone="copy"><caption>Texas Vaccines for Children Provider Manual by Chapter</caption><thead><tr><th scope="col"  style="width:15%;">Section</th><th scope="col"  style="width:65%;">Title</th><th scope="col"  style="width:20%;">Revision Date</th></tr></thead><tbody><tr><td>Introduction</td><td><a title="Introduction to the Provider Manual and the TVFC Program"                    href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=12884906334" data-ektron-url="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=12884906334"                                     draggable="false">Introduction to the Provider Manual and the TVFC Program (PDF)</a></td><td>09/2016</td></tr><tr><td>Chapter 1</td><td><a title="Provider Eligibility and Enrollment"                    href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=12884906335" data-ektron-url="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=12884906335"                                     draggable="false">Provider Eligibility and Enrollment (PDF)</a></td><td>09/2016</td></tr><tr><td>Chapter 2</td><td><a title="Patient Eligibility and Screening"                    href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=12884906336" data-ektron-url="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=12884906336"                                     draggable="false">Patient Eligibility and Screening (PDF)</a></td><td>09/2016</td></tr><tr><td>Chapter 3</td><td><a title="Vaccine Management"                    href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=12884906337" data-ektron-url="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=12884906337"                                     draggable="false">Vaccine Management (PDF)</a></td><td>09/2016</td></tr><tr><td>Chapter 4</td><td><a title="Vaccine Loss and Appeal"                    href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=12884906338" data-ektron-url="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=12884906338"                                     draggable="false">Vaccine Loss and Appeal (PDF)</a></td><td>09/2016</td></tr><tr><td>Chapter 5</td><td><a title="Billing and Administration"                    href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=12884906339" data-ektron-url="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=12884906339"                                     draggable="false">Billing and Administration (PDF)</a></td><td>09/2016</td></tr><tr><td>Chapter 6</td><td><a title="Program Evaluation"                    href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=12884906340" data-ektron-url="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=12884906340"                                     draggable="false">Program Evaluation (PDF)</a></td><td>09/2016</td></tr><tr><td>Chapter 7</td><td><a title="Fraud and Abuse"                    href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=12884906341" data-ektron-url="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=12884906341"                                     draggable="false">Fraud and Abuse (PDF)</a></td><td>09/2016</td></tr><tr><td>Chapter 8</td><td><a title="Documentation Requirements"                    href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=12884906342" data-ektron-url="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=12884906342"                                     draggable="false">Documentation Requirements (PDF)</a></td><td>09/2016</td></tr><tr><td>Chapter 9</td><td><a title="Adult Safety Net (ASN) Program"                    href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=12884906343" data-ektron-url="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=12884906343"                                     draggable="false">Adult Safety Net (ASN) Program (PDF)</a></td><td>09/2016</td></tr><tr><td>Chapter 10</td><td><a title="Vaccine Information Statements (VIS)"                    href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=12884906344" data-ektron-url="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=12884906344"                                     draggable="false">Vaccine Information Statements (VIS) (PDF)</a></td><td>09/2016</td></tr><tr><td>Chapter 11</td><td><a title="Ordering Forms and Literature"                    href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=12884906345" data-ektron-url="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=12884906345"                                     draggable="false">Ordering Forms and Literature (PDF)</a></td><td>09/2016</td></tr><tr><td>Chapter 12</td><td><a title="Immunization Resources"                    href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=12884906346" data-ektron-url="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=12884906346"                                     draggable="false">Immunization Resources (PDF)</a></td><td>09/2016</td></tr><tr><td>Full Manual</td><td><a title="Texas Vaccines for Children Program - Provider Manual"                    href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=12884906347" data-ektron-url="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=12884906347"                                     draggable="false">Texas Vaccines for Children Program - Provider Manual (PDF)</a></td><td>09/2016</td></tr></tbody></table-->  
-
+	<h3 style="margin-left:20px;">Provider Manual</h3>
+	<table class="zebraBorder layout" summary="sorted by chapter number, ascending" style="width:95%; margin-left:20px;" dropzone="copy">
+		<caption>Texas Vaccines for Children Provider Manual</caption>
+		<thead>
+			<tr>
+				<th scope="col" style="width:15%;">Section</th>
+				<th scope="col" style="width:65%;">Title</th>
+				<th scope="col" style="width:20%;">Revision Date</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td>Introduction</td>
+				<td><a title="Introduction to the Provider Manual and the TVFC Program" href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=12884909059">Introduction to the Provider Manual and the TVFC Program (PDF)</a></td>
+				<td>01/2017</td>
+			</tr>
+			<tr>
+				<td>Chapter 1</td>
+				<td><a title="Provider Eligibility and Enrollment" href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=12884909047">Provider Eligibility and Enrollment (PDF)</a></td>
+				<td>01/2017</td>
+			</tr>
+			<tr>
+				<td>Chapter 2</td>
+				<td><a title="Patient Eligibility and Screening" href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=12884909048">Patient Eligibility and Screening (PDF)</a></td>
+				<td>01/2017</td>
+			</tr>
+			<tr>
+				<td>Chapter 3</td>
+				<td><a title="Vaccine Management" href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=12884909050">Vaccine Management (PDF)</a></td>
+				<td>01/2017</td>
+			</tr>
+			<tr>
+				<td>Chapter 4</td>
+				<td><a title="Billing and Administration" href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=12884909049">Billing and Administration (PDF)</a></td>
+				<td>01/2017</td>
+			</tr>
+			<tr>
+				<td>Chapter 5</td>
+				<td><a title="Program Evaluation" href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=12884909051">Program Evaluation (PDF)</a></td>
+				<td>01/2017</td>
+			</tr>
+			<tr>
+				<td>Chapter 6</td>
+				<td><a title="Fraud and Abuse" href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=12884909052">Fraud and Abuse (PDF)</a></td>
+				<td>01/2017</td>
+			</tr>
+			<tr>
+				<td>Chapter 7</td>
+				<td><a title="Documentation Requirements" href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=12884909053">Documentation Requirements (PDF)</a></td>
+				<td>01/2017</td>
+			</tr>
+			<tr>
+				<td>Chapter 8</td>
+				<td><a title="Adult Safety Net (ASN) Program" href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=12884909054">Adult Safety Net (ASN) Program (PDF)</a></td>
+				<td>01/2017</td>
+			</tr>
+			<tr>
+				<td>Chapter 9</td>
+				<td><a title="Vaccine Information Statements (VIS)" href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=12884909055">Vaccine Information Statements (VIS) (PDF)</a></td>
+				<td>01/2017</td>
+			</tr>
+			<tr>
+				<td>Chapter 10</td>
+				<td><a title="Ordering Forms and Literature" href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=12884909056">Ordering Forms and Literature (PDF)</a></td>
+				<td>01/2017</td>
+			</tr>
+			<tr>
+				<td>Chapter 11</td>
+				<td><a title="Immunization Resources" href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=12884909057">Immunization Resources (PDF)</a></td>
+				<td>01/2017</td>
+			</tr>
+			<tr>
+				<td>Changelog</td>
+				<td><a title="Summary of Changes" href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=12884909058">Summary of Changes and Updates (PDF)</a></td>
+				<td>01/2017</td>
+			</tr>
+			<tr>
+				<td>Full Manual</td>
+				<td><a title="Texas Vaccines for Children Program - Provider Manual" href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=12884909020">Texas Vaccines for Children Program - Provider Manual (PDF)</a></td>
+				<td>01/2017</td>
+			</tr>
+		</tbody>
+	</table>
+	
 	<br/>  
     <a class="bookmark"  title="vaccine-inventory"  name="vaccine-inventory"></a>  
     <h3 style="margin-left:20px;">Vaccine Inventory, Storage, and Reporting</h3>  
@@ -42,7 +125,11 @@
 			</tr>
 		</thead>    
 		<tbody>      
-			<!--tr><td>C-33-A (PDF)</td><td><a title="Monthly Biological Report"                      href="/immunize/docs/ec-33.pdf" data-ektron-url="/immunize/docs/ec-33.pdf"                                          >Monthly Biological Report (PDF)</a></td><td>03/2016</td></tr><tr><td>C-33-A (XLS)</td><td><a title="Monthly Biological Report"                      href="/immunize/docs/C-33-A.xls" data-ektron-url="/immunize/docs/C-33-A.xls"                                          >Monthly Biological Report (XLS)</a></td><td>02/2012</td></tr-->      
+			<tr>
+				<td>C-33 (PDF)</td>
+				<td><a title="Monthly Biological Report" href="/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=12884909061">Monthly Biological Report (PDF)</a></td>
+				<td>03/2016</td>
+			</tr>
 			<tr>        
 				<td><a title="C-68" name="C-68"></a>C-68</td>        
 				<td>          

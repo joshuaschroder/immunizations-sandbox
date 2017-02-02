@@ -5,6 +5,10 @@
 ?>
 <br/>
 <hr/>
+<h2>2017 Adult Safety Net Program Provider Re-Enrollment Reminder</h2>
+<p><em>January 31, 2017</em></p>
+<p>The Texas Vaccines for Children (TVFC) Program would like to remind providers of the 2017 annual re-enrollment period for the Adult Safety Net (ASN) Program that is now open. The re-enrollment period opened on January 9, 2017 will close on Friday, February 3, 2017. If you have not already done so, please complete your clinic’s re-enrollment process. <br/><br/><a title="Continue Reading: 2017 Adult Safety Net Program Provider Re-Enrollment Reminder (PDF)" href="/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=12884909070">Continue Reading (PDF)</a></p>
+<hr/>
 <h2>Take A Stand! Use Standing Orders to Vaccinate Adults - Free Workshops</h2>
 <p><em>January 15, 2016</em></p>
 <p>One of the strategies for increasing adult immunization rates, both nationally and in Texas, is to have standing orders implemented with your medical practice.  In February, the Immunization Action Coalition will be hosting three four-hour workshops in Texas.  The workshops will provide information on the benefits of having standing orders implemented and how they can be implemented in a healthcare provider's office.  The DSHS Immunization Unit encourages healthcare providers (clinicians, nurses, and clinical managers) serving adult clients to attend the free workshops. </p>
